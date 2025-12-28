@@ -3,7 +3,7 @@
   <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
     <ID>{3c9f95a0-8888-43a3-b3db-dcae34034f2d}</ID>
     <Name>prod-config</Name>
-    <Version>1.6</Version>
+    <Version>1.8</Version>
     <OwnerType>SystemIntegrator</OwnerType>
     <Rank>0</Rank>
     <Notes></Notes>
@@ -64,7 +64,7 @@
               <InstallLanguage>True</InstallLanguage>
             </Language>
             <Language LanguageId="es-US" Name="es-US">
-              <CopyToDeviceInternationalSettings>True</CopyToDeviceInternationalSettings>
+              <CopyToDeviceInternationalSettings>False</CopyToDeviceInternationalSettings>
               <EnableLanguageFeatureInstallations>True</EnableLanguageFeatureInstallations>
               <InstallLanguage>True</InstallLanguage>
             </Language>
