@@ -1,8 +1,9 @@
 Write-Host "Inside powershell script"
 #winget install "Microsoft Family Safety" --source msstore
-Get-AppXPackage Microsoft.OutlookForWindows | Remove-AppxPackage
-Get-AppXPackage Advanc* | Remove-AppXPackage
-Get-AppXPackage RealtekSemiconductorCorp.HPAudio* | Remove-AppXPackage
+Get-AppXPackage Microsoft.OutlookForWindows -AllUsers | Remove-AppxPackage
+Get-AppXPackage Advanc* -AllUsers | Remove-AppXPackage
+Get-AppXPackage RealtekSemiconductorCorp.HPAudio* -AllUsers | Remove-AppXPackage
+Get-AppxPackage Microsoft.YourPhone -AllUsers | Remove-AppxPackage
 
 D:\importBookmarks.ps1
 D:\importBookmarks-Healthcare.ps1
