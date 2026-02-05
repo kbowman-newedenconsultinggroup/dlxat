@@ -24,7 +24,8 @@ $backupPath = "$edgeProfilePath.bak"
 # Example bookmarks to add
 $newBookmarks = @(
     @{ name = "Teknimedia"; url = "https://www.e-learning.com/html/loginok.asp" },
-    @{ name = "Edmentum"; url = "https://auth.edmentum.com/elf/login" }
+    @{ name = "Edmentum"; url = "https://auth.edmentum.com/elf/login" },
+    @{ name = "Veterans Affairs"; url = "https://www.va.gov/sign-in/?application=mhv&to=home&oauth=false" }
 )
 
 try {
