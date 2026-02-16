@@ -3,7 +3,7 @@
   <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
     <ID>{3c9f95a0-8888-43a3-b3db-dcae34034f2d}</ID>
     <Name>prod-config</Name>
-    <Version>1.10</Version>
+    <Version>1.11</Version>
     <OwnerType>SystemIntegrator</OwnerType>
     <Rank>0</Rank>
     <Notes></Notes>
@@ -29,10 +29,6 @@
               <ItemName>Computer Support</ItemName>
               <ItemUrl>https://support.kcconnect.me</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="bOutlookEmail" Name="OutlookEmail">
-              <ItemName>Outlook Email</ItemName>
-              <ItemUrl>https://outlook.office.com</ItemUrl>
-            </FavoriteBarItem>
             <FavoriteBarItem FavoriteItem="cOffice" Name="Office">
               <ItemName>Microsoft Office</ItemName>
               <ItemUrl>https://office.com</ItemUrl>
@@ -44,6 +40,14 @@
             <FavoriteBarItem FavoriteItem="eDLX Home" Name="DLX Program">
               <ItemName>DLX Program</ItemName>
               <ItemUrl>https://kcconnect.me</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="fKCKPL" Name="fKCKPL">
+              <ItemName>KCK Public Library</ItemName>
+              <ItemUrl>https://www.kckpl.org/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="gJoCoPL" Name="gJoCoPL">
+              <ItemName>JohnsonCo Public Library</ItemName>
+              <ItemUrl>https://www.jocolibrary.org/</ItemUrl>
             </FavoriteBarItem>
           </FavoriteBarItems>
         </Browser>
