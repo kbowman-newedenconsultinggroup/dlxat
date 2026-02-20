@@ -401,49 +401,6 @@
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/bOutlookEmail">
-      <Type>Tree</Type>
-      <Name>bOutlookEmail</Name>
-      <Description></Description>
-      <Guid>{efda4fb5-27ed-51a7-8f37-edf7b0a0b87f}</Guid>
-      <IsLeaf>False</IsLeaf>
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/bOutlookEmail/ItemFavIconFile">
-      <Type>Text</Type>
-      <Name>ItemFavIconFile</Name>
-      <Description>Favorites bar item icon path</Description>
-      <Guid>{e5c634a3-9bad-5004-95a1-e1c1c37767f6}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/bOutlookEmail/ItemName">
-      <Type>Text</Type>
-      <Name>ItemName</Name>
-      <Description>Favorites bar item name</Description>
-      <Guid>{bb657329-93a5-5498-8d42-db36f7afd982}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/bOutlookEmail/ItemUrl">
-      <Type>Text</Type>
-      <Name>ItemUrl</Name>
-      <Description>Favorites bar item url</Description>
-      <Guid>{54b3fb68-b3a1-5c74-ad1e-6d8739d92805}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
     <Setting URI="/Browser/FavoriteBarItems/cOffice">
       <Type>Tree</Type>
       <Name>cOffice</Name>
@@ -567,6 +524,92 @@
       <Name>ItemUrl</Name>
       <Description>Favorites bar item url</Description>
       <Guid>{92f92b1a-292a-5351-86ad-53f7df320608}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/fKCKPL">
+      <Type>Tree</Type>
+      <Name>fKCKPL</Name>
+      <Description></Description>
+      <Guid>{e8bbf195-115c-59bb-9df3-af992996dd80}</Guid>
+      <IsLeaf>False</IsLeaf>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/fKCKPL/ItemFavIconFile">
+      <Type>Text</Type>
+      <Name>ItemFavIconFile</Name>
+      <Description>Favorites bar item icon path</Description>
+      <Guid>{02911e39-70cb-5e40-9129-2a6b7f12c8c0}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/fKCKPL/ItemName">
+      <Type>Text</Type>
+      <Name>ItemName</Name>
+      <Description>Favorites bar item name</Description>
+      <Guid>{643119ca-b33d-5669-9d36-db445ea2adcf}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/fKCKPL/ItemUrl">
+      <Type>Text</Type>
+      <Name>ItemUrl</Name>
+      <Description>Favorites bar item url</Description>
+      <Guid>{8e049dc2-245f-50e3-b8e2-a965d420c423}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/gJoCoPL">
+      <Type>Tree</Type>
+      <Name>gJoCoPL</Name>
+      <Description></Description>
+      <Guid>{b3060100-c306-5ced-906e-b6f20936d878}</Guid>
+      <IsLeaf>False</IsLeaf>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/gJoCoPL/ItemFavIconFile">
+      <Type>Text</Type>
+      <Name>ItemFavIconFile</Name>
+      <Description>Favorites bar item icon path</Description>
+      <Guid>{92e4dfab-80de-5e50-991c-1646916e6b30}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/gJoCoPL/ItemName">
+      <Type>Text</Type>
+      <Name>ItemName</Name>
+      <Description>Favorites bar item name</Description>
+      <Guid>{2053d4fd-b01e-5dba-8674-120da8bb48d1}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/gJoCoPL/ItemUrl">
+      <Type>Text</Type>
+      <Name>ItemUrl</Name>
+      <Description>Favorites bar item url</Description>
+      <Guid>{3de5163d-a434-5057-828c-20fdde6f3366}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>

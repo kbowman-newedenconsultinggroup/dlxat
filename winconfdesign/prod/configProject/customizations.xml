@@ -3,7 +3,7 @@
   <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
     <ID>{3c9f95a0-8888-43a3-b3db-dcae34034f2d}</ID>
     <Name>prod-config</Name>
-    <Version>1.11</Version>
+    <Version>1.12</Version>
     <OwnerType>SystemIntegrator</OwnerType>
     <Rank>0</Rank>
     <Notes></Notes>
@@ -25,21 +25,21 @@
         </Accounts>
         <Browser>
           <FavoriteBarItems>
-            <FavoriteBarItem FavoriteItem="aSupportPortal" Name="SupportPortal">
+            <FavoriteBarItem FavoriteItem="aSupportPortal" Name="aSupportPortal">
               <ItemName>Computer Support</ItemName>
-              <ItemUrl>https://support.kcconnect.me</ItemUrl>
+              <ItemUrl>https://support.kcconnect.me/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="cOffice" Name="Office">
+            <FavoriteBarItem FavoriteItem="bOffice" Name="bOffice">
               <ItemName>Microsoft Office</ItemName>
-              <ItemUrl>https://office.com</ItemUrl>
+              <ItemUrl>https://office.com/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="dKansas Works" Name="Kansas Works">
-              <ItemName>KansasWorks</ItemName>
-              <ItemUrl>https://www.kansasworks.com/</ItemUrl>
-            </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="eDLX Home" Name="DLX Program">
+            <FavoriteBarItem FavoriteItem="cDLXHome" Name="cDLXHome">
               <ItemName>DLX Program</ItemName>
-              <ItemUrl>https://kcconnect.me</ItemUrl>
+              <ItemUrl>https://kcconnect.me/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="eKansasWorks" Name="eKansasWorks">
+              <ItemName>Kansas Works</ItemName>
+              <ItemUrl>https://www.kansasworks.com/</ItemUrl>
             </FavoriteBarItem>
             <FavoriteBarItem FavoriteItem="fKCKPL" Name="fKCKPL">
               <ItemName>KCK Public Library</ItemName>
