@@ -3,3 +3,4 @@ ICDCommon*.log
 *.msi
 *.msix
 teams.cab
+hp-warrantychecker/*.csv
