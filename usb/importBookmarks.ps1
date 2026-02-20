@@ -23,6 +23,7 @@ $backupPath = "$edgeProfilePath.bak"
 
 # Example bookmarks to add
 $newBookmarks = @(
+    @{ name = "Outlook Mail"; url = "https://outlook.live.com/mail/0/" },
     @{ name = "Yahoo Mail"; url = "https://mail.yahoo.com/n/inbox/" },
     @{ name = "MSN Mail"; url = "https://outlook.live.com/mail/0/" },
     @{ name = "iCloud Mail"; url = "https://www.icloud.com/mail" },

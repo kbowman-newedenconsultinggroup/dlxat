@@ -4736,3 +4736,163 @@ Setting constraint violation (0x8007000d) for /ProvisioningCommands/PrimaryConte
 2/19/2026 7:22:50 PM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-192232-448_6368.4_212628484.1' does not exist
 2/19/2026 7:22:50 PM Info Media Creation Build Success page
 2/19/2026 7:23:04 PM Info Build workflow finished.
+2/19/2026 7:40:20 PM Info Project 'configProject' created successfully and added to workspace
+2/19/2026 7:40:46 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:49 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:53 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:53 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:54 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:54 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:55 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:57 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:57 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:58 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:58 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:58 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:40:58 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:41:02 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:41:12 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-connectivityprofiles#wlan
+2/19/2026 7:41:46 PM Info Start Provisioning package Build for Project: configProject
+2/19/2026 7:42:10 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-827_6516.6_1310058896.1'
+2/19/2026 7:42:10 PM Info Adding runtime settings to Provisioning Package
+2/19/2026 7:42:10 PM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\1__Accounts_Users_TCKC-Admin.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\2__Browser_FavoriteBarItems_aSupportPortal.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\3__Browser_FavoriteBarItems_bOffice.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\4__Browser_FavoriteBarItems_cDLXHome.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\5__Browser_FavoriteBarItems_eKansasWorks.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\6__Browser_FavoriteBarItems_fKCKPL.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\7__Browser_FavoriteBarItems_gJoCoPL.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\8__DeviceFormFactor_DeviceForm.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\9__LanguagePackManagement_LanguagePackInstall_en-US.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\10__LanguagePackManagement_LanguagePackInstall_es-US.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\11__LanguagePackManagement_SystemPreferredUILanguage.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\12__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\13__Policies_Browser_ConfigureFavoritesBar.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\14__Policies_Update_AllowAutoUpdate.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\15__Policies_Experience_DoNotShowFeedbackNotifications.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\16__Policies_Power_UnattendedSleepTimeoutPluggedIn.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\17__Policies_Privacy_DisableAdvertisingId.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\18__Policies_TimeLanguageSettings_ConfigureTimeZone.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\19__CleanPC.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\20__DevDetail_DNSComputerName.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\21__OOBE_Desktop_HideOobe.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\22__ProvisioningCommands_PrimaryContext_Command_0_CommandFile.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\23__ProvisioningCommands_PrimaryContext_Command_0_CommandLine.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\24__ProvisioningCommands_PrimaryContext_Command_0_ContinueInstall.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\25__ProvisioningCommands_PrimaryContext_Command_0_RestartRequired.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\26__ProvisioningCommands_PrimaryContext_Command_1_CommandFile.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\27__ProvisioningCommands_PrimaryContext_Command_1_CommandLine.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\28__ProvisioningCommands_PrimaryContext_Command_1_ContinueInstall.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\29__ProvisioningCommands_PrimaryContext_Command_1_DependencyPackages_0.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\30__ProvisioningCommands_PrimaryContext_Command_1_RestartRequired.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\31__ProvisioningCommands_PrimaryContext_Command_2_CommandFile.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\32__ProvisioningCommands_PrimaryContext_Command_2_CommandLine.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\33__ProvisioningCommands_PrimaryContext_Command_2_ContinueInstall.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\34__ProvisioningCommands_PrimaryContext_Command_2_RestartRequired.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\35__ProvisioningCommands_PrimaryContext_Command_3_CommandFile.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\36__ProvisioningCommands_PrimaryContext_Command_3_CommandLine.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\37__ProvisioningCommands_PrimaryContext_Command_3_ContinueInstall.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\38__ProvisioningCommands_PrimaryContext_Command_3_DependencyPackages_0.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\39__ProvisioningCommands_PrimaryContext_Command_3_RestartRequired.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\40__ProvisioningCommands_PrimaryContext_Command_4_CommandFile.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\41__ProvisioningCommands_PrimaryContext_Command_4_CommandLine.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\42__ProvisioningCommands_PrimaryContext_Command_4_ContinueInstall.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\43__ProvisioningCommands_PrimaryContext_Command_4_RestartRequired.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\44__ProvisioningCommands_PrimaryContext_Command_5_CommandFile.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\45__ProvisioningCommands_PrimaryContext_Command_5_CommandLine.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\46__ProvisioningCommands_PrimaryContext_Command_5_ContinueInstall.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\47__ProvisioningCommands_PrimaryContext_Command_5_RestartRequired.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\48__ProvisioningCommands_PrimaryContext_Command_6_CommandFile.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\49__ProvisioningCommands_PrimaryContext_Command_6_CommandLine.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\50__ProvisioningCommands_PrimaryContext_Command_6_ContinueInstall.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\51__ProvisioningCommands_PrimaryContext_Command_6_DependencyPackages_0.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\52__ProvisioningCommands_PrimaryContext_Command_6_RestartRequired.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\RunTime\53__ConnectivityProfiles_WLAN_WLANSetting_TechConnectKC-Hotspot.provxml
+2/19/2026 7:42:11 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-936_6516.6_1326511230.2\Prov\User_RunTime\54__Policies_Experience_AllowTailoredExperiencesWithDiagnosticData.provxml
+2/19/2026 7:42:11 PM Info Adding deployment settings to Provisioning Package
+2/19/2026 7:42:11 PM Info Adding file assets to Provisioning Package
+2/19/2026 7:42:11 PM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\softwareremoval.bat
+2/19/2026 7:42:11 PM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Win11Debloat.bat
+2/19/2026 7:42:11 PM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\ZoomInstallerFull.msi
+2/19/2026 7:42:19 PM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\teams.bat
+2/19/2026 7:42:19 PM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\techconnectkc-remotesupport.msi
+2/19/2026 7:42:19 PM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\insight-agent-windows-3_42_0.msi
+2/19/2026 7:42:21 PM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\hpremoval.bat
+2/19/2026 7:42:21 PM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Win11Debloat.cab
+2/19/2026 7:42:21 PM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\teams.cab
+2/19/2026 7:42:22 PM Info Packaging file asset C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Remove-HPbloatware.ps1
+2/19/2026 7:42:26 PM Info CopyFile: File 'C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod-config.cat' exist and called with overwrite
+2/19/2026 7:42:26 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194222-836_6516.6_26369788.cat, Target path: C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod-config.cat
+2/19/2026 7:42:27 PM Info CopyFile: File 'C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod-config.ppkg' exist and called with overwrite
+2/19/2026 7:42:27 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-827_6516.6_1310058896.1, Target path: C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod-config.ppkg
+2/19/2026 7:42:27 PM Info DeleteFile: File '' does not exist
+2/19/2026 7:42:27 PM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260219-194210-827_6516.6_1310058896.1' does not exist
+2/19/2026 7:42:27 PM Info Media Creation Build Success page
+2/19/2026 7:42:29 PM Info Build workflow finished.
+2/20/2026 9:39:49 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:39:52 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:39:54 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:40:01 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:40:04 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:40:06 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:40:08 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:44:11 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser
+2/20/2026 9:44:55 AM Info Project 'configProject' created successfully and added to workspace
+2/20/2026 9:45:34 AM Error Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.Collection`1.get_Item(Int32 index)
+   at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at Microsoft.Windows.ICD.UI.Controls.NewMapItem.RlbItems_OnMapItemDoubleClick(Object sender, Int32 selectedIndex)
+   at Microsoft.Windows.ICD.UI.Controls.ReorderableListBox.ProcessListItemSelect(ListBoxItem lbItem)
+   at Microsoft.Windows.ICD.UI.Controls.ReorderableListBox.Lb_MouseDoubleClick(Object sender, MouseButtonEventArgs e)
+   at System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   at System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.Controls.Control.OnMouseDoubleClick(MouseButtonEventArgs e)
+   at System.Windows.Controls.Control.HandleDoubleClick(Object sender, MouseButtonEventArgs e)
+   at System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   at System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.ReRaiseEventAs(DependencyObject sender, RoutedEventArgs args, RoutedEvent newEvent)
+   at System.Windows.UIElement.OnMouseDownThunk(Object sender, MouseButtonEventArgs e)
+   at System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   at System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseTrustedEvent(RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs args, Boolean trusted)
+   at System.Windows.Input.InputManager.ProcessStagingArea()
+   at System.Windows.Input.InputManager.ProcessInput(InputEventArgs input)
+   at System.Windows.Input.InputProviderSite.ReportInput(InputReport inputReport)
+   at System.Windows.Interop.HwndMouseInputProvider.ReportInput(IntPtr hwnd, InputMode mode, Int32 timestamp, RawMouseActions actions, Int32 x, Int32 y, Int32 wheel)
+   at System.Windows.Interop.HwndMouseInputProvider.FilterMessage(IntPtr hwnd, WindowMessage msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at System.Windows.Interop.HwndSource.InputFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+
+2/20/2026 9:46:45 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#partnersearchcode
+2/20/2026 9:47:17 AM Info Project 'configProject' created successfully and added to workspace
+2/20/2026 9:47:53 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:48:00 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:48:30 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:48:37 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:49:00 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:49:07 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:50:57 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:51:03 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:51:30 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:51:40 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:52:02 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/20/2026 9:52:12 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems

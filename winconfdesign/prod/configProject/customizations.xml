@@ -3,7 +3,7 @@
   <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
     <ID>{3c9f95a0-8888-43a3-b3db-dcae34034f2d}</ID>
     <Name>prod-config</Name>
-    <Version>1.12</Version>
+    <Version>1.14</Version>
     <OwnerType>SystemIntegrator</OwnerType>
     <Rank>0</Rank>
     <Notes></Notes>
@@ -29,31 +29,44 @@
               <ItemName>Computer Support</ItemName>
               <ItemUrl>https://support.kcconnect.me/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="bOffice" Name="bOffice">
+            <FavoriteBarItem FavoriteItem="bMicrosoftOffice" Name="bMicrosoftOffice">
               <ItemName>Microsoft Office</ItemName>
               <ItemUrl>https://office.com/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="cDLXHome" Name="cDLXHome">
+            <FavoriteBarItem FavoriteItem="cDLXProgram" Name="cDLXProgram">
               <ItemName>DLX Program</ItemName>
               <ItemUrl>https://kcconnect.me/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="eKansasWorks" Name="eKansasWorks">
+            <FavoriteBarItem FavoriteItem="dKansasWorks" Name="dKansasWorks">
               <ItemName>Kansas Works</ItemName>
-              <ItemUrl>https://www.kansasworks.com/</ItemUrl>
+              <ItemUrl>https://kansasworks.com/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="fKCKPL" Name="fKCKPL">
+            <FavoriteBarItem FavoriteItem="eKCKPL" Name="eKCKPL">
               <ItemName>KCK Public Library</ItemName>
               <ItemUrl>https://www.kckpl.org/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="gJoCoPL" Name="gJoCoPL">
+            <FavoriteBarItem FavoriteItem="fJoCoPL" Name="fJoCoPL">
               <ItemName>JohnsonCo Public Library</ItemName>
-              <ItemUrl>https://www.jocolibrary.org/</ItemUrl>
+              <ItemUrl>https://jocolibrary.org/</ItemUrl>
             </FavoriteBarItem>
           </FavoriteBarItems>
         </Browser>
         <CleanPC>
           <CleanPCWithoutRetainingUserData>Enable</CleanPCWithoutRetainingUserData>
         </CleanPC>
+        <ConnectivityProfiles>
+          <WLAN>
+            <WLANSetting>
+              <WLANConfig SSID="TechConnectKC-Hotspot" Name="TechConnectKC-Hotspot">
+                <WLANXmlSettings>
+                  <AutoConnect>True</AutoConnect>
+                  <SecurityKey>Computer4you!</SecurityKey>
+                  <SecurityType>WPA2-Personal</SecurityType>
+                </WLANXmlSettings>
+              </WLANConfig>
+            </WLANSetting>
+          </WLAN>
+        </ConnectivityProfiles>
         <DevDetail>
           <DNSComputerName>dlxat-wn-%SERIAL%</DNSComputerName>
         </DevDetail>

@@ -401,215 +401,215 @@
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/cOffice">
+    <Setting URI="/Browser/FavoriteBarItems/bMicrosoftOffice">
       <Type>Tree</Type>
-      <Name>cOffice</Name>
+      <Name>bMicrosoftOffice</Name>
       <Description></Description>
-      <Guid>{ca565d9b-3d5b-59e6-ae28-4a286c79e7f8}</Guid>
+      <Guid>{7185d7fd-4440-591a-b443-bff8c5948fb8}</Guid>
       <IsLeaf>False</IsLeaf>
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/cOffice/ItemFavIconFile">
+    <Setting URI="/Browser/FavoriteBarItems/bMicrosoftOffice/ItemFavIconFile">
       <Type>Text</Type>
       <Name>ItemFavIconFile</Name>
       <Description>Favorites bar item icon path</Description>
-      <Guid>{46fd4a0c-bd9f-5cfa-887a-3cdd191efe55}</Guid>
+      <Guid>{6c5851b0-d6ed-5899-a9a9-dc4958598801}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/cOffice/ItemName">
+    <Setting URI="/Browser/FavoriteBarItems/bMicrosoftOffice/ItemName">
       <Type>Text</Type>
       <Name>ItemName</Name>
       <Description>Favorites bar item name</Description>
-      <Guid>{8e059e9a-f654-5241-b84a-e46580054e56}</Guid>
+      <Guid>{9daaf7e9-8aca-5e89-8792-dfaf04c23ced}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/cOffice/ItemUrl">
+    <Setting URI="/Browser/FavoriteBarItems/bMicrosoftOffice/ItemUrl">
       <Type>Text</Type>
       <Name>ItemUrl</Name>
       <Description>Favorites bar item url</Description>
-      <Guid>{e4289e6e-f798-528f-9815-c11d1d8ee3ca}</Guid>
+      <Guid>{d0038481-70a2-5561-98ec-b398cf29b22f}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/dKansas Works">
+    <Setting URI="/Browser/FavoriteBarItems/cDLXProgram">
       <Type>Tree</Type>
-      <Name>dKansas Works</Name>
+      <Name>cDLXProgram</Name>
       <Description></Description>
-      <Guid>{7a4a1060-8710-55f2-bdf2-7e7e2a723667}</Guid>
+      <Guid>{546a7738-012b-5cfe-854e-3ced86867af1}</Guid>
       <IsLeaf>False</IsLeaf>
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/dKansas Works/ItemFavIconFile">
+    <Setting URI="/Browser/FavoriteBarItems/cDLXProgram/ItemFavIconFile">
       <Type>Text</Type>
       <Name>ItemFavIconFile</Name>
       <Description>Favorites bar item icon path</Description>
-      <Guid>{0839ebda-c4a0-592f-a98a-3d9d90bb838c}</Guid>
+      <Guid>{954a32c8-c5e9-575a-821c-09b25d7b53df}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/dKansas Works/ItemName">
+    <Setting URI="/Browser/FavoriteBarItems/cDLXProgram/ItemName">
       <Type>Text</Type>
       <Name>ItemName</Name>
       <Description>Favorites bar item name</Description>
-      <Guid>{0322319e-194a-500c-a0f1-e04c5188d340}</Guid>
+      <Guid>{668dfbaf-9f29-55b6-b617-10e33dc2850f}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/dKansas Works/ItemUrl">
+    <Setting URI="/Browser/FavoriteBarItems/cDLXProgram/ItemUrl">
       <Type>Text</Type>
       <Name>ItemUrl</Name>
       <Description>Favorites bar item url</Description>
-      <Guid>{43d8516e-b772-5ffc-beae-a7f65efc5922}</Guid>
+      <Guid>{1be168ae-d6e3-595f-8686-abae35f54924}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/eDLX Home">
+    <Setting URI="/Browser/FavoriteBarItems/dKansasWorks">
       <Type>Tree</Type>
-      <Name>eDLX Home</Name>
+      <Name>dKansasWorks</Name>
       <Description></Description>
-      <Guid>{9b4cc56d-4392-57a1-a771-0a8dd3a72a08}</Guid>
+      <Guid>{152f6b17-0276-5485-b26b-56a23b10bd11}</Guid>
       <IsLeaf>False</IsLeaf>
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/eDLX Home/ItemFavIconFile">
+    <Setting URI="/Browser/FavoriteBarItems/dKansasWorks/ItemFavIconFile">
       <Type>Text</Type>
       <Name>ItemFavIconFile</Name>
       <Description>Favorites bar item icon path</Description>
-      <Guid>{aa8c6fec-e34d-5d7d-a306-c025649bd599}</Guid>
+      <Guid>{ed3c0ca6-c872-54d1-a62a-9928e992bd47}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/eDLX Home/ItemName">
+    <Setting URI="/Browser/FavoriteBarItems/dKansasWorks/ItemName">
       <Type>Text</Type>
       <Name>ItemName</Name>
       <Description>Favorites bar item name</Description>
-      <Guid>{291ffc4f-232c-5802-b1b8-7250ad799929}</Guid>
+      <Guid>{9f149c72-16af-57bc-9ac0-12a6e4938447}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/eDLX Home/ItemUrl">
+    <Setting URI="/Browser/FavoriteBarItems/dKansasWorks/ItemUrl">
       <Type>Text</Type>
       <Name>ItemUrl</Name>
       <Description>Favorites bar item url</Description>
-      <Guid>{92f92b1a-292a-5351-86ad-53f7df320608}</Guid>
+      <Guid>{467cd64d-aec4-5b01-9423-674fa41a5bbc}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/fKCKPL">
+    <Setting URI="/Browser/FavoriteBarItems/eKCKPL">
       <Type>Tree</Type>
-      <Name>fKCKPL</Name>
+      <Name>eKCKPL</Name>
       <Description></Description>
-      <Guid>{e8bbf195-115c-59bb-9df3-af992996dd80}</Guid>
+      <Guid>{5e39c053-a28f-50bf-b3bf-9a65f1ecb37f}</Guid>
       <IsLeaf>False</IsLeaf>
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/fKCKPL/ItemFavIconFile">
+    <Setting URI="/Browser/FavoriteBarItems/eKCKPL/ItemFavIconFile">
       <Type>Text</Type>
       <Name>ItemFavIconFile</Name>
       <Description>Favorites bar item icon path</Description>
-      <Guid>{02911e39-70cb-5e40-9129-2a6b7f12c8c0}</Guid>
+      <Guid>{12b2594d-752d-5331-b275-ff8f30c9c72b}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/fKCKPL/ItemName">
+    <Setting URI="/Browser/FavoriteBarItems/eKCKPL/ItemName">
       <Type>Text</Type>
       <Name>ItemName</Name>
       <Description>Favorites bar item name</Description>
-      <Guid>{643119ca-b33d-5669-9d36-db445ea2adcf}</Guid>
+      <Guid>{3d5a44ea-4d79-50fc-a94c-0fde563df7e7}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/fKCKPL/ItemUrl">
+    <Setting URI="/Browser/FavoriteBarItems/eKCKPL/ItemUrl">
       <Type>Text</Type>
       <Name>ItemUrl</Name>
       <Description>Favorites bar item url</Description>
-      <Guid>{8e049dc2-245f-50e3-b8e2-a965d420c423}</Guid>
+      <Guid>{2d642d42-9853-5697-9980-bbbf02fa0fa6}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/gJoCoPL">
+    <Setting URI="/Browser/FavoriteBarItems/fJoCoPL">
       <Type>Tree</Type>
-      <Name>gJoCoPL</Name>
+      <Name>fJoCoPL</Name>
       <Description></Description>
-      <Guid>{b3060100-c306-5ced-906e-b6f20936d878}</Guid>
+      <Guid>{fb664507-c60b-594e-a0b1-71632bbc5aca}</Guid>
       <IsLeaf>False</IsLeaf>
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/gJoCoPL/ItemFavIconFile">
+    <Setting URI="/Browser/FavoriteBarItems/fJoCoPL/ItemFavIconFile">
       <Type>Text</Type>
       <Name>ItemFavIconFile</Name>
       <Description>Favorites bar item icon path</Description>
-      <Guid>{92e4dfab-80de-5e50-991c-1646916e6b30}</Guid>
+      <Guid>{ef593131-995c-5489-b047-3b725e30aa8a}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/gJoCoPL/ItemName">
+    <Setting URI="/Browser/FavoriteBarItems/fJoCoPL/ItemName">
       <Type>Text</Type>
       <Name>ItemName</Name>
       <Description>Favorites bar item name</Description>
-      <Guid>{2053d4fd-b01e-5dba-8674-120da8bb48d1}</Guid>
+      <Guid>{a79a1ffc-be90-5656-bd0b-e4c37ae49397}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/gJoCoPL/ItemUrl">
+    <Setting URI="/Browser/FavoriteBarItems/fJoCoPL/ItemUrl">
       <Type>Text</Type>
       <Name>ItemUrl</Name>
       <Description>Favorites bar item url</Description>
-      <Guid>{3de5163d-a434-5057-828c-20fdde6f3366}</Guid>
+      <Guid>{4ce19edc-980c-54d3-9af9-dfa689e79653}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
@@ -1282,10 +1282,94 @@ One: Either Wi-Fi or Bluetooth will stop working</Description>
       <Name>WLANSetting</Name>
       <Description></Description>
       <Guid>{c4cb3553-4bc5-5f00-9c4a-e8b41588f023}</Guid>
-      <IsLeaf>True</IsLeaf>
+      <IsLeaf>False</IsLeaf>
       <ValidationInfo>
         <Pattern></Pattern>
       </ValidationInfo>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/ConnectivityProfiles/WLAN/WLANSetting/TechConnectKC-Hotspot">
+      <Type>Tree</Type>
+      <Name>TechConnectKC-Hotspot</Name>
+      <Description></Description>
+      <Guid>{c9b0056a-e472-5036-bd8c-29c2024a87a8}</Guid>
+      <IsLeaf>False</IsLeaf>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/ConnectivityProfiles/WLAN/WLANSetting/TechConnectKC-Hotspot/ProxyServerPort">
+      <Type>Text</Type>
+      <Name>ProxyServerPort</Name>
+      <Description>Enter proxy server details in host:port format. Host can be server name, FQDN, or SLN or IPv4 or IPv6 address.</Description>
+      <Guid>{6104e8ef-7a1f-5552-b85a-c3d29a8da1fa}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/ConnectivityProfiles/WLAN/WLANSetting/TechConnectKC-Hotspot/WLANXmlSettings">
+      <Type>Tree</Type>
+      <Name>WLANXmlSettings</Name>
+      <Description></Description>
+      <Guid>{5a68fb18-307d-56d8-95b1-c557f28caa54}</Guid>
+      <IsLeaf>False</IsLeaf>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/ConnectivityProfiles/WLAN/WLANSetting/TechConnectKC-Hotspot/WLANXmlSettings/AutoConnect">
+      <Type>Bool</Type>
+      <Name>AutoConnect</Name>
+      <Description>Specify whether to automatically connect to WLAN.</Description>
+      <Guid>{c8476e0f-dc1d-5ccc-929f-c74fdaca7e80}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <Default>True</Default>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/ConnectivityProfiles/WLAN/WLANSetting/TechConnectKC-Hotspot/WLANXmlSettings/HiddenNetwork">
+      <Type>Bool</Type>
+      <Name>HiddenNetwork</Name>
+      <Description></Description>
+      <Guid>{a7345cd2-bc7a-52ce-9b6d-3af527778c27}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <Default>False</Default>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/ConnectivityProfiles/WLAN/WLANSetting/TechConnectKC-Hotspot/WLANXmlSettings/SecurityKey">
+      <Type>Text</Type>
+      <Name>SecurityKey</Name>
+      <Description>Specify security key for selected method.</Description>
+      <Guid>{15e8e692-5977-5dc4-8a61-cb9703353b79}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/ConnectivityProfiles/WLAN/WLANSetting/TechConnectKC-Hotspot/WLANXmlSettings/SecurityType">
+      <Type>Text</Type>
+      <Name>SecurityType</Name>
+      <Description>Specify security method.</Description>
+      <Guid>{e6e30351-5a1d-58b4-9a33-a43ecd45d476}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
       <AppearsIn>
         <Windows Edition="Unknown" Version="Unknown" Component="" />
         <Windows Edition="Unknown" Version="Unknown" Component="" />
