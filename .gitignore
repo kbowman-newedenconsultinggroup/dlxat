@@ -4,3 +4,5 @@ ICDCommon*.log
 *.msix
 teams.cab
 hp-warrantychecker/*.csv
+data/transform/*.csv
+data/transform/*.log
