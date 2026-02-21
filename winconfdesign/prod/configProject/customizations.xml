@@ -3,7 +3,7 @@
   <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
     <ID>{3c9f95a0-8888-43a3-b3db-dcae34034f2d}</ID>
     <Name>prod-config</Name>
-    <Version>1.14</Version>
+    <Version>1.15</Version>
     <OwnerType>SystemIntegrator</OwnerType>
     <Rank>0</Rank>
     <Notes></Notes>
@@ -28,6 +28,10 @@
             <FavoriteBarItem FavoriteItem="aSupportPortal" Name="aSupportPortal">
               <ItemName>Computer Support</ItemName>
               <ItemUrl>https://support.kcconnect.me/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="aTCKCSupportPortal" Name="aTCKCSupportPortal">
+              <ItemName>Computer Support</ItemName>
+              <ItemUrl>https://support.kcconnect.me</ItemUrl>
             </FavoriteBarItem>
             <FavoriteBarItem FavoriteItem="bMicrosoftOffice" Name="bMicrosoftOffice">
               <ItemName>Microsoft Office</ItemName>
@@ -121,13 +125,13 @@
           <PrimaryContext>
             <Command>
               <CommandConfig Name="softwareremoval">
-                <CommandFile>C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\softwareremoval.bat</CommandFile>
+                <CommandFile>C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\softwareremoval.bat</CommandFile>
                 <CommandLine>cmd.exe /c "softwareremoval.bat"</CommandLine>
                 <ContinueInstall>True</ContinueInstall>
                 <RestartRequired>False</RestartRequired>
               </CommandConfig>
               <CommandConfig Name="Win11Debloat">
-                <CommandFile>C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Win11Debloat.bat</CommandFile>
+                <CommandFile>C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\Win11Debloat.bat</CommandFile>
                 <CommandLine>cmd.exe /c "Win11Debloat.bat"</CommandLine>
                 <ContinueInstall>True</ContinueInstall>
                 <DependencyPackages>
@@ -136,7 +140,7 @@
                 <RestartRequired>False</RestartRequired>
               </CommandConfig>
               <CommandConfig Name="Zoom">
-                <CommandFile>C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\ZoomInstallerFull.msi</CommandFile>
+                <CommandFile>C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\ZoomInstallerFull.msi</CommandFile>
                 <CommandLine>msiexec.exe /i "ZoomInstallerFull.msi" /qn /norestart  /l*v c:\tckc\zoom-install.log</CommandLine>
                 <ContinueInstall>True</ContinueInstall>
                 <RestartRequired>False</RestartRequired>
@@ -146,18 +150,18 @@
                 <CommandLine>cmd.exe /c "teams.bat"</CommandLine>
                 <ContinueInstall>True</ContinueInstall>
                 <DependencyPackages>
-                  <Dependency Name="teamscab">C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\teams.cab</Dependency>
+                  <Dependency Name="teamscab">C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\teams.cab</Dependency>
                 </DependencyPackages>
                 <RestartRequired>False</RestartRequired>
               </CommandConfig>
               <CommandConfig Name="Rustdesk">
-                <CommandFile>C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\techconnectkc-remotesupport.msi</CommandFile>
+                <CommandFile>C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\techconnectkc-remotesupport.msi</CommandFile>
                 <CommandLine>msiexec.exe /i techconnectkc-remotesupport.msi /l*v c:\tckc\rd-install.log /qn INSTALLFOLDER="C:\Program Files\TechConnectKC-SupportAgent" CREATESTARTMENUSHORTCUTS="Y" CREATEDESKTOPSHORTCUTS="N" INSTALLPRINTER="N"</CommandLine>
                 <ContinueInstall>True</ContinueInstall>
                 <RestartRequired>False</RestartRequired>
               </CommandConfig>
               <CommandConfig Name="InvGate">
-                <CommandFile>C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\insight-agent-windows-3_42_0.msi</CommandFile>
+                <CommandFile>C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\insight-agent-windows-3_42_0.msi</CommandFile>
                 <CommandLine>msiexec.exe /i insight-agent-windows-3_42_0.msi /l*v c:\tckc\invgate-install.log /qn  PROTOCOL='https' IP='techconnectkc.is.cloud.invgate.net' PORT='443' SECRET_KEY='82435aac5d2c3593'</CommandLine>
                 <ContinueInstall>True</ContinueInstall>
                 <RestartRequired>False</RestartRequired>

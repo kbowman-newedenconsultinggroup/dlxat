@@ -401,6 +401,49 @@
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/aTCKCSupportPortal">
+      <Type>Tree</Type>
+      <Name>aTCKCSupportPortal</Name>
+      <Description></Description>
+      <Guid>{9efaa8f6-f974-54c3-9d9e-6cf771094f90}</Guid>
+      <IsLeaf>False</IsLeaf>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/aTCKCSupportPortal/ItemFavIconFile">
+      <Type>Text</Type>
+      <Name>ItemFavIconFile</Name>
+      <Description>Favorites bar item icon path</Description>
+      <Guid>{335f32dd-d041-53c3-b871-d0b29b66ef71}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/aTCKCSupportPortal/ItemName">
+      <Type>Text</Type>
+      <Name>ItemName</Name>
+      <Description>Favorites bar item name</Description>
+      <Guid>{6a6bd8a7-aca6-5b50-b745-265f8a90dffb}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/aTCKCSupportPortal/ItemUrl">
+      <Type>Text</Type>
+      <Name>ItemUrl</Name>
+      <Description>Favorites bar item url</Description>
+      <Guid>{0106af95-c314-5db1-81d4-5c09d9cdaee0}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
     <Setting URI="/Browser/FavoriteBarItems/bMicrosoftOffice">
       <Type>Tree</Type>
       <Name>bMicrosoftOffice</Name>
