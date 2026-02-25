@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WindowsCustomizations>
+  <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
+    <ID>{3c9f95a0-8888-43a3-b3db-dcae34034f2d}</ID>
+    <Name>prod-config</Name>
+    <Version>1.19</Version>
+    <OwnerType>SystemIntegrator</OwnerType>
+    <Rank>0</Rank>
+    <Notes></Notes>
+  </PackageConfig>
+  <Settings xmlns="urn:schemas-microsoft-com:windows-provisioning">
+    <Customizations>
+      <Common>
+        <Accounts>
+          <Users>
+            <User UserName="ScottLock">
+              <Password>LockScott</Password>
+              <UserGroup>Administrators</UserGroup>
+            </User>
+            <User UserName="TCKC-Admin" Name="TCKC-Admin">
+              <Password>Grating7&amp;Evasion1!Saturday0)Squeamish</Password>
+              <UserGroup>Administrators</UserGroup>
+            </User>
+          </Users>
+        </Accounts>
+        <Browser>
+          <FavoriteBarItems>
+            <FavoriteBarItem FavoriteItem="aHelp" Name="aHelp">
+              <ItemName>Help with your Computer</ItemName>
+              <ItemUrl>https://support.kcconnect.me/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="bzoffice" Name="bzoffice">
+              <ItemName>Microsoft Office</ItemName>
+              <ItemUrl>https://office.com/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="cdlx" Name="cdlx">
+              <ItemName>DLX Program</ItemName>
+              <ItemUrl>https://kcconnect.me/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="ekansasworks" Name="ekansasworks">
+              <ItemName>Kansas Works</ItemName>
+              <ItemUrl>https://kansasworks.com/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="fkckpl" Name="fkckpl">
+              <ItemName>KCK Public Library</ItemName>
+              <ItemUrl>https://kckpl.org/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="gjocopl" Name="gjocopl">
+              <ItemName>JohnsonCo Public Library</ItemName>
+              <ItemUrl>https://jocolibrary.org/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="zHelp" Name="zHelp">
+              <ItemName>Computer Support</ItemName>
+              <ItemUrl>https://support.kcconnect.me/</ItemUrl>
+            </FavoriteBarItem>
+          </FavoriteBarItems>
+        </Browser>
+        <CleanPC>
+          <CleanPCWithoutRetainingUserData>Enable</CleanPCWithoutRetainingUserData>
+        </CleanPC>
+        <ConnectivityProfiles>
+          <WLAN>
+            <WLANSetting>
+              <WLANConfig SSID="TechConnectKC-Hotspot" Name="TechConnectKC-Hotspot">
+                <WLANXmlSettings>
+                  <AutoConnect>True</AutoConnect>
+                  <SecurityKey>Computer4you!</SecurityKey>
+                  <SecurityType>WPA2-Personal</SecurityType>
+                </WLANXmlSettings>
+              </WLANConfig>
+            </WLANSetting>
+          </WLAN>
+        </ConnectivityProfiles>
+        <DevDetail>
+          <DNSComputerName>dlxat-wn-%SERIAL%</DNSComputerName>
+        </DevDetail>
+        <DeviceFormFactor>
+          <DeviceForm>Notebook</DeviceForm>
+        </DeviceFormFactor>
+        <LanguagePackManagement>
+          <LanguagePackInstall>
+            <Language LanguageId="en-US" Name="en-US">
+              <CopyToDeviceInternationalSettings>True</CopyToDeviceInternationalSettings>
+              <EnableLanguageFeatureInstallations>True</EnableLanguageFeatureInstallations>
+              <InstallLanguage>True</InstallLanguage>
+            </Language>
+            <Language LanguageId="es-US" Name="es-US">
+              <CopyToDeviceInternationalSettings>False</CopyToDeviceInternationalSettings>
+              <EnableLanguageFeatureInstallations>True</EnableLanguageFeatureInstallations>
+              <InstallLanguage>True</InstallLanguage>
+            </Language>
+          </LanguagePackInstall>
+          <SystemPreferredUILanguage>en-US</SystemPreferredUILanguage>
+        </LanguagePackManagement>
+        <OOBE>
+          <Desktop>
+            <HideOobe>True</HideOobe>
+          </Desktop>
+        </OOBE>
+        <Policies>
+          <ApplicationManagement>
+            <AllowAllTrustedApps>Yes</AllowAllTrustedApps>
+          </ApplicationManagement>
+          <Browser>
+            <ConfigureFavoritesBar>Enable</ConfigureFavoritesBar>
+          </Browser>
+          <Experience>
+            <AllowTailoredExperiencesWithDiagnosticData>No</AllowTailoredExperiencesWithDiagnosticData>
+            <DoNotShowFeedbackNotifications>Do not show</DoNotShowFeedbackNotifications>
+          </Experience>
+          <Power>
+            <UnattendedSleepTimeoutPluggedIn>7200</UnattendedSleepTimeoutPluggedIn>
+          </Power>
+          <Privacy>
+            <DisableAdvertisingId>Yes</DisableAdvertisingId>
+          </Privacy>
+          <TimeLanguageSettings>
+            <ConfigureTimeZone>Central Standard Time</ConfigureTimeZone>
+          </TimeLanguageSettings>
+          <Update>
+            <AllowAutoUpdate>Auto-install, Notify before restart</AllowAutoUpdate>
+          </Update>
+        </Policies>
+        <ProvisioningCommands>
+          <PrimaryContext>
+            <Command>
+              <CommandConfig Name="softwareremoval">
+                <CommandFile>C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\softwareremoval.bat</CommandFile>
+                <CommandLine>cmd.exe /c "softwareremoval.bat"</CommandLine>
+                <ContinueInstall>True</ContinueInstall>
+                <RestartRequired>False</RestartRequired>
+              </CommandConfig>
+              <CommandConfig Name="Win11Debloat">
+                <CommandFile>C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\Win11Debloat.bat</CommandFile>
+                <CommandLine>cmd.exe /c "Win11Debloat.bat"</CommandLine>
+                <ContinueInstall>True</ContinueInstall>
+                <DependencyPackages>
+                  <Dependency Name="Win11Debloat">C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Win11Debloat.cab</Dependency>
+                </DependencyPackages>
+                <RestartRequired>False</RestartRequired>
+              </CommandConfig>
+              <CommandConfig Name="Zoom">
+                <CommandFile>C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\ZoomInstallerFull.msi</CommandFile>
+                <CommandLine>msiexec.exe /i "ZoomInstallerFull.msi" /qn /norestart  /l*v c:\tckc\zoom-install.log</CommandLine>
+                <ContinueInstall>True</ContinueInstall>
+                <RestartRequired>False</RestartRequired>
+              </CommandConfig>
+              <CommandConfig Name="teams">
+                <CommandFile>C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\teams.bat</CommandFile>
+                <CommandLine>cmd.exe /c "teams.bat"</CommandLine>
+                <ContinueInstall>True</ContinueInstall>
+                <DependencyPackages>
+                  <Dependency Name="teamscab">C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\teams.cab</Dependency>
+                </DependencyPackages>
+                <RestartRequired>False</RestartRequired>
+              </CommandConfig>
+              <CommandConfig Name="Rustdesk">
+                <CommandFile>C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\techconnectkc-remotesupport.msi</CommandFile>
+                <CommandLine>msiexec.exe /i techconnectkc-remotesupport.msi /l*v c:\tckc\rd-install.log /qn INSTALLFOLDER="C:\Program Files\TechConnectKC-SupportAgent" CREATESTARTMENUSHORTCUTS="Y" CREATEDESKTOPSHORTCUTS="N" INSTALLPRINTER="N"</CommandLine>
+                <ContinueInstall>True</ContinueInstall>
+                <RestartRequired>False</RestartRequired>
+              </CommandConfig>
+              <CommandConfig Name="InvGate">
+                <CommandFile>C:\Users\kbowman\Documents\dlxat\winconfdesign\prod\packages\insight-agent-windows-3_42_0.msi</CommandFile>
+                <CommandLine>msiexec.exe /i insight-agent-windows-3_42_0.msi /l*v c:\tckc\invgate-install.log /qn  PROTOCOL='https' IP='techconnectkc.is.cloud.invgate.net' PORT='443' SECRET_KEY='82435aac5d2c3593'</CommandLine>
+                <ContinueInstall>True</ContinueInstall>
+                <RestartRequired>False</RestartRequired>
+              </CommandConfig>
+              <CommandConfig Name="hpremoval">
+                <CommandFile>C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\hpremoval.bat</CommandFile>
+                <CommandLine>cmd.exe /c "hpremoval.bat"</CommandLine>
+                <ContinueInstall>True</ContinueInstall>
+                <DependencyPackages>
+                  <Dependency Name="removeps">C:\Users\kbowman\Documents\DLXAT\winconfdesign\prod\packages\Remove-HPbloatware.ps1</Dependency>
+                </DependencyPackages>
+                <RestartRequired>False</RestartRequired>
+              </CommandConfig>
+            </Command>
+          </PrimaryContext>
+        </ProvisioningCommands>
+      </Common>
+    </Customizations>
+  </Settings>
+</WindowsCustomizations>

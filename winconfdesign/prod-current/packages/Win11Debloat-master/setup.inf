@@ -1,0 +1,178 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Fri Sep 26 16:34:37 2025           **
+;**                                                                **
+;** MakeCAB Version: 5.00                                 **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,Win11Debloat.cab
+[file list]
+1,1,.gitignore,58
+1,1,Appslist.txt,13963
+1,1,Get.ps1,5129
+1,1,LICENSE,1093
+1,1,README.md,16274
+1,1,regfiles.txt,5758
+1,1,Run.bat,975
+1,1,Win11Debloat.ps1,80668
+1,1,.github\FUNDING.yml,30
+1,1,.github\ISSUE_TEMPLATE\bug_report.yml,2648
+1,1,.github\ISSUE_TEMPLATE\config.yml,203
+1,1,.github\ISSUE_TEMPLATE\feature_request.yml,1631
+1,1,Assets\menu.png,27224
+1,1,Assets\Menus\DefaultSettings,824
+1,1,Assets\Menus\Info,4272
+1,1,Assets\Start\start2.bin,972
+1,1,Assets\Start\What is this file.txt,329
+1,1,Regfiles\Align_Taskbar_Left.reg,300
+1,1,Regfiles\Disable_AI_Recall.reg,464
+1,1,Regfiles\Disable_Animations.reg,130
+1,1,Regfiles\Disable_Bing_Cortana_In_Search.reg,694
+1,1,Regfiles\Disable_Chat_Taskbar.reg,588
+1,1,Regfiles\Disable_Click_to_Do.reg,239
+1,1,Regfiles\Disable_Copilot.reg,494
+1,1,Regfiles\Disable_Desktop_Spotlight.reg,330
+1,1,Regfiles\Disable_DVR.reg,210
+1,1,Regfiles\Disable_Edge_Ads_And_Suggestions.reg,806
+1,1,Regfiles\Disable_Edge_AI_Features.reg,426
+1,1,Regfiles\Disable_Enhance_Pointer_Precision.reg,139
+1,1,Regfiles\Disable_Fast_Startup.reg,148
+1,1,Regfiles\Disable_Give_access_to_context_menu.reg,1376
+1,1,Regfiles\Disable_Include_in_library_from_context_menu.reg,418
+1,1,Regfiles\Disable_Lockscreen_Tips.reg,606
+1,1,Regfiles\Disable_Modern_Standby_Networking.reg,207
+1,1,Regfiles\Disable_Notepad_AI_Features.reg,127
+1,1,Regfiles\Disable_Paint_AI_Features.reg,307
+1,1,Regfiles\Disable_Phone_Link_In_Start.reg,216
+1,1,Regfiles\Disable_Settings_365_Ads.reg,198
+1,1,Regfiles\Disable_Settings_Home.reg,156
+1,1,Regfiles\Disable_Share_from_context_menu.reg,214
+1,1,Regfiles\Disable_Show_More_Options_Context_Menu.reg,290
+1,1,Regfiles\Disable_Start_Recommended.reg,536
+1,1,Regfiles\Disable_Sticky_Keys_Shortcut.reg,111
+1,1,Regfiles\Disable_Telemetry.reg,4286
+1,1,Regfiles\Disable_Transparency.reg,155
+1,1,Regfiles\Disable_Widgets_Service.reg,580
+1,1,Regfiles\Disable_Windows_Suggestions.reg,5628
+1,1,Regfiles\Enable_Dark_Mode.reg,192
+1,1,Regfiles\Enable_End_Task.reg,175
+1,1,Regfiles\Enable_Last_Active_Click.reg,725
+1,1,Regfiles\Hide_3D_Objects_Folder.reg,646
+1,1,Regfiles\Hide_duplicate_removable_drives_from_navigation_pane_of_File_Explorer.reg,376
+1,1,Regfiles\Hide_Gallery_from_Explorer.reg,1458
+1,1,Regfiles\Hide_Home_from_Explorer.reg,1492
+1,1,Regfiles\Hide_Music_Folder.reg,646
+1,1,Regfiles\Hide_Onedrive_Folder.reg,546
+1,1,Regfiles\Hide_Search_Taskbar.reg,300
+1,1,Regfiles\Hide_Taskview_Taskbar.reg,318
+1,1,Regfiles\Launch_File_Explorer_To_Downloads.reg,144
+1,1,Regfiles\Launch_File_Explorer_To_Home.reg,144
+1,1,Regfiles\Launch_File_Explorer_To_OneDrive.reg,144
+1,1,Regfiles\Launch_File_Explorer_To_This_PC.reg,144
+1,1,Regfiles\Show_Extensions_For_Known_File_Types.reg,304
+1,1,Regfiles\Show_Hidden_Folders.reg,294
+1,1,Regfiles\Show_Search_Box.reg,300
+1,1,Regfiles\Show_Search_Icon.reg,300
+1,1,Regfiles\Show_Search_Icon_And_Label.reg,300
+1,1,Regfiles\Sysprep\Align_Taskbar_Left.reg,306
+1,1,Regfiles\Sysprep\Disable_AI_Recall.reg,358
+1,1,Regfiles\Sysprep\Disable_Animations.reg,131
+1,1,Regfiles\Sysprep\Disable_Bing_Cortana_In_Search.reg,696
+1,1,Regfiles\Sysprep\Disable_Chat_Taskbar.reg,592
+1,1,Regfiles\Sysprep\Disable_Click_to_Do.reg,240
+1,1,Regfiles\Sysprep\Disable_Copilot.reg,496
+1,1,Regfiles\Sysprep\Disable_Desktop_Spotlight.reg,332
+1,1,Regfiles\Sysprep\Disable_DVR.reg,211
+1,1,Regfiles\Sysprep\Disable_Edge_Ads_And_Suggestions.reg,806
+1,1,Regfiles\Sysprep\Disable_Edge_AI_Features.reg,426
+1,1,Regfiles\Sysprep\Disable_Enhance_Pointer_Precision.reg,140
+1,1,Regfiles\Sysprep\Disable_Fast_Startup.reg,148
+1,1,Regfiles\Sysprep\Disable_Give_access_to_context_menu.reg,1376
+1,1,Regfiles\Sysprep\Disable_Include_in_library_from_context_menu.reg,418
+1,1,Regfiles\Sysprep\Disable_Lockscreen_Tips.reg,608
+1,1,Regfiles\Sysprep\Disable_Modern_Standby_Networking.reg,207
+1,1,Regfiles\Sysprep\Disable_Notepad_AI_Features.reg,127
+1,1,Regfiles\Sysprep\Disable_Paint_AI_Features.reg,307
+1,1,Regfiles\Sysprep\Disable_Phone_Link_In_Start.reg,217
+1,1,Regfiles\Sysprep\Disable_Settings_365_Ads.reg,198
+1,1,Regfiles\Sysprep\Disable_Settings_Home.reg,156
+1,1,Regfiles\Sysprep\Disable_Share_from_context_menu.reg,214
+1,1,Regfiles\Sysprep\Disable_Show_More_Options_Context_Menu.reg,702
+1,1,Regfiles\Sysprep\Disable_Start_Recommended.reg,537
+1,1,Regfiles\Sysprep\Disable_Sticky_Keys_Shortcut.reg,112
+1,1,Regfiles\Sysprep\Disable_Telemetry.reg,4304
+1,1,Regfiles\Sysprep\Disable_Transparency.reg,156
+1,1,Regfiles\Sysprep\Disable_Widgets_Service.reg,580
+1,1,Regfiles\Sysprep\Disable_Windows_Suggestions.reg,5486
+1,1,Regfiles\Sysprep\Enable_Dark_Mode.reg,559
+1,1,Regfiles\Sysprep\Enable_End_Task.reg,176
+1,1,Regfiles\Sysprep\Enable_Last_Active_Click.reg,726
+1,1,Regfiles\Sysprep\Hide_3D_Objects_Folder.reg,646
+1,1,Regfiles\Sysprep\Hide_duplicate_removable_drives_from_navigation_pane_of_File_Explorer.reg,376
+1,1,Regfiles\Sysprep\Hide_Gallery_from_Explorer.reg,1892
+1,1,Regfiles\Sysprep\Hide_Home_from_Explorer.reg,2194
+1,1,Regfiles\Sysprep\Hide_Music_Folder.reg,646
+1,1,Regfiles\Sysprep\Hide_Onedrive_Folder.reg,546
+1,1,Regfiles\Sysprep\Hide_Search_Taskbar.reg,724
+1,1,Regfiles\Sysprep\Hide_Taskview_Taskbar.reg,320
+1,1,Regfiles\Sysprep\Launch_File_Explorer_To_Downloads.reg,145
+1,1,Regfiles\Sysprep\Launch_File_Explorer_To_Home.reg,145
+1,1,Regfiles\Sysprep\Launch_File_Explorer_To_OneDrive.reg,145
+1,1,Regfiles\Sysprep\Launch_File_Explorer_To_This_PC.reg,145
+1,1,Regfiles\Sysprep\Show_Extensions_For_Known_File_Types.reg,306
+1,1,Regfiles\Sysprep\Show_Hidden_Folders.reg,296
+1,1,Regfiles\Sysprep\Show_Search_Box.reg,724
+1,1,Regfiles\Sysprep\Show_Search_Icon.reg,724
+1,1,Regfiles\Sysprep\Show_Search_Icon_And_Label.reg,724
+1,1,Regfiles\Undo\Align_Taskbar_Center.reg,274
+1,1,Regfiles\Undo\Allow_Edge_Telemetry.reg,410
+1,1,Regfiles\Undo\Disable_End_Task.reg,175
+1,1,Regfiles\Undo\Disable_Last_Active_Click.reg,298
+1,1,Regfiles\Undo\Enable_Activity_History.reg,154
+1,1,Regfiles\Undo\Enable_AI_Recall.reg,436
+1,1,Regfiles\Undo\Enable_Animations.reg,130
+1,1,Regfiles\Undo\Enable_Bing_Cortana_In_Search.reg,638
+1,1,Regfiles\Undo\Enable_Chat_Taskbar.reg,588
+1,1,Regfiles\Undo\Enable_Click_to_Do.reg,213
+1,1,Regfiles\Undo\Enable_Copilot.reg,465
+1,1,Regfiles\Undo\Enable_Desktop_Spotlight.reg,304
+1,1,Regfiles\Undo\Enable_DVR.reg,209
+1,1,Regfiles\Undo\Enable_Edge_Ads_And_Suggestions.reg,674
+1,1,Regfiles\Undo\Enable_Edge_AI_Features.reg,322
+1,1,Regfiles\Undo\Enable_Enhance_Pointer_Precision.reg,140
+1,1,Regfiles\Undo\Enable_Fast_Startup.reg,148
+1,1,Regfiles\Undo\Enable_Give_access_to_context_menu.reg,2810
+1,1,Regfiles\Undo\Enable_Include_in_library_to_context_menu.reg,590
+1,1,Regfiles\Undo\Enable_Light_Mode.reg,192
+1,1,Regfiles\Undo\Enable_Lockscreen_Tips.reg,612
+1,1,Regfiles\Undo\Enable_Modern_Standby_Networking.reg,207
+1,1,Regfiles\Undo\Enable_Notepad_AI_Features.reg,114
+1,1,Regfiles\Undo\Enable_Paint_AI_Features.reg,242
+1,1,Regfiles\Undo\Enable_Phone_Link_In_Start.reg,215
+1,1,Regfiles\Undo\Enable_Settings_365_Ads.reg,184
+1,1,Regfiles\Undo\Enable_Settings_Home.reg,146
+1,1,Regfiles\Undo\Enable_Share_to_context_menu.reg,300
+1,1,Regfiles\Undo\Enable_Start_Recommended.reg,525
+1,1,Regfiles\Undo\Enable_Sticky_Keys_Shortcut.reg,111
+1,1,Regfiles\Undo\Enable_Telemetry.reg,4448
+1,1,Regfiles\Undo\Enable_Transparency.reg,155
+1,1,Regfiles\Undo\Enable_W11_Style_Context_Menu.reg,254
+1,1,Regfiles\Undo\Enable_Widgets_Service.reg,552
+1,1,Regfiles\Undo\Enable_Windows_Suggestions.reg,5724
+1,1,Regfiles\Undo\Hide_Extensions_For_Known_File_Types.reg,304
+1,1,Regfiles\Undo\Hide_Hidden_Folders.reg,294
+1,1,Regfiles\Undo\Show_3D_Objects_Folder.reg,564
+1,1,Regfiles\Undo\Show_duplicate_removable_drives_from_navigation_pane_of_File_Explorer.reg,414
+1,1,Regfiles\Undo\Show_Gallery_in_Explorer.reg,1456
+1,1,Regfiles\Undo\Show_Home_from_Explorer.reg,1490
+1,1,Regfiles\Undo\Show_Music_Folder.reg,642
+1,1,Regfiles\Undo\Show_Onedrive_folder.reg,542
+1,1,Regfiles\Undo\Show_Taskview_Taskbar.reg,318
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Fri Sep 26 16:34:37 2025           **
+;**                                                                **
+;*** END ************************************************************

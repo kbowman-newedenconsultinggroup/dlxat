@@ -1,0 +1,1 @@
+msiexec /i https://www.invgate.tech/media/updates/insight-agent-windows-3_42_0.msi PROTOCOL='https' IP='adulator.is.cloud.invgate.net' PORT='443' SECRET_KEY='82435aac5d2c3593'

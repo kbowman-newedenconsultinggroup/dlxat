@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ICDProject
+  Name="configProject"
+  Description=""
+  Version="2025.416.0.0+757d43c324c9c7478617b0f9126747d9cdee37db"
+  Id="{3c9f95a0-8888-43a3-b3db-dcae34034f2d}"
+  TemplateName="Provisioning package"
+  TemplateType="ProvisioningPackage">
+  <TargetEditions>
+    <Sku>
+      <StoreType>File</StoreType>
+      <Name>All Windows editions</Name>
+      <SourcePath>Microsoft-Common-Provisioning.dat</SourcePath>
+      <Edition>WindowsCommon</Edition>
+      <Version>10.0</Version>
+      <Description>Selecting this option will display settings that apply to all Windows editions.</Description>
+    </Sku>
+    <Sku>
+      <StoreType>File</StoreType>
+      <Name>All Windows desktop editions</Name>
+      <SourcePath>Microsoft-Desktop-Provisioning.dat</SourcePath>
+      <Edition>Desktop</Edition>
+      <Version>10.0</Version>
+      <Description>Selecting this option will display settings that are specific to the desktop editions as well as settings that are common to all Windows editions.</Description>
+    </Sku>
+  </TargetEditions>
+</ICDProject>
