@@ -2,8 +2,8 @@
 <WindowsCustomizations>
   <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
     <ID>{3c9f95a0-8888-43a3-b3db-dcae34034f2d}</ID>
-    <Name>prod-config</Name>
-    <Version>1.19</Version>
+    <Name>prod-current</Name>
+    <Version>1.10</Version>
     <OwnerType>SystemIntegrator</OwnerType>
     <Rank>0</Rank>
     <Notes></Notes>
