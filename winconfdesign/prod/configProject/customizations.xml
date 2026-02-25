@@ -25,12 +25,8 @@
         </Accounts>
         <Browser>
           <FavoriteBarItems>
-            <FavoriteBarItem FavoriteItem="aInvgate" Name="aInvgate">
-              <ItemName>Computer Support</ItemName>
-              <ItemUrl>https://support.kcconnect.me/</ItemUrl>
-            </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="boffice" Name="boffice">
-              <ItemName>Computer Support</ItemName>
+            <FavoriteBarItem FavoriteItem="aHelp" Name="aHelp">
+              <ItemName>Help with your Computer</ItemName>
               <ItemUrl>https://support.kcconnect.me/</ItemUrl>
             </FavoriteBarItem>
             <FavoriteBarItem FavoriteItem="bzoffice" Name="bzoffice">
@@ -52,6 +48,10 @@
             <FavoriteBarItem FavoriteItem="gjocopl" Name="gjocopl">
               <ItemName>JohnsonCo Public Library</ItemName>
               <ItemUrl>https://jocolibrary.org/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="zHelp" Name="zHelp">
+              <ItemName>Computer Support</ItemName>
+              <ItemUrl>https://support.kcconnect.me/</ItemUrl>
             </FavoriteBarItem>
           </FavoriteBarItems>
         </Browser>
