@@ -3,7 +3,7 @@
   <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
     <ID>{3c9f95a0-8888-43a3-b3db-dcae34034f2d}</ID>
     <Name>prod-config</Name>
-    <Version>1.15</Version>
+    <Version>1.19</Version>
     <OwnerType>SystemIntegrator</OwnerType>
     <Rank>0</Rank>
     <Notes></Notes>
@@ -25,31 +25,31 @@
         </Accounts>
         <Browser>
           <FavoriteBarItems>
-            <FavoriteBarItem FavoriteItem="aSupportPortal" Name="aSupportPortal">
+            <FavoriteBarItem FavoriteItem="aInvgate" Name="aInvgate">
               <ItemName>Computer Support</ItemName>
               <ItemUrl>https://support.kcconnect.me/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="aTCKCSupportPortal" Name="aTCKCSupportPortal">
+            <FavoriteBarItem FavoriteItem="boffice" Name="boffice">
               <ItemName>Computer Support</ItemName>
-              <ItemUrl>https://support.kcconnect.me</ItemUrl>
+              <ItemUrl>https://support.kcconnect.me/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="bMicrosoftOffice" Name="bMicrosoftOffice">
+            <FavoriteBarItem FavoriteItem="bzoffice" Name="bzoffice">
               <ItemName>Microsoft Office</ItemName>
               <ItemUrl>https://office.com/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="cDLXProgram" Name="cDLXProgram">
+            <FavoriteBarItem FavoriteItem="cdlx" Name="cdlx">
               <ItemName>DLX Program</ItemName>
               <ItemUrl>https://kcconnect.me/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="dKansasWorks" Name="dKansasWorks">
+            <FavoriteBarItem FavoriteItem="ekansasworks" Name="ekansasworks">
               <ItemName>Kansas Works</ItemName>
               <ItemUrl>https://kansasworks.com/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="eKCKPL" Name="eKCKPL">
+            <FavoriteBarItem FavoriteItem="fkckpl" Name="fkckpl">
               <ItemName>KCK Public Library</ItemName>
-              <ItemUrl>https://www.kckpl.org/</ItemUrl>
+              <ItemUrl>https://kckpl.org/</ItemUrl>
             </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="fJoCoPL" Name="fJoCoPL">
+            <FavoriteBarItem FavoriteItem="gjocopl" Name="gjocopl">
               <ItemName>JohnsonCo Public Library</ItemName>
               <ItemUrl>https://jocolibrary.org/</ItemUrl>
             </FavoriteBarItem>
