@@ -5,6 +5,7 @@ Get-AppXPackage Advanc* -AllUsers | Remove-AppXPackage
 Get-AppXPackage RealtekSemiconductorCorp.HPAudio* -AllUsers | Remove-AppXPackage
 Get-AppxPackage Microsoft.YourPhone -AllUsers | Remove-AppxPackage
 
+D:\importBookmarks-SupportPortal.ps1
 D:\importBookmarks.ps1
 D:\importBookmarks-Healthcare.ps1
 
