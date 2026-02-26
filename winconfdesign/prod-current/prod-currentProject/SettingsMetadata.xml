@@ -444,178 +444,6 @@
         <Windows Edition="Unknown" Version="Unknown" Component="" />
       </AppearsIn>
     </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/cdlx">
-      <Type>Tree</Type>
-      <Name>cdlx</Name>
-      <Description></Description>
-      <Guid>{d044703d-abae-545b-a4c3-f350a0c57519}</Guid>
-      <IsLeaf>False</IsLeaf>
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/cdlx/ItemFavIconFile">
-      <Type>Text</Type>
-      <Name>ItemFavIconFile</Name>
-      <Description>Favorites bar item icon path</Description>
-      <Guid>{3acc2975-6342-59af-9dce-e04d8b3ceeca}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/cdlx/ItemName">
-      <Type>Text</Type>
-      <Name>ItemName</Name>
-      <Description>Favorites bar item name</Description>
-      <Guid>{917aaced-147f-5b2d-8501-66596f9a72e4}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/cdlx/ItemUrl">
-      <Type>Text</Type>
-      <Name>ItemUrl</Name>
-      <Description>Favorites bar item url</Description>
-      <Guid>{ffca1019-64fe-5767-8c72-dda3da9e68be}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/ekansasworks">
-      <Type>Tree</Type>
-      <Name>ekansasworks</Name>
-      <Description></Description>
-      <Guid>{464b2199-8a94-5d5a-b35a-41693f8a9f7f}</Guid>
-      <IsLeaf>False</IsLeaf>
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/ekansasworks/ItemFavIconFile">
-      <Type>Text</Type>
-      <Name>ItemFavIconFile</Name>
-      <Description>Favorites bar item icon path</Description>
-      <Guid>{85443ee6-526c-55f7-9d49-6e51d98abe51}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/ekansasworks/ItemName">
-      <Type>Text</Type>
-      <Name>ItemName</Name>
-      <Description>Favorites bar item name</Description>
-      <Guid>{ed174bb7-e797-553b-a78c-3414d9b8ad04}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/ekansasworks/ItemUrl">
-      <Type>Text</Type>
-      <Name>ItemUrl</Name>
-      <Description>Favorites bar item url</Description>
-      <Guid>{2ab47d6b-93d5-54a4-8a93-9bf8f25a6e95}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/fkckpl">
-      <Type>Tree</Type>
-      <Name>fkckpl</Name>
-      <Description></Description>
-      <Guid>{63860d6d-c3d7-5b30-8f96-5df1a132c40d}</Guid>
-      <IsLeaf>False</IsLeaf>
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/fkckpl/ItemFavIconFile">
-      <Type>Text</Type>
-      <Name>ItemFavIconFile</Name>
-      <Description>Favorites bar item icon path</Description>
-      <Guid>{e08edfe9-e7bb-5c43-a242-95e5101f49d8}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/fkckpl/ItemName">
-      <Type>Text</Type>
-      <Name>ItemName</Name>
-      <Description>Favorites bar item name</Description>
-      <Guid>{cd71e7c4-87b9-5bd3-9f72-35e86e352172}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/fkckpl/ItemUrl">
-      <Type>Text</Type>
-      <Name>ItemUrl</Name>
-      <Description>Favorites bar item url</Description>
-      <Guid>{dd713ec9-cca9-5294-a8a5-1c9239bffc70}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/gjocopl">
-      <Type>Tree</Type>
-      <Name>gjocopl</Name>
-      <Description></Description>
-      <Guid>{155fe8e3-b7f8-5653-ae22-4ee8aa310154}</Guid>
-      <IsLeaf>False</IsLeaf>
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/gjocopl/ItemFavIconFile">
-      <Type>Text</Type>
-      <Name>ItemFavIconFile</Name>
-      <Description>Favorites bar item icon path</Description>
-      <Guid>{fef72f70-bc34-50de-8bc2-cb3855027008}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/gjocopl/ItemName">
-      <Type>Text</Type>
-      <Name>ItemName</Name>
-      <Description>Favorites bar item name</Description>
-      <Guid>{77e7dc32-4f6a-53e6-bbcf-d8a90eb5c0de}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
-    <Setting URI="/Browser/FavoriteBarItems/gjocopl/ItemUrl">
-      <Type>Text</Type>
-      <Name>ItemUrl</Name>
-      <Description>Favorites bar item url</Description>
-      <Guid>{a3b67188-bae4-53bd-8c9f-4c082f06bbc4}</Guid>
-      <IsLeaf>True</IsLeaf>
-      <ValidationInfo />
-      <AppearsIn>
-        <Windows Edition="Unknown" Version="Unknown" Component="" />
-      </AppearsIn>
-    </Setting>
     <Setting URI="/Browser/FavoriteBarItems/zHelp">
       <Type>Tree</Type>
       <Name>zHelp</Name>
@@ -653,6 +481,221 @@
       <Name>ItemUrl</Name>
       <Description>Favorites bar item url</Description>
       <Guid>{f8d28a49-1db9-57de-8959-b23f78af63b7}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzaOffice">
+      <Type>Tree</Type>
+      <Name>zzaOffice</Name>
+      <Description></Description>
+      <Guid>{dee15a41-ace7-5785-b1d7-f5f51cdc8525}</Guid>
+      <IsLeaf>False</IsLeaf>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzaOffice/ItemFavIconFile">
+      <Type>Text</Type>
+      <Name>ItemFavIconFile</Name>
+      <Description>Favorites bar item icon path</Description>
+      <Guid>{8ca1e462-42d4-556f-ad64-e3493dba399b}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzaOffice/ItemName">
+      <Type>Text</Type>
+      <Name>ItemName</Name>
+      <Description>Favorites bar item name</Description>
+      <Guid>{5d7b4b9a-e2c8-5bd2-8d12-45ccb780d360}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzaOffice/ItemUrl">
+      <Type>Text</Type>
+      <Name>ItemUrl</Name>
+      <Description>Favorites bar item url</Description>
+      <Guid>{d4b9c224-98b1-519f-b92c-9f23227274a6}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzbdlx">
+      <Type>Tree</Type>
+      <Name>zzbdlx</Name>
+      <Description></Description>
+      <Guid>{b38bf614-d65a-5314-b63d-aecb2de0cff5}</Guid>
+      <IsLeaf>False</IsLeaf>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzbdlx/ItemFavIconFile">
+      <Type>Text</Type>
+      <Name>ItemFavIconFile</Name>
+      <Description>Favorites bar item icon path</Description>
+      <Guid>{24df0536-8e76-5ef0-abb9-7eac4bea79f1}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzbdlx/ItemName">
+      <Type>Text</Type>
+      <Name>ItemName</Name>
+      <Description>Favorites bar item name</Description>
+      <Guid>{dbff62e2-d71f-5cd7-83ab-261be28ff1fb}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzbdlx/ItemUrl">
+      <Type>Text</Type>
+      <Name>ItemUrl</Name>
+      <Description>Favorites bar item url</Description>
+      <Guid>{7d58455f-e933-5c82-bb71-ed08c094a37c}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzckansasworks">
+      <Type>Tree</Type>
+      <Name>zzckansasworks</Name>
+      <Description></Description>
+      <Guid>{77699cb2-b653-52a9-a93e-978ac2578617}</Guid>
+      <IsLeaf>False</IsLeaf>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzckansasworks/ItemFavIconFile">
+      <Type>Text</Type>
+      <Name>ItemFavIconFile</Name>
+      <Description>Favorites bar item icon path</Description>
+      <Guid>{36a8db74-0506-5ce3-afb4-a8f1a36da2d3}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzckansasworks/ItemName">
+      <Type>Text</Type>
+      <Name>ItemName</Name>
+      <Description>Favorites bar item name</Description>
+      <Guid>{bb474ab9-1f47-5a52-bf69-2a3ef6c10d0f}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzckansasworks/ItemUrl">
+      <Type>Text</Type>
+      <Name>ItemUrl</Name>
+      <Description>Favorites bar item url</Description>
+      <Guid>{045b8611-3db7-5827-8fd1-b2bbac2a359d}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzdkckpl">
+      <Type>Tree</Type>
+      <Name>zzdkckpl</Name>
+      <Description></Description>
+      <Guid>{671172fd-1f0b-544c-a42a-6f8e83043c03}</Guid>
+      <IsLeaf>False</IsLeaf>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzdkckpl/ItemFavIconFile">
+      <Type>Text</Type>
+      <Name>ItemFavIconFile</Name>
+      <Description>Favorites bar item icon path</Description>
+      <Guid>{835bd263-ff45-5d16-9ace-5decd1bd4739}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzdkckpl/ItemName">
+      <Type>Text</Type>
+      <Name>ItemName</Name>
+      <Description>Favorites bar item name</Description>
+      <Guid>{355cb4c6-39e9-5f42-b9c4-3df4f69a34fb}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzdkckpl/ItemUrl">
+      <Type>Text</Type>
+      <Name>ItemUrl</Name>
+      <Description>Favorites bar item url</Description>
+      <Guid>{9f6c29b3-9b22-5a8e-87c6-aea5868a7318}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzejocopl">
+      <Type>Tree</Type>
+      <Name>zzejocopl</Name>
+      <Description></Description>
+      <Guid>{7fbad376-7961-53f9-938f-ba2f4ee38cc3}</Guid>
+      <IsLeaf>False</IsLeaf>
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzejocopl/ItemFavIconFile">
+      <Type>Text</Type>
+      <Name>ItemFavIconFile</Name>
+      <Description>Favorites bar item icon path</Description>
+      <Guid>{fa71dcaa-e31a-500d-abae-eaa151565c5b}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzejocopl/ItemName">
+      <Type>Text</Type>
+      <Name>ItemName</Name>
+      <Description>Favorites bar item name</Description>
+      <Guid>{8999e73e-0462-5d24-a971-d0848b1e678b}</Guid>
+      <IsLeaf>True</IsLeaf>
+      <ValidationInfo />
+      <AppearsIn>
+        <Windows Edition="Unknown" Version="Unknown" Component="" />
+      </AppearsIn>
+    </Setting>
+    <Setting URI="/Browser/FavoriteBarItems/zzejocopl/ItemUrl">
+      <Type>Text</Type>
+      <Name>ItemUrl</Name>
+      <Description>Favorites bar item url</Description>
+      <Guid>{5e2b9419-fc6f-57d4-9ecb-dd94381f40b7}</Guid>
       <IsLeaf>True</IsLeaf>
       <ValidationInfo />
       <AppearsIn>
