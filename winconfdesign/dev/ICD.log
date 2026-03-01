@@ -1,0 +1,381 @@
+2/27/2026 11:02:31 AM Info Project 'dev' created successfully and added to workspace
+2/27/2026 11:02:32 AM Info Loading scenario ID: d2fa89db-1251-4bdf-b1bf-4b96016aaea4, URI: http://localhost:9098/Scenarios/d2fa89db-1251-4bdf-b1bf-4b96016aaea4/Index.html
+2/27/2026 11:03:52 AM Info Clear all Config Template answers
+2/27/2026 11:03:52 AM Info Save Config Template answers for active project
+2/27/2026 11:03:52 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:03:52 AM Info !EnableSharedPC, Value: false
+2/27/2026 11:03:52 AM Info !enableDeviceSharing_display, Value: Yes
+2/27/2026 11:03:52 AM Info !disableDeviceSharing, Value: No
+2/27/2026 11:03:52 AM Info SharedPC//EnableSharedPCMode, Value: true
+2/27/2026 11:03:52 AM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+2/27/2026 11:03:52 AM Info SharedPC//AccountManagement//AccountModel, Value: 2
+2/27/2026 11:03:52 AM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+2/27/2026 11:03:52 AM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+2/27/2026 11:03:52 AM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+2/27/2026 11:03:52 AM Info SharedPC//ConfigureApplications, Value: true
+2/27/2026 11:03:52 AM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+2/27/2026 11:03:52 AM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+2/27/2026 11:03:52 AM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+2/27/2026 11:03:52 AM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+2/27/2026 11:03:52 AM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+2/27/2026 11:03:52 AM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+2/27/2026 11:03:52 AM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+2/27/2026 11:03:52 AM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+2/27/2026 11:03:52 AM Info Policies//Update//AllowAutoUpdate, Value: 4
+2/27/2026 11:03:52 AM Info !EnableCleanPC, Value: false
+2/27/2026 11:03:52 AM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+2/27/2026 11:03:52 AM Info !EnableCleanPcDisplayFalse, Value: No
+2/27/2026 11:03:52 AM Info OOBE/Desktop/HideOOBE, Value: true
+2/27/2026 11:03:52 AM Info DevDetail//DNSComputerName, Value: dlxat-wn-%SERIAL%
+2/27/2026 11:03:52 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:03:52 AM Info !ConfigureWiFi, Value: false
+2/27/2026 11:03:52 AM Info !configureWiFi_transparent, Value: Wired
+2/27/2026 11:03:52 AM Info !SecurityType, Value: Open
+2/27/2026 11:03:52 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:03:52 AM Info !domainJoin, Value: domainJoin.3
+2/27/2026 11:03:52 AM Info !bprtCredentialCacheRefresh, Value: false
+2/27/2026 11:03:52 AM Info bprtExpiry, Value: 2026-08-26T17:03:22.677Z
+2/27/2026 11:03:52 AM Info !admin_usergroup, Value: 2
+2/27/2026 11:03:52 AM Info !admin_password, Value: LockScott
+2/27/2026 11:03:52 AM Info Accounts//Users, Value: ScottLock
+2/27/2026 11:03:52 AM Info Accounts//Users//ScottLock//Password, Value: LockScott
+2/27/2026 11:03:52 AM Info Accounts//Users//ScottLock//UserGroup, Value: 2
+2/27/2026 11:03:52 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:03:52 AM Info !SetupApplications, Value: true
+2/27/2026 11:03:52 AM Info ProvisioningCommands//PrimaryContext//Command, Value: []
+2/27/2026 11:03:52 AM Info UniversalAppInstall//DeviceContextApp, Value: []
+2/27/2026 11:03:52 AM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+2/27/2026 11:03:52 AM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+2/27/2026 11:03:52 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:03:52 AM Info !SetupCertificates, Value: true
+2/27/2026 11:03:52 AM Info Certificates//RootCertificates, Value: []
+2/27/2026 11:03:52 AM Info Start provisioning package build
+2/27/2026 11:03:52 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110352-173_4040.11_196479792.1'
+2/27/2026 11:03:52 AM Info Adding runtime settings to Provisioning Package
+2/27/2026 11:03:52 AM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110352-284_4040.11_1874639012.2
+2/27/2026 11:03:52 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110352-284_4040.11_1874639012.2\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+2/27/2026 11:03:52 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110352-284_4040.11_1874639012.2\Prov\RunTime\1__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+2/27/2026 11:03:52 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110352-284_4040.11_1874639012.2\Prov\RunTime\2__DevDetail_DNSComputerName.provxml
+2/27/2026 11:03:52 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110352-284_4040.11_1874639012.2\Prov\RunTime\3__OOBE_Desktop_HideOobe.provxml
+2/27/2026 11:03:52 AM Info Adding deployment settings to Provisioning Package
+2/27/2026 11:03:52 AM Info Adding file assets to Provisioning Package
+2/27/2026 11:03:53 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110353-015_4040.11_50316592.cat, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat
+2/27/2026 11:03:53 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110352-173_4040.11_196479792.1, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg
+2/27/2026 11:03:53 AM Info DeleteFile: File '' does not exist
+2/27/2026 11:03:53 AM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110352-173_4040.11_196479792.1' does not exist
+2/27/2026 11:03:53 AM Info Provisioning package build is completed with result: Success
+2/27/2026 11:03:53 AM Info Sent message to all clients for project e34d5372-6b63-4fda-a228-a41b6a133128
+2/27/2026 11:04:06 AM Info Clear all Config Template answers
+2/27/2026 11:04:06 AM Info Save Config Template answers for active project
+2/27/2026 11:04:06 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:04:06 AM Info !EnableSharedPC, Value: false
+2/27/2026 11:04:06 AM Info !enableDeviceSharing_display, Value: Yes
+2/27/2026 11:04:06 AM Info !disableDeviceSharing, Value: No
+2/27/2026 11:04:06 AM Info SharedPC//EnableSharedPCMode, Value: true
+2/27/2026 11:04:06 AM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+2/27/2026 11:04:06 AM Info SharedPC//AccountManagement//AccountModel, Value: 2
+2/27/2026 11:04:06 AM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+2/27/2026 11:04:06 AM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+2/27/2026 11:04:06 AM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+2/27/2026 11:04:06 AM Info SharedPC//ConfigureApplications, Value: true
+2/27/2026 11:04:06 AM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+2/27/2026 11:04:06 AM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+2/27/2026 11:04:06 AM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+2/27/2026 11:04:06 AM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+2/27/2026 11:04:06 AM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+2/27/2026 11:04:06 AM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+2/27/2026 11:04:06 AM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+2/27/2026 11:04:06 AM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+2/27/2026 11:04:06 AM Info Policies//Update//AllowAutoUpdate, Value: 4
+2/27/2026 11:04:06 AM Info !EnableCleanPC, Value: false
+2/27/2026 11:04:06 AM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+2/27/2026 11:04:06 AM Info !EnableCleanPcDisplayFalse, Value: No
+2/27/2026 11:04:06 AM Info OOBE/Desktop/HideOOBE, Value: true
+2/27/2026 11:04:06 AM Info DevDetail//DNSComputerName, Value: dlxat-wn-%SERIAL%
+2/27/2026 11:04:06 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:04:06 AM Info !ConfigureWiFi, Value: false
+2/27/2026 11:04:06 AM Info !configureWiFi_transparent, Value: Wired
+2/27/2026 11:04:06 AM Info !SecurityType, Value: Open
+2/27/2026 11:04:06 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:04:06 AM Info !domainJoin, Value: domainJoin.3
+2/27/2026 11:04:06 AM Info !bprtCredentialCacheRefresh, Value: false
+2/27/2026 11:04:06 AM Info bprtExpiry, Value: 2026-08-26T17:03:22.677Z
+2/27/2026 11:04:06 AM Info !admin_usergroup, Value: 2
+2/27/2026 11:04:06 AM Info !admin_password, Value: LockScott
+2/27/2026 11:04:06 AM Info Accounts//Users, Value: ScottLock
+2/27/2026 11:04:06 AM Info Accounts//Users//ScottLock//Password, Value: LockScott
+2/27/2026 11:04:06 AM Info Accounts//Users//ScottLock//UserGroup, Value: 2
+2/27/2026 11:04:06 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:04:06 AM Info !SetupApplications, Value: true
+2/27/2026 11:04:06 AM Info ProvisioningCommands//PrimaryContext//Command, Value: []
+2/27/2026 11:04:06 AM Info UniversalAppInstall//DeviceContextApp, Value: []
+2/27/2026 11:04:06 AM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+2/27/2026 11:04:06 AM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+2/27/2026 11:04:06 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:04:06 AM Info !SetupCertificates, Value: true
+2/27/2026 11:04:06 AM Info Certificates//RootCertificates, Value: []
+2/27/2026 11:04:06 AM Info Start provisioning package build
+2/27/2026 11:04:06 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110406-126_4040.7_1553461964.5'
+2/27/2026 11:04:06 AM Info Adding runtime settings to Provisioning Package
+2/27/2026 11:04:06 AM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110406-216_4040.7_1572281260.6
+2/27/2026 11:04:06 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110406-216_4040.7_1572281260.6\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+2/27/2026 11:04:06 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110406-216_4040.7_1572281260.6\Prov\RunTime\1__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+2/27/2026 11:04:06 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110406-216_4040.7_1572281260.6\Prov\RunTime\2__DevDetail_DNSComputerName.provxml
+2/27/2026 11:04:06 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110406-216_4040.7_1572281260.6\Prov\RunTime\3__OOBE_Desktop_HideOobe.provxml
+2/27/2026 11:04:06 AM Info Adding deployment settings to Provisioning Package
+2/27/2026 11:04:06 AM Info Adding file assets to Provisioning Package
+2/27/2026 11:04:06 AM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat' exist and called with overwrite
+2/27/2026 11:04:06 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110406-488_4040.7_752545756.cat, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat
+2/27/2026 11:04:06 AM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg' exist and called with overwrite
+2/27/2026 11:04:06 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110406-126_4040.7_1553461964.5, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg
+2/27/2026 11:04:06 AM Info DeleteFile: File '' does not exist
+2/27/2026 11:04:06 AM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-110406-126_4040.7_1553461964.5' does not exist
+2/27/2026 11:04:06 AM Info Provisioning package build is completed with result: Success
+2/27/2026 11:04:06 AM Info Sent message to all clients for project e34d5372-6b63-4fda-a228-a41b6a133128
+2/27/2026 11:13:42 AM Info Clear all Config Template answers
+2/27/2026 11:13:42 AM Info Save Config Template answers for active project
+2/27/2026 11:13:42 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:13:42 AM Info !EnableSharedPC, Value: false
+2/27/2026 11:13:42 AM Info !enableDeviceSharing_display, Value: Yes
+2/27/2026 11:13:42 AM Info !disableDeviceSharing, Value: No
+2/27/2026 11:13:42 AM Info SharedPC//EnableSharedPCMode, Value: true
+2/27/2026 11:13:42 AM Info SharedPC//AccountManagement//DeletionPolicy, Value: 2
+2/27/2026 11:13:42 AM Info SharedPC//AccountManagement//AccountModel, Value: 2
+2/27/2026 11:13:42 AM Info SharedPC//AccountManagement//DiskLevelCaching, Value: 50
+2/27/2026 11:13:42 AM Info SharedPC/AccountManagement/DiskLevelCaching, Value: 25
+2/27/2026 11:13:42 AM Info SharedPC//AccountManagement//EnableAccountManager, Value: true
+2/27/2026 11:13:42 AM Info SharedPC//ConfigureApplications, Value: true
+2/27/2026 11:13:42 AM Info SharedPC//PolicyCustomization//SetEduPolicies, Value: true
+2/27/2026 11:13:42 AM Info SharedPC//PolicyCustomization//SetPowerPolicies, Value: true
+2/27/2026 11:13:42 AM Info SharedPC//PolicyCustomization//SignInOnResume, Value: true
+2/27/2026 11:13:42 AM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 0
+2/27/2026 11:13:42 AM Info Policies//ApplicationManagement//AllowDeveloperUnlock, Value: 0
+2/27/2026 11:13:42 AM Info Policies//Experience//AllowManualMDMUnenrollment, Value: 0
+2/27/2026 11:13:42 AM Info Policies//Security//AllowAddProvisioningPackage, Value: 0
+2/27/2026 11:13:42 AM Info Policies//Security//AllowRemoveProvisioningPackage, Value: 0
+2/27/2026 11:13:42 AM Info Policies//Update//AllowAutoUpdate, Value: 4
+2/27/2026 11:13:42 AM Info !EnableCleanPC, Value: false
+2/27/2026 11:13:42 AM Info CleanPC//CleanPCWithoutRetainingUserData, Value: 1
+2/27/2026 11:13:42 AM Info !EnableCleanPcDisplayFalse, Value: No
+2/27/2026 11:13:42 AM Info OOBE/Desktop/HideOOBE, Value: true
+2/27/2026 11:13:42 AM Info DevDetail//DNSComputerName, Value: dlxat-wn-%SERIAL%
+2/27/2026 11:13:42 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:13:42 AM Info !ConfigureWiFi, Value: false
+2/27/2026 11:13:42 AM Info !configureWiFi_transparent, Value: Wired
+2/27/2026 11:13:42 AM Info !SecurityType, Value: Open
+2/27/2026 11:13:42 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:13:42 AM Info !domainJoin, Value: domainJoin.3
+2/27/2026 11:13:42 AM Info !bprtCredentialCacheRefresh, Value: false
+2/27/2026 11:13:42 AM Info bprtExpiry, Value: 2026-08-26T17:03:22.677Z
+2/27/2026 11:13:42 AM Info !admin_usergroup, Value: 2
+2/27/2026 11:13:42 AM Info !admin_password, Value: LockScott
+2/27/2026 11:13:42 AM Info Accounts//Users, Value: ScottLock
+2/27/2026 11:13:42 AM Info Accounts//Users//ScottLock//Password, Value: LockScott
+2/27/2026 11:13:42 AM Info Accounts//Users//ScottLock//UserGroup, Value: 2
+2/27/2026 11:13:42 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:13:42 AM Info !SetupApplications, Value: true
+2/27/2026 11:13:42 AM Info ProvisioningCommands//PrimaryContext//Command, Value: []
+2/27/2026 11:13:42 AM Info UniversalAppInstall//DeviceContextApp, Value: []
+2/27/2026 11:13:42 AM Info UniversalAppInstall//DeviceContextAppLicense, Value: []
+2/27/2026 11:13:42 AM Info Policies//ApplicationManagement//AllowAllTrustedApps, Value: 1
+2/27/2026 11:13:42 AM Info !ConfigureTemplate, Value: true
+2/27/2026 11:13:42 AM Info !SetupCertificates, Value: true
+2/27/2026 11:13:42 AM Info Certificates//RootCertificates, Value: []
+2/27/2026 11:13:44 AM Info Project 'dev' created successfully and added to workspace
+2/27/2026 11:14:17 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-cellcore
+2/27/2026 11:14:31 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 11:14:41 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 11:14:51 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 11:14:54 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 11:14:56 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 12:14:38 PM Info Project 'dev' created successfully and added to workspace
+2/27/2026 12:14:48 PM Info Start Provisioning package Build for Project: dev
+2/27/2026 12:15:00 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-121500-574_2708.3_1420613209.1'
+2/27/2026 12:15:00 PM Info Adding runtime settings to Provisioning Package
+2/27/2026 12:15:00 PM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-121500-661_2708.3_144294112.2
+2/27/2026 12:15:00 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-121500-661_2708.3_144294112.2\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+2/27/2026 12:15:00 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-121500-661_2708.3_144294112.2\Prov\RunTime\1__Browser_FavoriteBarItems_aSupportPortal.provxml
+2/27/2026 12:15:00 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-121500-661_2708.3_144294112.2\Prov\RunTime\2__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+2/27/2026 12:15:00 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-121500-661_2708.3_144294112.2\Prov\RunTime\3__DevDetail_DNSComputerName.provxml
+2/27/2026 12:15:00 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-121500-661_2708.3_144294112.2\Prov\RunTime\4__OOBE_Desktop_HideOobe.provxml
+2/27/2026 12:15:01 PM Info Adding deployment settings to Provisioning Package
+2/27/2026 12:15:01 PM Info Adding file assets to Provisioning Package
+2/27/2026 12:15:01 PM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat' exist and called with overwrite
+2/27/2026 12:15:01 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-121501-153_2708.3_1292085368.cat, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat
+2/27/2026 12:15:01 PM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg' exist and called with overwrite
+2/27/2026 12:15:01 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-121500-574_2708.3_1420613209.1, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg
+2/27/2026 12:15:01 PM Info DeleteFile: File '' does not exist
+2/27/2026 12:15:01 PM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-121500-574_2708.3_1420613209.1' does not exist
+2/27/2026 12:15:01 PM Info Media Creation Build Success page
+2/27/2026 12:15:03 PM Info Build workflow finished.
+2/27/2026 1:44:07 PM Info Project 'dev' created successfully and added to workspace
+2/27/2026 1:44:59 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:45:06 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:45:14 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:45:25 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:46:04 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:46:06 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:46:13 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:46:42 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:46:49 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:46:54 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:47:00 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 1:47:18 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser
+2/27/2026 1:47:29 PM Info Start Provisioning package Build for Project: dev
+2/27/2026 1:47:36 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134736-949_2708.3_1851396289.5'
+2/27/2026 1:47:37 PM Info Adding runtime settings to Provisioning Package
+2/27/2026 1:47:37 PM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6
+2/27/2026 1:47:37 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+2/27/2026 1:47:37 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6\Prov\RunTime\1__Browser_FavoriteBarItems_aSupportPortal.provxml
+2/27/2026 1:47:37 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6\Prov\RunTime\2__Browser_FavoriteBarItems_bOffice.provxml
+2/27/2026 1:47:37 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6\Prov\RunTime\3__Browser_FavoriteBarItems_cDLX.provxml
+2/27/2026 1:47:37 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6\Prov\RunTime\4__Browser_FavoriteBarItems_eKansasWorks.provxml
+2/27/2026 1:47:37 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6\Prov\RunTime\5__Browser_FavoriteBarItems_fKCKPL.provxml
+2/27/2026 1:47:37 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6\Prov\RunTime\6__Browser_FavoriteBarItems_gJoCoPL.provxml
+2/27/2026 1:47:37 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6\Prov\RunTime\7__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+2/27/2026 1:47:37 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6\Prov\RunTime\8__DevDetail_DNSComputerName.provxml
+2/27/2026 1:47:37 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-006_2708.3_922128037.6\Prov\RunTime\9__OOBE_Desktop_HideOobe.provxml
+2/27/2026 1:47:37 PM Info Adding deployment settings to Provisioning Package
+2/27/2026 1:47:37 PM Info Adding file assets to Provisioning Package
+2/27/2026 1:47:37 PM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat' exist and called with overwrite
+2/27/2026 1:47:37 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134737-429_2708.3_862584115.cat, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat
+2/27/2026 1:47:37 PM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg' exist and called with overwrite
+2/27/2026 1:47:37 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134736-949_2708.3_1851396289.5, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg
+2/27/2026 1:47:37 PM Info DeleteFile: File '' does not exist
+2/27/2026 1:47:37 PM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-134736-949_2708.3_1851396289.5' does not exist
+2/27/2026 1:47:37 PM Info Media Creation Build Success page
+2/27/2026 1:47:39 PM Info Build workflow finished.
+2/27/2026 2:15:44 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser
+2/27/2026 2:15:59 PM Info Start Provisioning package Build for Project: dev
+2/27/2026 2:16:08 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-769_2708.4_323513682.9'
+2/27/2026 2:16:08 PM Info Adding runtime settings to Provisioning Package
+2/27/2026 2:16:08 PM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-834_2708.4_132390641.10
+2/27/2026 2:16:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-834_2708.4_132390641.10\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+2/27/2026 2:16:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-834_2708.4_132390641.10\Prov\RunTime\1__Browser_FavoriteBarItems_aSupportPortal.provxml
+2/27/2026 2:16:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-834_2708.4_132390641.10\Prov\RunTime\2__Browser_FavoriteBarItems_bOffice.provxml
+2/27/2026 2:16:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-834_2708.4_132390641.10\Prov\RunTime\3__Browser_FavoriteBarItems_cDLX.provxml
+2/27/2026 2:16:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-834_2708.4_132390641.10\Prov\RunTime\4__Browser_FavoriteBarItems_eKansasWorks.provxml
+2/27/2026 2:16:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-834_2708.4_132390641.10\Prov\RunTime\5__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+2/27/2026 2:16:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-834_2708.4_132390641.10\Prov\RunTime\6__DevDetail_DNSComputerName.provxml
+2/27/2026 2:16:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-834_2708.4_132390641.10\Prov\RunTime\7__OOBE_Desktop_HideOobe.provxml
+2/27/2026 2:16:09 PM Info Adding deployment settings to Provisioning Package
+2/27/2026 2:16:09 PM Info Adding file assets to Provisioning Package
+2/27/2026 2:16:09 PM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat' exist and called with overwrite
+2/27/2026 2:16:09 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141609-290_2708.4_874477140.cat, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat
+2/27/2026 2:16:09 PM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg' exist and called with overwrite
+2/27/2026 2:16:09 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-769_2708.4_323513682.9, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg
+2/27/2026 2:16:09 PM Info DeleteFile: File '' does not exist
+2/27/2026 2:16:09 PM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-141608-769_2708.4_323513682.9' does not exist
+2/27/2026 2:16:09 PM Info Media Creation Build Success page
+2/27/2026 2:16:16 PM Info Build workflow finished.
+2/27/2026 3:07:39 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 3:07:50 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 3:08:24 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 3:08:35 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/27/2026 3:09:01 PM Info Start Provisioning package Build for Project: dev
+2/27/2026 3:09:09 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-621_2708.9_441601931.13'
+2/27/2026 3:09:09 PM Info Adding runtime settings to Provisioning Package
+2/27/2026 3:09:09 PM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14
+2/27/2026 3:09:09 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+2/27/2026 3:09:09 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14\Prov\RunTime\1__Browser_FavoriteBarItems_aSupportPortal.provxml
+2/27/2026 3:09:09 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14\Prov\RunTime\2__Browser_FavoriteBarItems_bOffice.provxml
+2/27/2026 3:09:09 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14\Prov\RunTime\3__Browser_FavoriteBarItems_cDLX.provxml
+2/27/2026 3:09:09 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14\Prov\RunTime\4__Browser_FavoriteBarItems_eKansasWorks.provxml
+2/27/2026 3:09:09 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14\Prov\RunTime\5__Browser_FavoriteBarItems_fJoCoPL.provxml
+2/27/2026 3:09:09 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14\Prov\RunTime\6__Browser_FavoriteBarItems_gKCKPL.provxml
+2/27/2026 3:09:09 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14\Prov\RunTime\7__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+2/27/2026 3:09:09 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14\Prov\RunTime\8__DevDetail_DNSComputerName.provxml
+2/27/2026 3:09:09 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-700_2708.9_1501660266.14\Prov\RunTime\9__OOBE_Desktop_HideOobe.provxml
+2/27/2026 3:09:09 PM Info Adding deployment settings to Provisioning Package
+2/27/2026 3:09:10 PM Info Adding file assets to Provisioning Package
+2/27/2026 3:09:10 PM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat' exist and called with overwrite
+2/27/2026 3:09:10 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150910-070_2708.9_810152606.cat, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat
+2/27/2026 3:09:10 PM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg' exist and called with overwrite
+2/27/2026 3:09:10 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-621_2708.9_441601931.13, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg
+2/27/2026 3:09:10 PM Info DeleteFile: File '' does not exist
+2/27/2026 3:09:10 PM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260227-150909-621_2708.9_441601931.13' does not exist
+2/27/2026 3:09:10 PM Info Media Creation Build Success page
+2/27/2026 3:09:15 PM Info Build workflow finished.
+2/28/2026 9:27:28 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser
+2/28/2026 9:27:45 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 9:27:55 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 9:28:08 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 9:28:15 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 9:29:16 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 9:29:23 AM Info Start Provisioning package Build for Project: dev
+2/28/2026 9:29:28 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-887_2708.9_884305427.17'
+2/28/2026 9:29:28 AM Info Adding runtime settings to Provisioning Package
+2/28/2026 9:29:28 AM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-968_2708.9_1411177546.18
+2/28/2026 9:29:28 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-968_2708.9_1411177546.18\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+2/28/2026 9:29:28 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-968_2708.9_1411177546.18\Prov\RunTime\1__Browser_FavoriteBarItems_aSupportPortal.provxml
+2/28/2026 9:29:28 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-968_2708.9_1411177546.18\Prov\RunTime\2__Browser_FavoriteBarItems_bOffice.provxml
+2/28/2026 9:29:28 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-968_2708.9_1411177546.18\Prov\RunTime\3__Browser_FavoriteBarItems_cDLX.provxml
+2/28/2026 9:29:28 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-968_2708.9_1411177546.18\Prov\RunTime\4__Browser_FavoriteBarItems_eKansasWorks.provxml
+2/28/2026 9:29:28 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-968_2708.9_1411177546.18\Prov\RunTime\5__Browser_FavoriteBarItems_gKCKPL.provxml
+2/28/2026 9:29:28 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-968_2708.9_1411177546.18\Prov\RunTime\6__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+2/28/2026 9:29:28 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-968_2708.9_1411177546.18\Prov\RunTime\7__DevDetail_DNSComputerName.provxml
+2/28/2026 9:29:28 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-968_2708.9_1411177546.18\Prov\RunTime\8__OOBE_Desktop_HideOobe.provxml
+2/28/2026 9:29:29 AM Info Adding deployment settings to Provisioning Package
+2/28/2026 9:29:29 AM Info Adding file assets to Provisioning Package
+2/28/2026 9:29:29 AM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat' exist and called with overwrite
+2/28/2026 9:29:29 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092929-495_2708.9_698766785.cat, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat
+2/28/2026 9:29:29 AM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg' exist and called with overwrite
+2/28/2026 9:29:29 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-887_2708.9_884305427.17, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg
+2/28/2026 9:29:29 AM Info DeleteFile: File '' does not exist
+2/28/2026 9:29:29 AM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-092928-887_2708.9_884305427.17' does not exist
+2/28/2026 9:29:29 AM Info Media Creation Build Success page
+2/28/2026 9:29:36 AM Info Build workflow finished.
+2/28/2026 11:24:21 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 11:24:42 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 11:25:22 AM Info Start Provisioning package Build for Project: dev
+2/28/2026 11:25:30 AM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-208_2708.10_207776218.21'
+2/28/2026 11:25:30 AM Info Adding runtime settings to Provisioning Package
+2/28/2026 11:25:30 AM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-286_2708.10_1186187946.22
+2/28/2026 11:25:30 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-286_2708.10_1186187946.22\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+2/28/2026 11:25:30 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-286_2708.10_1186187946.22\Prov\RunTime\1__Browser_FavoriteBarItems_aSupportPortal.provxml
+2/28/2026 11:25:30 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-286_2708.10_1186187946.22\Prov\RunTime\2__Browser_FavoriteBarItems_bOffice.provxml
+2/28/2026 11:25:30 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-286_2708.10_1186187946.22\Prov\RunTime\3__Browser_FavoriteBarItems_cDLX.provxml
+2/28/2026 11:25:30 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-286_2708.10_1186187946.22\Prov\RunTime\4__Browser_FavoriteBarItems_eKansasWorks.provxml
+2/28/2026 11:25:30 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-286_2708.10_1186187946.22\Prov\RunTime\5__Browser_FavoriteBarItems_gJoCoPL.provxml
+2/28/2026 11:25:30 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-286_2708.10_1186187946.22\Prov\RunTime\6__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+2/28/2026 11:25:30 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-286_2708.10_1186187946.22\Prov\RunTime\7__DevDetail_DNSComputerName.provxml
+2/28/2026 11:25:30 AM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-286_2708.10_1186187946.22\Prov\RunTime\8__OOBE_Desktop_HideOobe.provxml
+2/28/2026 11:25:30 AM Info Adding deployment settings to Provisioning Package
+2/28/2026 11:25:30 AM Info Adding file assets to Provisioning Package
+2/28/2026 11:25:30 AM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat' exist and called with overwrite
+2/28/2026 11:25:30 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-549_2708.10_392517106.cat, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat
+2/28/2026 11:25:30 AM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg' exist and called with overwrite
+2/28/2026 11:25:30 AM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-208_2708.10_207776218.21, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg
+2/28/2026 11:25:30 AM Info DeleteFile: File '' does not exist
+2/28/2026 11:25:30 AM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-112530-208_2708.10_207776218.21' does not exist
+2/28/2026 11:25:30 AM Info Media Creation Build Success page
+2/28/2026 11:25:41 AM Info Build workflow finished.
+2/28/2026 11:59:28 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 11:59:37 AM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 12:00:07 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 12:00:17 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-browser#favoritebaritems
+2/28/2026 12:00:56 PM Info Start Provisioning package Build for Project: dev
+2/28/2026 12:01:08 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-891_2708.9_200644984.25'
+2/28/2026 12:01:08 PM Info Adding runtime settings to Provisioning Package
+2/28/2026 12:01:08 PM Info CreateTempDirectory: Create directory: C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\0__Accounts_Users_ScottLock.provxml
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\1__Browser_FavoriteBarItems_aSupportPortal.provxml
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\2__Browser_FavoriteBarItems_bOffice.provxml
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\3__Browser_FavoriteBarItems_cDLX.provxml
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\4__Browser_FavoriteBarItems_dSupportPortal.provxml
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\5__Browser_FavoriteBarItems_eKansasWorks.provxml
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\6__Browser_FavoriteBarItems_gJoCoPL.provxml
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\7__Browser_FavoriteBarItems_hKCKPL.provxml
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\8__Policies_ApplicationManagement_AllowAllTrustedApps.provxml
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\9__DevDetail_DNSComputerName.provxml
+2/28/2026 12:01:08 PM Info provxml writer, path = C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-961_2708.9_1900100779.26\Prov\RunTime\10__OOBE_Desktop_HideOobe.provxml
+2/28/2026 12:01:09 PM Info Adding deployment settings to Provisioning Package
+2/28/2026 12:01:09 PM Info Adding file assets to Provisioning Package
+2/28/2026 12:01:09 PM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat' exist and called with overwrite
+2/28/2026 12:01:09 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120109-268_2708.9_2075462235.cat, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.cat
+2/28/2026 12:01:09 PM Info CopyFile: File 'C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg' exist and called with overwrite
+2/28/2026 12:01:09 PM Info CopyFile: Source path: C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-891_2708.9_200644984.25, Target path: C:\Users\kbowman\Documents\dlxat\winconfdesign\dev\dev.ppkg
+2/28/2026 12:01:09 PM Info DeleteFile: File '' does not exist
+2/28/2026 12:01:09 PM Info DeleteFile: File 'C:\Users\kbowman\AppData\Local\Temp\ICD_20260228-120108-891_2708.9_200644984.25' does not exist
+2/28/2026 12:01:09 PM Info Media Creation Build Success page
+2/28/2026 12:01:52 PM Info Build workflow finished.

@@ -3,7 +3,7 @@
   <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
     <ID>{3c9f95a0-8888-43a3-b3db-dcae34034f2d}</ID>
     <Name>prod-current</Name>
-    <Version>1.12</Version>
+    <Version>1.13</Version>
     <OwnerType>SystemIntegrator</OwnerType>
     <Rank>0</Rank>
     <Notes></Notes>
@@ -25,14 +25,6 @@
         </Accounts>
         <Browser>
           <FavoriteBarItems>
-            <FavoriteBarItem FavoriteItem="aHelp" Name="aHelp">
-              <ItemName>Help with your Computer</ItemName>
-              <ItemUrl>https://support.kcconnect.me/</ItemUrl>
-            </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="bzoffice" Name="bzoffice">
-              <ItemName>Microsoft Office</ItemName>
-              <ItemUrl>https://office.com/</ItemUrl>
-            </FavoriteBarItem>
             <FavoriteBarItem FavoriteItem="zHelp" Name="zHelp">
               <ItemName>Computer Support</ItemName>
               <ItemUrl>https://support.kcconnect.me/</ItemUrl>
@@ -48,14 +40,6 @@
             <FavoriteBarItem FavoriteItem="zzckansasworks" Name="ekansasworks">
               <ItemName>Kansas Works</ItemName>
               <ItemUrl>https://kansasworks.com/</ItemUrl>
-            </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="zzdkckpl" Name="fkckpl">
-              <ItemName>KCK Public Library</ItemName>
-              <ItemUrl>https://kckpl.org/</ItemUrl>
-            </FavoriteBarItem>
-            <FavoriteBarItem FavoriteItem="zzejocopl" Name="gjocopl">
-              <ItemName>JohnsonCo Public Library</ItemName>
-              <ItemUrl>https://jocolibrary.org/</ItemUrl>
             </FavoriteBarItem>
           </FavoriteBarItems>
         </Browser>

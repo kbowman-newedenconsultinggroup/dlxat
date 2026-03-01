@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WindowsCustomizations>
+  <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
+    <ID>{e34d5372-6b63-4fda-a228-a41b6a133128}</ID>
+    <Name>dev</Name>
+    <Version>1.9</Version>
+    <OwnerType>OEM</OwnerType>
+    <Rank>0</Rank>
+    <Notes></Notes>
+  </PackageConfig>
+  <Settings xmlns="urn:schemas-microsoft-com:windows-provisioning">
+    <Customizations>
+      <Common>
+        <Accounts>
+          <Users>
+            <User UserName="ScottLock">
+              <Password>LockScott</Password>
+              <UserGroup>Administrators</UserGroup>
+            </User>
+          </Users>
+        </Accounts>
+        <Browser>
+          <FavoriteBarItems>
+            <FavoriteBarItem FavoriteItem="aSupportPortal" Name="aSupportPortal">
+              <ItemName>Support Portal</ItemName>
+              <ItemUrl>https://support.kcconnect.me/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="bOffice" Name="bOffice">
+              <ItemName>Micorosft Office</ItemName>
+              <ItemUrl>https://office.com/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="cDLX" Name="cDLX">
+              <ItemName>DLX Program</ItemName>
+              <ItemUrl>https://kcconnect.me/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="dSupportPortal" Name="dSupportPortal">
+              <ItemName>Support Portal</ItemName>
+              <ItemUrl>https://support.kcconnect.me</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="eKansasWorks" Name="eKansasWorks">
+              <ItemName>Kansas Works</ItemName>
+              <ItemUrl>https://www.kansasworks.com/</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="gJoCoPL" Name="gJoCoPL">
+              <ItemName>JoCo Public Library</ItemName>
+              <ItemUrl>https://jocolibrary.org</ItemUrl>
+            </FavoriteBarItem>
+            <FavoriteBarItem FavoriteItem="hKCKPL" Name="hKCKPL">
+              <ItemName>KCK Public Library</ItemName>
+              <ItemUrl>https://kckpl.org/</ItemUrl>
+            </FavoriteBarItem>
+          </FavoriteBarItems>
+        </Browser>
+        <DevDetail>
+          <DNSComputerName>dlxat-wn-%SERIAL%</DNSComputerName>
+        </DevDetail>
+        <OOBE>
+          <Desktop>
+            <HideOobe>True</HideOobe>
+          </Desktop>
+        </OOBE>
+        <Policies>
+          <ApplicationManagement>
+            <AllowAllTrustedApps>Yes</AllowAllTrustedApps>
+          </ApplicationManagement>
+        </Policies>
+      </Common>
+    </Customizations>
+  </Settings>
+</WindowsCustomizations>
