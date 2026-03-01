@@ -1,14 +1,16 @@
 Write-Host "Inside powershell script"
-winget install "Microsoft Family Safety" --source msstore
+#winget install "Microsoft Family Safety" --source msstore
 Get-AppXPackage Microsoft.OutlookForWindows -AllUsers | Remove-AppxPackage
 Get-AppXPackage Advanc* -AllUsers | Remove-AppXPackage
 Get-AppXPackage RealtekSemiconductorCorp.HPAudio* -AllUsers | Remove-AppXPackage
 Get-AppxPackage Microsoft.YourPhone -AllUsers | Remove-AppxPackage
 
+D:\importBookmarks-SupportPortal.ps1
 D:\importBookmarks.ps1
+D:\importBookmarks-Libraries.ps1
 D:\importBookmarks-Healthcare.ps1
 
-Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Start\Companions\Microsoft.YourPhone_8wekyb3d8bbwe" -Name "IsEnabled" -Value 0
+#Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Start\Companions\Microsoft.YourPhone_8wekyb3d8bbwe" -Name "IsEnabled" -Value 0
 
 try {
     # Create a restore point with a custom description
