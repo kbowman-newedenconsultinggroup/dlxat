@@ -3,7 +3,7 @@ $folderName = "Public Libraries"
 $bookmarksToAdd = @(
     @{ name = "Olathe"; url = "https://www.olathelibrary.org/" },
     @{ name = "Leavenworth"; url = "https://leavenworthpubliclibrary.org/" },
-    @{ name = "Kansas City KS"; url = "https://mail.google.com/mail/u/0/#inbox" },
+    @{ name = "Kansas City KS"; url = "https://kckpl.org" },
     @{ name = "Johnson County"; url = "https://www.jocolibrary.org/" }
 )
 $profileName = "Default"  # Change to "Profile 1" etc. if needed
