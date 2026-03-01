@@ -24,7 +24,7 @@ $backupPath = "$edgeProfilePath.bak"
 # Example bookmarks to add
 $newBookmarks = @(
     @{ name = "GMail"; url = "https://mail.google.com/mail/u/0/#inbox" },
-    @{ name = "Edmentum"; url = "https://drive.google.com/drive/home" }
+    @{ name = "Google Drive"; url = "https://drive.google.com/drive/home" }
 )
 
 try {
