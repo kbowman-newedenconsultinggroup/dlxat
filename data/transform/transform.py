@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 
 import csv
+import re
 import sys
 from pathlib import Path
+
+def is_valid_email(email: str) -> bool:
+    return bool(re.match(r'^[^@\s]+@[^@\s]+\.[^@\s]+$', email))
 
 PASSWORD = "2v4nddvG@!6sdlk8$3223cyfg$skldit"
 COUNTRY = "United States"
@@ -33,7 +37,6 @@ OUTPUT1_HEADER = [
     "Last Name",
     "Username",
     "Email",
-    "Password (If empty the user will receive an email to set their password)",
     "Force password reset at login (yes/no)",
     "Country",
     "Language (en/es/pt/fr)",
@@ -71,52 +74,84 @@ OUTPUT2_HEADER = [
     "Manager"
 ]
 
-# --- Load lastnames from existing file for deduplication ---
-def load_existing_lastnames(existing_file):
-    lastnames = set()
+# --- Load existing records for deduplication ---
+# Builds a set of (firstname, lastname, phone) tuples for composite matching.
+def load_existing_records(existing_file):
+    records = set()
     if not existing_file or not Path(existing_file).is_file():
-        return lastnames
+        return records
 
     with open(existing_file, newline='', encoding='utf-8-sig') as csvfile:
         reader = csv.DictReader(csvfile)
+        fieldnames = reader.fieldnames or []
 
-        # Choose column to extract lastname
-        if "Last names" in reader.fieldnames:
-            col = "Last names"
-        elif "Last Name" in reader.fieldnames:
-            col = "Last Name"
-        elif "lastname" in reader.fieldnames:
-            col = "lastname"
-        elif "Full Name*" in reader.fieldnames:
-            col = "Full Name*"
-        else:
-            return lastnames
+        # Detect file format based on available columns
+        has_split_names = any(f in fieldnames for f in ("Last names", "Last Name", "lastname"))
+        has_full_name   = "Full Name*" in fieldnames
+
+        # Detect phone column (prefer mobile variants)
+        phone_col = None
+        for candidate in ("Phone (mobile)", "Mobile", "mobile", "Phone", "phone"):
+            if candidate in fieldnames:
+                phone_col = candidate
+                break
 
         for row in reader:
-            ln = (row.get(col) or "").strip()
+            phone = "".join(filter(str.isdigit, (row.get(phone_col) or "") if phone_col else ""))
+
+            if has_split_names:
+                if "Last names" in fieldnames:
+                    ln = (row.get("Last names") or "").strip()
+                elif "Last Name" in fieldnames:
+                    ln = (row.get("Last Name") or "").strip()
+                else:
+                    ln = (row.get("lastname") or "").strip()
+
+                # Try common first-name column names
+                fn = ""
+                for fn_col in ("Names", "First Name", "First names", "firstname", "name"):
+                    if fn_col in fieldnames:
+                        fn = (row.get(fn_col) or "").strip()
+                        break
+
+            elif has_full_name:
+                parts = (row.get("Full Name*") or "").strip().split()
+                fn = parts[0] if len(parts) >= 2 else ""
+                ln = parts[-1] if parts else ""
+
+            else:
+                continue
+
             if not ln:
                 continue
-            if col == "Full Name*":
-                ln = ln.split()[-1]  # last word as lastname
-            lastnames.add(ln.lower())
-    return lastnames
+
+            key = (fn.lower(), ln.lower(), phone)
+            records.add(key)
+
+    print(f"Loaded {len(records)} existing record(s) from '{existing_file}' using phone col: '{phone_col}'")
+    phone_present = sum(1 for (fn, ln, ph) in records if ph)
+    print(f"  {phone_present} record(s) have a phone number; {len(records) - phone_present} do not (will match on name only)")
+    return records
 
 # --- Write Format 1 ---
-def write_format1(row, writer, existing_lastnames, skipped_names):
+def write_format1(row, writer, existing_records, skipped_names):
     firstname = (row.get("name") or "").strip()
     lastname  = (row.get("lastname") or "").strip()
     if not lastname:
         return
-    key = lastname.lower()
-    if key in existing_lastnames:
-        skipped_names.add(lastname)
+    phone_raw = (row.get("mobile") or "").strip()
+    phone_digits = "".join(filter(str.isdigit, phone_raw))
+    key_full      = (firstname.lower(), lastname.lower(), phone_digits)
+    key_name_only = (firstname.lower(), lastname.lower(), "")
+    if key_full in existing_records or key_name_only in existing_records:
+        skipped_names.add((firstname, lastname, phone_raw))
         return
 
     email = (row.get("email") or "").strip()
-    if not email:
-        email = f"{lastname.replace(' ','').lower()}@unknown.com"
+    if not email or not is_valid_email(email):
+        email = f"{firstname.replace(' ','').lower()}{lastname.replace(' ','').lower()}@unknownemail.io"
 
-    phone     = (row.get("mobile") or "").strip()
+    phone     = phone_raw
     address   = (row.get("address") or "").strip()
     company   = normalize_company(row.get("company_name") or "")
     langsrc   = (row.get("language") or "").strip()
@@ -128,7 +163,6 @@ def write_format1(row, writer, existing_lastnames, skipped_names):
         lastname,
         email,
         email,
-        PASSWORD,
         "no",
         COUNTRY,
         lang,
@@ -141,22 +175,25 @@ def write_format1(row, writer, existing_lastnames, skipped_names):
     ])
 
 # --- Write Format 2 ---
-def write_format2(row, writer, existing_lastnames, skipped_names):
+def write_format2(row, writer, existing_records, skipped_names):
     firstname = (row.get("name") or "").strip()
     lastname  = (row.get("lastname") or "").strip()
     if not lastname:
         return
-    key = lastname.lower()
-    if key in existing_lastnames:
-        skipped_names.add(lastname)
+    phone_raw = (row.get("mobile") or "").strip()
+    phone_digits = "".join(filter(str.isdigit, phone_raw))
+    key_full      = (firstname.lower(), lastname.lower(), phone_digits)
+    key_name_only = (firstname.lower(), lastname.lower(), "")
+    if key_full in existing_records or key_name_only in existing_records:
+        skipped_names.add((firstname, lastname, phone_raw))
         return
 
     email = (row.get("email") or "").strip()
-    if not email:
-        email = f"{lastname.replace(' ','').lower()}@unknown.com"
+    if not email or not is_valid_email(email):
+        email = f"{firstname.replace(' ','').lower()}{lastname.replace(' ','').lower()}@unknownemail.io"
 
-    phone     = (row.get("mobile") or "").strip()
-    address   = (row.get("address") or "").strip()
+    phone      = phone_raw
+    address    = (row.get("address") or "").strip()
     dob       = (row.get("birthday") or "").strip()
     position  = (row.get("position") or "").strip()
     emp_id    = (row.get("employee_number") or "").strip()
@@ -181,9 +218,25 @@ def write_format2(row, writer, existing_lastnames, skipped_names):
     ])
 
 # --- Main ---
-def main(source_file, out1_file, out2_file, existing_file=None, log_file="skipped_lastnames.log"):
-    existing_lastnames = load_existing_lastnames(existing_file)
+def main(source_file, out1_file, out2_file, existing_file=None, log_file="skipped_duplicates.log"):
+    existing_records = load_existing_records(existing_file)
     skipped_names = set()
+
+    with open(source_file, newline='', encoding="utf-8-sig") as infile:
+        reader = list(csv.DictReader(infile))
+
+    # Debug: print sample keys from both sides for comparison
+    print("\n--- Sample keys from EXISTING file (first 5) ---")
+    for key in list(existing_records)[:5]:
+        print(f"  fn={repr(key[0])}  ln={repr(key[1])}  phone={repr(key[2])}")
+
+    print("\n--- Sample keys from SOURCE file (first 5) ---")
+    for row in reader[:5]:
+        fn = (row.get("name") or "").strip().lower()
+        ln = (row.get("lastname") or "").strip().lower()
+        phone = "".join(filter(str.isdigit, (row.get("mobile") or "").strip()))
+        print(f"  fn={repr(fn)}  ln={repr(ln)}  phone={repr(phone)}")
+    print("")
 
     with open(source_file, newline='', encoding="utf-8-sig") as infile:
         reader = list(csv.DictReader(infile))
@@ -194,7 +247,7 @@ def main(source_file, out1_file, out2_file, existing_file=None, log_file="skippe
             writer1 = csv.writer(f1, quoting=csv.QUOTE_MINIMAL)
             writer1.writerow(OUTPUT1_HEADER)
             for row in reader:
-                write_format1(row, writer1, existing_lastnames, skipped_names)
+                write_format1(row, writer1, existing_records, skipped_names)
 
     # Format 2
     if out2_file:
@@ -202,15 +255,17 @@ def main(source_file, out1_file, out2_file, existing_file=None, log_file="skippe
             writer2 = csv.writer(f2, quoting=csv.QUOTE_MINIMAL)
             writer2.writerow(OUTPUT2_HEADER)
             for row in reader:
-                write_format2(row, writer2, existing_lastnames, skipped_names)
+                write_format2(row, writer2, existing_records, skipped_names)
 
     # Write log file
     if skipped_names:
         with open(log_file, "w", encoding="utf-8") as logf:
-            logf.write("Skipped lastnames (already exist in existing CSV):\n")
-            for name in sorted(skipped_names):
-                logf.write(name + "\n")
-        print(f"{len(skipped_names)} names skipped. See log file: {log_file}")
+            logf.write("Skipped records (already exist in destination — matched on first name, last name, and phone):\n")
+            logf.write(f"{'First Name':<20} {'Last Name':<20} {'Phone'}\n")
+            logf.write("-" * 60 + "\n")
+            for (fn, ln, phone) in sorted(skipped_names, key=lambda x: (x[1], x[0])):
+                logf.write(f"{fn:<20} {ln:<20} {phone}\n")
+        print(f"{len(skipped_names)} duplicate(s) skipped. See log file: {log_file}")
 
 # --- Command-line ---
 if __name__ == "__main__":
