@@ -91,7 +91,7 @@ def load_existing_records(existing_file):
 
         # Detect phone column (prefer mobile variants)
         phone_col = None
-        for candidate in ("Phone (mobile)", "Mobile", "mobile", "Phone", "phone"):
+        for candidate in ("Phone", "Mobile", "mobile", "Phone (Mobile)", "phone"):
             if candidate in fieldnames:
                 phone_col = candidate
                 break
