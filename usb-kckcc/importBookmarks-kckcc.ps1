@@ -23,7 +23,7 @@ $backupPath = "$edgeProfilePath.bak"
 
 # Example bookmarks to add
 $newBookmarks = @(
-    @{ name = "KCKCC"; url = "https://www.kckcc.edu/" },
+    @{ name = "KCKCC Home"; url = "https://www.kckcc.edu/" },
     @{ name = "KCKCC Login"; url = "https://experience.elluciancloud.com/kckcc" }
 )
 
