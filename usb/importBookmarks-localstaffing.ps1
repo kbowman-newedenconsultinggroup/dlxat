@@ -1,13 +1,13 @@
 # --- CONFIGURATION ---
 $folderName = "Local Employment Staffing Agencies"
 $bookmarksToAdd = @(
-  @{ name = "LSI Staffing"; url = "https://lsistaffing.com},
-  @{ name = "Alliance Workforce"; url = "https://www.allianceworkforcekc.com},
-  @{ name = "Premier Staffing Solutions"; url = "https://www.premierstaffingkc.com},
-  @{ name = "Express Employment Professionals"; url = "https://www.expresspros.com/us-kansas-kansas-city-shawnee},
-  @{ name = "Syndeo Staffing Kansas City"; url = "https://kcsyndeo.com},
-  @{ name = "Brixton Staffing Group"; url = "https://www.brixtonstaffing.com},
-  @{ name = "Crown Staffing"; url = "https://lsistaffing.com}
+  @{ name = "LSI Staffing"; url = "https://lsistaffing.com"},
+  @{ name = "Alliance Workforce"; url = "https://www.allianceworkforcekc.com"},
+  @{ name = "Premier Staffing Solutions"; url = "https://www.premierstaffingkc.com"},
+  @{ name = "Express Employment Professionals"; url = "https://www.expresspros.com/us-kansas-kansas-city-shawnee"},
+  @{ name = "Syndeo Staffing Kansas City"; url = "https://kcsyndeo.com"},
+  @{ name = "Brixton Staffing Group"; url = "https://www.brixtonstaffing.com"},
+  @{ name = "Crown Staffing"; url = "https://lsistaffing.com"}
 )
 $profileName = "Default"  # Change to "Profile 1" etc. if needed
 
