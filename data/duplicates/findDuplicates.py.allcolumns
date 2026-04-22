@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
-find_duplicates.py — Show duplicate rows in a CSV based on lastname, name, and other_email.
+find_duplicates.py — Show all duplicate rows in a CSV file.
 
 Usage:
     python find_duplicates.py <file.csv> [options]
 
 Options:
+    --columns COL1,COL2   Check duplicates on specific columns only (default: all)
     --keep-index          Show original row numbers (1-based, excluding header)
     --output <file.csv>   Save duplicate rows to a CSV file
 """
@@ -16,7 +17,7 @@ import argparse
 from collections import defaultdict
 
 
-def find_duplicates(filepath, keep_index=False, output=None):
+def find_duplicates(filepath, columns=None, keep_index=False, output=None):
     with open(filepath, newline="", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
         all_rows = list(reader)
@@ -26,8 +27,8 @@ def find_duplicates(filepath, keep_index=False, output=None):
         print("The CSV file is empty.")
         return
 
-    # Columns used for duplicate detection
-    check_cols = ["lastname", "name", "other_email"]
+    # Determine which columns to use for duplicate detection
+    check_cols = columns if columns else fieldnames
     missing = [c for c in check_cols if c not in fieldnames]
     if missing:
         print(f"Error: Column(s) not found in CSV: {', '.join(missing)}")
@@ -47,19 +48,18 @@ def find_duplicates(filepath, keep_index=False, output=None):
         print("No duplicate rows found.")
         return
 
-    # Collect duplicate rows grouped together, sorted by the duplicate key
-    dup_rows = [
-        (i, all_rows[i])
-        for key in sorted(duplicate_groups.keys())
-        for i in duplicate_groups[key]
-    ]
+    # Collect all duplicate rows in their original order
+    dup_indices = sorted(i for indices in duplicate_groups.values() for i in indices)
+    dup_rows = [(i, all_rows[i]) for i in dup_indices]
 
-    total_dupes = len(dup_rows)
+    total_dupes = len(dup_indices)
     unique_dupes = len(duplicate_groups)
 
     print(f"Found {total_dupes} duplicate rows ({unique_dupes} unique duplicated value set(s)).\n")
-    print(f"Checked columns : {', '.join(check_cols)}")
-    print(f"All columns     : {', '.join(fieldnames)}\n")
+
+    if columns:
+        print(f"Checked columns : {', '.join(check_cols)}")
+        print(f"All columns     : {', '.join(fieldnames)}\n")
 
     # Print results as an aligned table
     display_fields = (["row"] if keep_index else []) + list(fieldnames)
@@ -95,8 +95,13 @@ def find_duplicates(filepath, keep_index=False, output=None):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Show duplicate rows in a CSV file based on lastname, name, and other_email.")
+    parser = argparse.ArgumentParser(description="Show duplicate rows in a CSV file.")
     parser.add_argument("file", help="Path to the CSV file")
+    parser.add_argument(
+        "--columns",
+        help="Comma-separated list of columns to check (default: all)",
+        default=None,
+    )
     parser.add_argument(
         "--keep-index",
         action="store_true",
@@ -109,8 +114,11 @@ def main():
     )
     args = parser.parse_args()
 
+    columns = [c.strip() for c in args.columns.split(",")] if args.columns else None
+
     find_duplicates(
         filepath=args.file,
+        columns=columns,
         keep_index=args.keep_index,
         output=args.output,
     )
