@@ -9,7 +9,7 @@ D:\importBookmarks-SupportPortal.ps1
 D:\importBookmarks-kckcc.ps1
 D:\importBookmarks.ps1
 D:\importBookmarks-Libraries.ps1
-#D:\importBookmarks-Healthcare.ps1
+D:\importBookmarks-Healthcare.ps1
 
 #Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Start\Companions\Microsoft.YourPhone_8wekyb3d8bbwe" -Name "IsEnabled" -Value 0
 
