@@ -1,0 +1,422 @@
+username,employee_number,country,lastname,user_type,department,mobile,city,name,id,other_email,is_deleted,other,email,doc,birthday,office,position,phone,is_disabled,location,is_external,role_name,type,address,fax,manager_id,company_name,language
+,,,Ramirez Martinez,,,(913) 203-9344,,Karla Janeth ,,,,,minas2001@msn.com ,,,,,,,,,,,"5429 Payne Ct, Shawnne, KS 66226",,,El Centro,Espanol
+,,,O'neal,,,(747) 347-6081,,Luz Elena,,,,,elenaoneal05@gmail.com,,,,,,,,,,,"519 E Poplar, Olathe, KS 66061",,,El Centro,Espanol
+,,,Fernandez Vega,,,(816) 304-9424,,Evelyn,,,,,Fernandezevelyng7@icloud.com ,,,,,,,,,,,"8455 Robinson St, Overland Park 66212",,,El Centro,Espanol
+,,,Villela Perez,,,(913) 544-7080,,Liliana,,,,,lilivillela0@gmail.com,,,,,,,,,,,"3416 Freeman Ave, Kansas City, KS 66102",,,El Centro,Espanol
+,,,Ibarra Macias,,,(913) 689-0995,,Martha L ,,,,,marthaibarra14t8@gmail.com ,,,,,,,,,,,"2425 Stewart Ave, Kansas City, KS 66104",,,El Centro,Espanol
+,,,Lopez Torres,,,(913) 293-4510,,Brenda Berenice,,,,,brenloptop27@gmail.com,,,,,,,,,,,"1135 Grandview Blvd, Kansas City, KS 66102",,,El Centro,Espanol
+,,,Cervantes Portillo,,,(913) 999-2524,,Martha Silvia ,,,,,mscervantes1970@gmail.com,,,,,,,,,,,"99s 17st, Kansas City, KS 66103",,,El Centro,Espanol
+,,,Gonzalez,,,(816) 399-7813,,Melesia,,,,,mely12138@gmail.com,,,,,,,,,,,2525 S 18th St,,,Latinx Education Collaborative (EducaTec),Espanol
+,,,villescas,,,(913) 206-4850,,janette,,,,,janettevillescas12@gmail.com,,,,,,,,,,,743 Pacific Ave Kansas City ks66101,,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Rodriguez,,,(913) 387-9088,,Geraldina,,,,,rgeraldina194@gmail.com,,,,,,,,,,,3809 LLoyd st Kansas city Kansas 66103,,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Alcala,,,(913) 620-0495,,Roberto,,,,,alcalarobertoulises@gmail.com,,,,,,,,,,,3003 Freeman Ave ,,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Villesca,,,(913) 602-2242,,Blanca,,,,,blancavillescasbillescas@gmail.com,,,,,,,,,,,"71 S Soy St. Kansas City, KS 66101",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Arrendondo,,,(913) 951-9298,,Gerardo,,,,,gerardoarredondo168@gmail.com,,,,,,,,,,,"600 Everett Ave. Kansas City, KS 66101",,,Latinx Education Collaborative (EducaTec),English
+,,,Magadaleno Sifuentes,,,(913) 296-4518,,Norma Paola,,,,,normamagdaleno18@gmail.com,,,,,,,,,,,"114 S Pyle St, Kansas City Kansas 66101",,,El Centro,Espanol
+,,,Wright,,,(913) 407-2318,,Eric,,,,,mr.edw.25@icloud.com,,,,,,,,,,,"13114 West 88th Court, Apt #43, Lenexa, KS 66215",,,NCircle,English
+,,,Graham,,,(913) 284-8515,,Corey,,,,,corey.graham97@gmail.com,,,,,,,,,,,"5937 Dearborn St, Mission, KS 66202",,,The Mission Project,English
+,,,White,,,(913) 530-9807,,Austin,,,,,whiteaustin419@gmail.com,,,,,,,,,,,"13171 Connell Dr. Overland Park, KS 66213",,,NCircle,English
+,,,Bolyard,,,(913) 340-6920,,Jeffrey,,,,,jeffreybolyard1@gmail.com,,,,,,,,,,,"6723 State Ave, Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Curtis,,,(913) 350-0600,,Kevin,,,,,kcurts9705@gmail.com,,,,,,,,,,,"1026 Ann Ave, Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Rose,,,(913) 238-3210,,Vernon,,,,,veeroselovesu83@gmail.com,,,,,,,,,,,"1026 Ann Ave, Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Lackey,,,(573) 263-3058,,Robert,,,,,robert03071991@gmail.com,,,,,,,,,,,"1026 Ann Ave, Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Rose,,,(417) 204-8555,,Rebbeca Leigh,,,,,rebeccaleighdrose74@gmail.com,,,,,,,,,,,"1026 Ann Ave, Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Carter,,,(913) 286-2127,,Juanita,,,,,21jccar@gmail.com,,,,,,,,,,,"1026 Ann Ave, Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Peine,,,(913) 893-4265,,Manny,,,,,mannypeine9@gmail.com,,,,,,,,,,,"5880 W 58th St #103, Mission, KS 66202",,,Veterans Upward Bound,English
+,,,Kuntorovskiy,,,(913) 731-7064,,Sergey,,,,,kuntorovskiy2025@gmail.com,,,,,,,,,,,9119 west 113th st overland park ks 66210,,,NCircle,English
+,,,Clair,,,(913) 371-6737,,Jacob,,,,,jacobclair1981@gmail.com,,,,,,,,,,,"5944 Outlook St. Apt 301. Mission, KS 66202",,,The Mission Project,English
+,,,Conner,,,(913) 314-1269,,Alexandra,,,,,almypal70@yahoo.com,,,,,,,,,,,"5926 Woodson Rd Apt 301 Mission, Ks 66202",,,The Mission Project,English
+,,,Curtis,,,(913) 350-0600,,Richard,,,,,richard.curtis2000@outlook.com,,,,,,,,,,,"1026 Ann Ave, Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Cabello,,,(913) 237-2347,,Josh,,,,,cabello07@yahoo.com,,,,,,,,,,,"5985 Dearborn St, Apt 107 Mission, KS 66202",,,The Mission Project,English
+,,,Holt,,,(660) 214-5825,,Semaj,,,,,semajdevion05@gmail.com,,,,,,,,,,,911 N 70th St. Kansas City KS 66112,,,Workforce Partnership,English
+,,,Cardy,,,(913) 350-0600,,Samuel,,,,,gummydears24@hotmail.com,,,,,,,,,,,"1026 Ann, Ave Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Garrett,,,(816) 457-3594,,Calvin,,,,,cg2430843@gmail.com,,,,,,,,,,,"1026 Ann Ave Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Brown,,,(469) 851-6624,,Christopher,,,,,christopher.l.brown10000@gmail.com,,,,,,,,,,,"1026 Ann Ave Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Jones,,,(913) 553-0616,,James,,,,,kingofheroes900@gmail.com,,,,,,,,,,,"1026 Ann Ave Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Woods,,,(816) 401-4674,,Derek,,,,,woodsderek712@gmail.com,,,,,,,,,,,"1026 Ann Ave Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Kendrick,,,(913) 995-0248,,Erica,,,,,erical.kend@gmail.com,,,,,,,,,,,141 Mission Parkway,,,Workforce Partnership,English
+,,,Frye,,,(816) 207-8037,,Ronald,,,,,fryedaddy5150@gmail.com,,,,,,,,,,,"1304 N Ridge Parkway #D, Olathe, KS 66061",,,Veterans Upward Bound,English
+,,,Person,,,(913) 368-9976,,Janine,,,,,personjanine03@gmail.com,,,,,,,Brittany Court,,,,"137 Brittany Ct, Gardner KS 66030",,,Phoenix Family,English
+,,,Story,,,(913) 274-0920,,Donna,,,,,donnastory51@gmail.com,,,,,,,Brittany Court,,,,"156 Brittany Ct, Gardner KS 66030",,,Phoenix Family,English
+,,,nsengiyumva,,,(913) 415-5471,,Iraguha,,,,,Iraguhacosma@gmail.com,,,,,,,,,,,5731 hadley St mission Ks 66202,,,Catholic Charities of Northeast Kansas,English
+,,,Ahmadi,,,(913) 244-5121,,Benafsha,,,,,ahmadibenafsha1988@gmail.com,,,,,,,,,,,7433 hedge lane ter apt 1301 shawnne ks 66227,,,Catholic Charities of Northeast Kansas,Other
+,,,Coleman-Clement,,,(316) 821-0221,,Teresa,,,,,maidinyourcitykc@gmail.com,,,,,,,,,,,"7405 W. 62nd St  Apt. 3 Overland Park, KS 66202",,,Workforce Partnership,English
+,,,Thompson,,,(913) 624-4159,,Bobby,,,,,c.r.y.sfoundation@gmail.com,,,,,,,,,,,"645 Nebraska Ave, Kansas City Kansas 66101",,,Workforce Partnership,English
+,,,Ash,,,(913) 280-2414,,Brean,,,,,breanhall@gmail.com,,,,,,,,,,,"8941 Hauser St., Lenexa, KS  66215",,,Workforce Partnership,English
+,,,Ahmadi,,,(816) 527-7105,,Zainab ,,,,,zainabahmadi@mail.com,,,,,,,,,,,7714 Halsey Apt. 5R Lenexa KS 66216,,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Samadi,,,(913) 278-9988,,Maryam,,,,,hadiasamadi995@gmail.com,,,,,,,,,,,6319 Cottonwood Drive Shawnee KS Apt 29 66216,,,Catholic Charities of Northeast Kansas,"Other,English"
+,,,Rahmani,,,(913) 530-9702,,Zahra,,,,,rahmanizahra0012@gmail.com,,,,,,,,,,,12137 W. 76th St. Lenexa KS ,,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Hernandez,,,(347) 405-1496,,Jose,,,,,joseghernandez@foodhaus.us,,,,,,,,,,,6608 W 141st Terr Apt S 2807 Overland Park. KS 66223,,,The Toolbox,Espanol
+,,,Cardona,,,(816) 550-6820,,Mayra,,,,,mayragco@gmail.com,,,,,,,,,,,"1025 S 51st ST Kansas City, KS 66106",,,The Toolbox,Espanol
+,,,Juarez,,,(913)-283-1297,,Imelda,,,,,imelda.11.juarez@gmail.com,,,,,,,,,,,"4634 Haskell Ave Kansas City, KS 66104 ",,,The Toolbox,Espanol
+,,,Mohammad,,,(913) 389-5143,,Gulshan,,,,,gmohammad9021@outlook.com,,,,,,,,,,,"11210 W. 49 Terrace, Shawnee KS 66203",,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Evans,,,(913) 938-9121,,Joy,,,,,Mz_Joy913@yahoo.com,,,,,,,,,,,"5407 Woodward Ave, Shawnee, KS 66218",,,Workforce Partnership,English
+,,,Wabi,,,(913) 302-6765,,Desire,,,,,dwabi2530@gmail.com,,,,,,,,,,,"4712 Georgia Ave, Kansas City KS 66104",,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Begum,,,(913) 450-2305,,Shahnaz,,,,,shahnaz881991@gmail.com,,,,,,,,,,,"4016 W. 75th St. , Prairie Village KS 66208",,,Catholic Charities of Northeast Kansas,Other
+,,,Yousufi,,,(913) 325-0324,,Najiba,,,,,yosufinajiba33@gmail.com,,,,,,,,,,,"6301 Cottonwood apt 5, Shawnee Kansas 66216",,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Panahi,,,(913) 280-0945,,Amina,,,,,aminapanahi85@gmail.com,,,,,,,,,,,"600 Minnesota, Kansas City, KS 6101",,,Catholic Charities of Northeast Kansas,"Other,English"
+,,,Panameno,,,(571)-251-7796,,Silvia,,,,,serr22@hotmail.com,,,,,,,,,,,"4728 England St, Merriam, KS 66203",,,The Toolbox,Espanol
+,,,Gutierrez,,,(816)-385-2725,,Jeronima,,,,,sheilagutierrez98@icloud.com,,,,,,,,,,,"2426 Hardesty Ave Kansas City, KS ",,,The Toolbox,Espanol
+,,,Azad,,,(816) 527-5810,,Fawzia ,,,,,fawziaazad0403@gmail.com,,,,,,,,,,,"13907 W. 63rd Apt. 76, Shawnee Mission KS 66216",,,Catholic Charities of Northeast Kansas,English
+,,,Muse,,,(469) 767-0694,,Eunice,,,,,ewmuse62@yahoo.com,,,,,,,Parallel Senior,,,,6246 Parallel Pkwy 102 Kansas City KS 66102,,,Phoenix Family,English
+,,,Hayes,,,(913) 744-9910,,Thelma,,,,,tlhaze@gmail.com,,,,,,,Parallel Senior,,,,"6246 Parallel Pkwy #101 Kansas City, KS 66102",,,Phoenix Family,English
+,,,Gonzalez,,,(913)-206-0819,,Esperanza ,,,,,espiolarte0708@gmail.com,,,,,,,,,,,"65 S  26th St Kansas City, Kansas 66102",,,The Toolbox,Espanol
+,,,Vela,,,(913)-387-8161,,Patricia ,,,,,villalobospaty10@gmail.com,,,,,,,,,,,"533 Splitlog Ave Kansas City, Kansas 66101",,,The Toolbox,Espanol
+,,,Sifuentes,,,(913)-710-8856,,Adriana ,,,,,sif.ady02@gmail.com,,,,,,,,,,,"1031 Custer Kansas City, KS 66105",,,The Toolbox,Espanol
+,,,Tabarez,,,(913)-313-8114,,Roxana,,,,,190marox@gmail.com,,,,,,,,,,,"1837 State Ave Kansas City, KS 66102",,,The Toolbox,Espanol
+,,,Roque,,,(913) 636-3013,,Ana,,,,,nani56@hotmail.com,,,,,,,,,,,"2815 S 8th Terr Kansas City, KS 66103",,,The Toolbox,Espanol
+,,,Cardenas Lopez,,,(913) 388-0529,,Elsa Gabriela,,,,,elsacardenas@gmail.com,,,,,,,,,,,"14708 W 149th Ct, Olathe KS 66062",,,El Centro,Espanol
+,,,Darnell,,,(816) 764-2499,,Nicholas,,,,,darnelln017@gmail.com,,,,,,,,,,,"2712 Spring Ave, Kansas City, KS 66104",,,The Village Initiative,English
+,,,Sanders,,,(816) 541-0409,,Jeremy  ,,,,,sandersjeremy2384@gmail.com,,,,,,,,,,,"5627 Pitkin Ave., Kansas City, KS 66106",,,Workforce Partnership,English
+,,,vasquez,,,(323) 481-8604,,michelle,,,,,Liberty5062@gmail.com,,,,,,,,,,,"2912 west 45th ave kc, ks 66103",,,Donnelly College,English
+,,,Peterson-Maddox,,,(913) 538-8736,,Qiana,,,,,mrsqmaddox@gmail.com,,,,,,,,,,,"6131 Caenen St
+Shawnee, Ks 66216",,,Donnelly College,English
+,,,Martin,,,(913) 277-0867,,Peter,,,,,peterjmartin2247@gmail.com,,,,,,,,,,,6120 N Park street Shawnee KS 66216,,,Donnelly College,English
+,,,Perez Bautista,,,(913)-291-8236,,Rafael,,,,,rayp6717@gmail.com,,,,,,,,,,,1616 South Valley Street ,,,Donnelly College,"English,Espanol"
+,,,betts,,,(816) 863-2043,,Destinee,,,,,nilla_des08@yahoo.com,,,,,,,,,,,7917 grant st apt 31 overland park ks 66204,,,Donnelly College,English
+,,,ybarra,,,(913) 972-3522,,roberto,,,,,robertybarra0131@gmail.com,,,,,,,,,,,7325 Clark st kansas city ks,,,Donnelly College,English
+,,,Vang,,,(660) 424-3758,,Timothy,,,,,timothyvang03@gmail.com,,,,,,,,,,,"4917 Nebraska Ave, 66102, Kansas City, KS",,,Donnelly College,English
+,,,githige,,,(913) 548-3843,,margaret,,,,,margaretgithige@yahoo.com,,,,,,,,,,,890 east old highway 56 olathe kansas ,,,Donnelly College,English
+,,,edson,,,(913) 282-2051,,olive,,,,,aparilolive@gmail.com,,,,,,,,,,,"22808 w 71st terrace shawnee,KS 66227",,,Donnelly College,English
+,,,zelaya,,,(816) 612-1390,,karol,,,,,zkarol070@gmail.com,,,,,,,,,,,13334 W 113TH st overland park kS 66210,,,Donnelly College,"Espanol,English"
+,,,kelly,,,(785) 424-3139,,Nakia,,,,,kellynakia12@gmail.com,,,,,,,,,,,608 N 18th st kansas city kansas,,,Donnelly College,"English,Espanol"
+,,,Calderon,,,(913) 231-1396,,Alexander,,,,,calderon6920@students.donnelly.edu,,,,,,,,,,,1709 Garfield avenue Kansas City Kansas 66104,,,Donnelly College,"Espanol,English"
+,,,Reyes-Ortega,,,(913) 283-2776,,Violeta ,,,,,violeta.reyes.ortega@gmail.com,,,,,,,,,,,"67 S 20th St, Kansas City, KS, 66102",,,Donnelly College,English
+,,,Medina,,,(913) 449-3974,,German,,,,,germanlux340@gmail.com,,,,,,,,,,,837 south 8th street,,,Donnelly College,English
+,,,Sanchez,,,(913) 701-4958,,Jaime,,,,,safra0811@gmail.com,,,,,,,,,,,8700 west 124th St,,,Donnelly College,"English,Espanol"
+,,,bekalu,,,(913) 709-9634,,emebet,,,,,EMEBETBEKALU@GMAIL.COM,,,,,,,,,,,15751 w141st ter olathe KS 66062,,,Donnelly College,English
+,,,Bailey,,,(913) 948-4718,,Dorothy,,,,,dorothybailey072@gmail.com,,,,,,,Parallel Senior,,,,6246 Parallel Pkwy 109 Kansas City KS 66102,,,Phoenix Family,English
+,,,Meyers,,,(913) 954-1343,,Brianna,,,,,briannameyers2023@aol.com,,,,,,,,,,,3209 N 103rd Terrace Kansas CIty KS 66101,,,Workforce Partnership,English
+,,,Moreno,,,(913) 292-4637,,Vanessa,,,,,bossrene07@gmail.com,,,,,,,,,,,"760 Spruce St., Leavenworth, Kansas 66048",,,Workforce Partnership,English
+,,,Lee,,,(913) 436-6047,,Pamela,,,,,pambrown6950@yahoo.com,,,,,,,,,,,3011 N Allis St Kansas City KS 66109,,,Workforce Partnership,English
+,,,Wynn,,,(913) 605-0137,,Susan,,,,,susanwynn3182@gmail.com,,,,,,,Brittany Court,,,,"151 Brittany Ct, Gardner KS 66030",,,Phoenix Family,English
+,,,Ahmadi,,,(913) 420-6084,,Injila Wak,,,,,angelwak680@gmail.com,,,,,,,,,,,3804 booth St  Apt 12 KCK 66103,,,Catholic Charities of Northeast Kansas,English
+,,,Jenkins,,,(913) 415-5093,,John ,,,,,,,,,,,,Town House Renaissance,,,,"1021 N 7th St Kansas City, Kansas 66101 Apt 205",,,Phoenix Family,English
+,,,Watson,,,(913) 249-1702,,Rodney,,,,,,,,,,,,Town House Renaissance,,,,"1021 N 7th St, Kansas City, Kansas 66101 Apt 710",,,Phoenix Family,English
+,,,kamuhanda,,,(412) 509-6753,,Malemu,,,,,malemukamuhunda@gmail.com,,,,,,,,,,,2474 N 38 St Kansas City Kansas 66104,,,Catholic Charities of Northeast Kansas,English
+,,,Tumusifu,,,(913) 249-2337,,Judith,,,,,judithtumusifu00@gmail.com,,,,,,,,,,,"1122 county line Rd, apt 11 KCK 66103",,,Catholic Charities of Northeast Kansas,English
+,,,Young,,,(913) 406-6004,,Brenda ,,,,,bgworldwind09@gmail.com,,,,,,,Brittany Court,,,,"161 Brittany Ct, Gardner KS 66030",,,Phoenix Family,English
+,,,Tyler ,,,(913) 326-0710,,John ,,,,,tylerjt80@gmail.com,,,,,,,,,,,9119 w 113th st.,,,NCircle,English
+,,,Rincones ,,,(620) 290-9019,,Christopher ,,,,,andrewrinconez@gmail.com,,,,,,,,,,,911 West 113th St,,,NCircle,English
+,,,Kathrens,,,(913) 244-5292,,Linda ,,,,,,,,,,,,Brittany Court,,,,"132 Brittany CT, Gardner KS 66030",,,Phoenix Family,English
+,,,Florence,,,(913) 577-5900,,Lori,,,,,loriflorence731@gmail.com,,,,,,,,,,,1415 West ott,,,Workforce Partnership,English
+,,,Graham,,,(913) 999-3489,,Sarah ,,,,,grammy11201958@gmail.com,,,,,,,Brittany Court,,,,"126 Brittany Ct, Gardner KS 66030",,,Phoenix Family,English
+,,,Zellner ,,,(620) 717-1303,,Michael ,,,,,Michaelzellner21@gmail.com,,,,,,,,,,,"9119 w. 113th, Overland park , ks. 66210",,,NCircle,English
+,,,Allen,,,(913) 388-6506,,Amanda,,,,,aeallen.smith@hotmail.com,,,,,,,Brittany Court,,,,"131 Brittany Ct, Gardner KS 66030",,,Phoenix Family,English
+,,,Jones,,,(909) 503-8282,,Sydney,,,,,sydj1313@gmail.com,,,,,,,,,,,"5315 West 119th Terrace Leawood, KS 66209",,,Workforce Partnership,English
+,,,Fazli,,,(816) 534-7798,,Yalda,,,,,zarghonafazli2@gmail.com,,,,,,,,,,,6409 brockway St shawnne Kansas 66226,,,Catholic Charities of Northeast Kansas,English
+,,,McMillan,,,(405) 803-2617,,James,,,,,timechange95@gmail.com,,,,,,,,,,,"4101 S. 4th St, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Taylor,,,(913) 455-3806,,Andre,,,,,andretaylor569@gmail.com,,,,,,,,,,,"4101 S. 4th St, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Wadeed,,,(913) 522-7150,,Adiba,,,,,adibaghiassi18@gmail.com,,,,,,,,,,,6312 widmer Rd  Apt#107  shawnee Kansas 66216,,,Catholic Charities of Northeast Kansas,English
+,,,Kennedy,,,(913) 226-4587,,Claire,,,,,Fiesty5050@gmail.com,,,,,,,Brittany Court,,,,"130 Brittany Ct, Gardner KS 66030",,,Phoenix Family,English
+,,,Croney,,,(913) 209-3769,,Linda,,,,,fayetta.clinda@gmail.com,,,,,,,Brittany Court,,,,"112 Brittany Ct, Gardner KS 66030",,,Phoenix Family,English
+,,,Etemadi,,,(913) 277-1219,,Zainab,,,,,zainabetemadi06@gmail.com,,,,,,,,,,,7620 shawnee mission parkway Apt 305 ks 66202,,,Catholic Charities of Northeast Kansas,Other
+,,,Mugure,,,(913) 218-8751,,CAROLINE,,,,,carolinemugure37@gmail.com,,,,,,,,,,,"14315 W 116th St, Apt 2605, Olathe, Kansas 66062",,,Workforce Partnership,English
+,,,Jones,,,(913) 260-9070,,Melvin,,,,,m48421528@gmail.com,,,,,,,,,,,"3108 N 34th, Kansas City, Kansas 66104",,,Workforce Partnership,English
+,,,Agnew,,,(913) 827-2108,,Chad,,,,,agnew2120@outlook.com,,,,,,,,,,,141 mission pkwy new century KS 66031,,,NCircle,English
+,,,San-Gutierrez,,,(913) 787-5363,,Michael,,,,,mikes777444@gmail.com,,,,,,,,,,,"508 E. Kansas City Rd, Olathe, KS 66061",,,NCircle,English
+,,,Hartz,,,(785) 631-0519,,Terrance,,,,,hartz115177@gmail.com,,,,,,,,,,,"141 Mission Drive, New Century KS 66031",,,NCircle,English
+,,,Stevenson,,,(913) 439-6271,,Larry,,,,,stevensonlarry820@gmail.com,,,,,,,,,,,"6645 Park Street, Shawnee, KS 66216",,,NCircle,English
+,,,Ollie,,,(913) 275-9162,,Franklin,,,,,olliefranklin593@gmail.com,,,,,,,,,,,"10208 Switzer Rd, Overland Park, KS66212",,,NCircle,English
+,,,knox,,,(816) 608-9112,,Leticia  ,,,,,lknox726hobby@yahoo.com,,,,,,,,,,,5717 Outlook Street,,,Workforce Partnership,English
+,,,Abdullahi,,,(737) 285-6113,,Shakila,,,,,mobin.amir200321@gmail.com,,,,,,,,,,,1028 N Cooper St Olathe KS 66061,,,Catholic Charities of Northeast Kansas,English
+,,,Wak,,,(913) 940-2167,,Trina,,,,,trinawak@gmail.com,,,,,,,,,,,6602 Balltine St Shawnee ks 66203,,,Catholic Charities of Northeast Kansas,English
+,,,Etemadi,,,(913) 305-6709,,Marzia,,,,,janmohammadetimady@gmail.com,,,,,,,,,,,9502 W St apt C overland park ks 66212,,,Catholic Charities of Northeast Kansas,English
+,,,Velasquez,,,(913) 680-5306,,Trisha,,,,,tjvelasquez01969@gmail.com,,,,,,,,,,,"101 Woodmoor Ct., Leavenworth, KS 66048",,,Workforce Partnership,English
+,,,Peeples-Gaffney,,,(913) 448-5518,,Barbara,,,,,,,,,,,,Town House Renaissance,,,,"1021 N 7th St, Kansas City, Kansas 66101 APT 701",,,Phoenix Family,English
+,,,Rogers,,,(913) 265-2362,,Sheryl,,,,,Sheryl.rodgers633@gmail.com,,,,,,,,,,,4745 melody lane kansas city kansas 66106,,,Workforce Partnership,English
+,,,Scott,,,(816) 814-2774,,Raini,,,,,raini.whaley27@gmail.com,,,,,,,,,,,"407 Pottawatomie st
+Leavenworth KS 66048",,,Workforce Partnership,English
+,,,Smith,,,(913) 713-9855,,Leslie,,,,,lesandbam05@yahoo.com,,,,,,,,,,,"8326 Orient Drive, Kansas City, KS 66112",,,Workforce Partnership,English
+,,,Rash,,,(913) 250-7998,,Maggie,,,,,mags05139@gmail.com,,,,,,,,,,,"220 Spruce St.  Leavenworth, KS 66048",,,Workforce Partnership,English
+,,,Aguiar,,,(913) 325-6964,,Katie ,,,,,katierochel@yahoo.com,,,,,,,,,,,"2016 Shawnee St, Leavenworth, KS 66048",,,Workforce Partnership,English
+,,,Wright,,,(763) 288-2376,,Marcellus,,,,,wrightmarcellus2@gmail.com,,,,,,,Parallel Senior,,,,"6246 Parallel Pkwy 202 Kansas City, KS 66102",,,Phoenix Family,English
+,,,Watts,,,(813) 410-0576,,Annette,,,,,awatts1939@gmail.com,,,,,,,Parallel Senior,,,,"6246 Parallel Pkwy 307 Kansas City, KS 66102",,,Phoenix Family,English
+,,,Bryant,,,(913) 206-2637,,Patricia,,,,,patbryant863@gmail.com,,,,,,,Parallel Senior,,,,"6246 Parallel Pkwy 214 Kansas City, KS 66102",,,Phoenix Family,English
+,,,Dale,,,(913) 626-5541,,Juanita,,,,,pennymariedale1950@gmail.com,,,,,,,Parallel Senior,,,,"6246 Parallel Pkwy 203 Kansas City, KS 66102",,,Phoenix Family,English
+,,,Nurein,,,(816) 591-1090,,Naima ,,,,,yanouralein@hotmail.com,,,,,,,,,,,"2912 Ralph Bunch Dr, Leavenworth, KS 66048",,,Workforce Partnership,English
+,,,Santamaria,,,(816) 456-0861,,Juana,,,,,marfep02@gmail.com,,,,,,,,,,,"1937 Tennyson St., Kansas City KS, 66104",,,El Centro,Espanol
+,,,Silvan Burelo,,,(913) 927-4076,,Jesus Javier,,,,,jesussilvan1428@gmail.com,,,,,,,,,,,"404 N. 13st, Kansas City KS 66102",,,El Centro,Espanol
+,,,Golden,,,(913) 444-1271,,David,,,,,dagolden85@gmail.com,,,,,,,,,,,"13401 W 70th Terrace, Shawnee Kansas 66216",,,NCircle,English
+,,,Ahmadi,,,(913) 407-8983,,Fayaz,,,,,fayazahmadi169@gmail.com,,,,,,,,,,,9515 Monrovia St apt 203 lenexa Kansas 66215,,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Barrera Santiago,,,(913) 420-7337,,Maria Cristina,,,,,,,,,,,,,,,,"7040 Garnett St, Shawnee KS 66203",,,El Centro,Espanol
+,,,Dominguez,,,(913) 951-9863,,Maytee Aline,,,,,hadamaris572@gmail.com,,,,,,,,,,,"922 Reynolds AVE, Kansas City KS 66101",,,El Centro,Espanol
+,,,Garcia Rodriguez,,,(913) 633-7690,,Claudia Iveth,,,,,yozvan@gmail.com,,,,,,,,,,,"9706 W 83rd Ter, Overland Park, KS 66212",,,El Centro,Espanol
+,,,Dominguez Gutierrez,,,(913) 963-1904,,Anna Luz,,,,,Reyanna765@gmail.com,,,,,,,,,,,"433 N 22nd St., Kansas City KS 66102",,,El Centro,Espanol
+,,,Andino,,,(908) 267-9541,,Angela,,,,,angie-san88@hotmail.com,,,,,,,,,,,"7048 Garnett St, Kansas City KS 66203",,,El Centro,Espanol
+,,,Muñoz Huerta,,,(913) 203-9759,,Rosa Isela ,,,,,Munozrosa2019@gmail.com,,,,,,,,,,,"360 S. Baltimore St., Kansas City KS 66102",,,El Centro,Espanol
+,,,Thomas,,,(918) 430-4423,,Mathew,,,,,mathew_thomas91@yahoo.com,,,,,,,,,,,"4101 S. 4th St, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Ayers,,,(913) 290-3131,,Monica,,,,,ayersmonica62@gmail.com,,,,,,,,,,,"931 Kickapoo St, Leavenworth, KS 66048",,,Workforce Partnership,English
+,,,Earling,,,(785) 438-7863,,Nicholas,,,,,nicholas.earling@gmail.com,,,,,,,,,,,"4101 S. 4th St, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Prosser,,,(719) 426-0930,,Lauri,,,,,plauri480@gmail.com,,,,,,,,,,,"1323 Revolutionary Ct, Leavenworth, KS 66048",,,Workforce Partnership,English
+,,,Farley,,,(816) 208-1139,,Ben,,,,,chuckyclan00@gmail.com,,,,,,,,,,,"1026 Ann Ave, Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Ballesteros Muñoz,,,(913) 602-5741,,Carmen Liliana,,,,,lilianabm97@gmail.com,,,,,,,,,,,"1530 W Mulberry St, Olathe KS 66061",,,El Centro,Espanol
+,,,Mullins,,,(816) 984-6815,,Ma Resha,,,,,maresham297@gmail.com,,,,,,,,,,,"7164 Armstrong Ave, Kansas City, KS 66112",,,The Village Initiative,English
+,,,Zazai,,,(913) 603-4545,,Shabnam,,,,,NA,,,,,,,,,,,126 Emerson Aue Bonner springs KS 66012 ,,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Johnson,,,(913) 326-4896,,Alton,,,,,troy.johns.68@gmail.com,,,,,,,,,,,"309 Highview Ave. Apt.
+ Bonner Springs, KS 66012 ",,,Workforce Partnership,English
+,,,Hudson,,,(913) 413-2323,,Robert,,,,,datboydoughgo@gmail.com,,,,,,,,,,,"1937 N 83rd St, Kansas City, KS 66112",,,The Village Initiative,English
+,,,Mosiro,,,(913) 293-7587,,Wendi,,,,,wendimosiro@yahoo.com,,,,,,,,,,,"6508 Hedge Lane Terrace Apartment 104 Shawnee, KS 66226",,,Workforce Partnership,English
+,,,Clark,,,(913) 927-5527,,Ebone ,,,,,clarkebony001@gmail.com,,,,,,,,,,,8424 Wedd Street Overland Park 66212,,,Workforce Partnership,English
+,,,Spath,,,(913) 704-5555,,Candace ,,,,,cmgbb05@yahoo.com,,,,,,,,,,,"1016 South Street
+Leavenworth KS",,,Workforce Partnership,English
+,,,Amayo,,,(913) 999-8582,,Lisa,,,,,marykaysmission@yahoo.com,,,,,,,,,,,"7162 Ridge Ave, Kansas City, KS 66111",,,Workforce Partnership,English
+,,,Wibrew,,,(913) 279-8360,,Dawn,,,,,wibrewdawn6@gmail.com,,,,,,,,,,,"4109 Strong Ave, Kansas City, KS 66106",,,Workforce Partnership,English
+,,,Warner,,,(785) 917-8739,,Jennifer ,,,,,jenniferwarner172@yahoo.com,,,,,,,Brittany Court,,,,"121 Brittany Ct, Gardner KS 66030",,,Phoenix Family,English
+,,,blakney,,,(816) 226-9356,,tewanda,,,,,tewandab84@gmail.com,,,,,,,,,,,"645 Nebraska Ave., Kansas City, KS",,,Workforce Partnership,English
+,,,De Souza,,,(660) 383-7387,,Salomon,,,,,desouza1644@outlook.com,,,,,,,,,,,6565 Foxridge dr apt 1053,,,Workforce Partnership,"English,Other"
+,,,West,,,(913) 203-6535,,Margarita,,,,,lagunera93@gmail.com,,,,,,,,,,,"83 Royal Drive Kansas City, Kanas 66111",,,The Toolbox,Espanol
+,,,Luna,,,(913) 605-6435,,Perla,,,,,lunaperla878@gmail.com,,,,,,,,,,,"1106 S 75th Terr Kansas City, KS 66111",,,The Toolbox,"English,Espanol"
+,,,Rodriguez,,,19134850622,,Erika ,,,,,ayde801228@gmail.com,,,,,,,,,,,"241 N 14th ST Kansas City, Kansas 66102",,,The Toolbox,Espanol
+,,,Dowdle,,,(815) 953-2121,,Deborah,,,,,wigit365@gmail.com,,,,,,,,,,,"9140 Boehm Dr., Lenexa KS 66219",,,Workforce Partnership,English
+,,,Woolverton,,,(737) 895-2321,,Gary,,,,,garylv002@gmail.com,,,,,,,,,,,"4101 S. 4th St, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Carns,,,(913) 296-3170,,William,,,,,bill.carns@gmail.com,,,,,,,,,,,"4101 S. 4th St, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Barnett,,,(816) 209-3391,,Christopher,,,,,mcblightning185@gmail.com,,,,,,,,,,,"4101 S. 4th St, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Flowers,,,(913) 608-4938,,Andrew,,,,,drunknshooter37@outlook.com,,,,,,,,,,,"4101 S. 4th St, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Ward,,,(816) 562-8444,,Jana,,,,,JLIVINGFREE70@GMAIL.COM,,,,,,,,,,,6100 LEAVENWORTH RD APT 1108 KANSAS CITY KANSAS 66104,,,Workforce Partnership,English
+,,,Johnson,,,(913) 240-3655,,Judy,,,,,jjohnson297@kc.rr.com,,,,,,,,,,,"1816 Garland Ave, Leavenworth Ks",,,Workforce Partnership,English
+,,,Kendrick,,,(913) 558-7053,,Clarissa,,,,,Kendrick5026@students.donnelly.edu,,,,,,,,,,,1223 N 10th Street Kansas City Kansas 66102,,,Donnelly College,English
+,,,McKinnon,,,(773) 354-8594,,Shanita,,,,,shanita_mckinnon@yahoo.com,,,,,,,,,,,"2913 N. Allis St., Kansas City,KS. 66101",,,Donnelly College,English
+,,,Brown,,,(816) 957-5055,,Vanessa,,,,,misslashallbrown@gmail.com,,,,,,,,,,,1526 Valley road,,,Donnelly College,English
+,,,Martin,,,(913) 350-0600,,Henry,,,,,jbrown@footprints.org,,,,,,,,,,,"1026 Ann Ave, Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Anderson,,,(913) 414-7021,,Mylesha,,,,,anderson9037@donnelly.students.edu,,,,,,,,,,,1037 metropolitan ave kansas city kansas 66103,,,Donnelly College,English
+,,,Richardson,,,(785) 404-9046,,CJ,,,,,cjrichardsonjr57@gmail.com,,,,,,,,,,,"4101 S. 4th St, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Foulks,,,(417) 423-0929,,Gina,,,,,Foulksg001@gmail.com,,,,,,,,,,,"6440 Nieman Road, Shawnee, KS 66203",,,Workforce Partnership,English
+,,,Keys,,,(913) 202-2740,,Chauncey ,,,,,keyschauncey58@yahoo.com   chaunceykeys99@yahoo.com,,,,,,,,,,,"915 Washington BLVD APT 617  Kansas city, Kan 66101",,,Workforce Partnership,English
+,,,Zaitseva,,,(816) 405-1500,,Tamara,,,,,,,,,,,,,,,,"8101 Santa Fe Drive, Apt B-1003, Overland Park, KS 66204",,,Jewish Family Services,English
+,,,Kornits,,,(913) 244-1307,,Roza ,,,,,roza.kornits@outlook.com,,,,,,,,,,,"8305 Mastin, OP KS 66212",,,Jewish Family Services,Other
+,,,Cooke,,,(913) 421-7098,,Timothy,,,,,godsnotdeadsogetwoke@gmail.com,,,,,,,,,,,2204 N 5thn street kansas city kansas 66101,,,Workforce Partnership,English
+,,,Epps,,,(816) 257-6064,,Chris,,,,,cle010992@gmail.com,,,,,,,,,,,"3108 N 34th St, Kansas City, KS 66104",,,The Village Initiative,English
+,,,Johnson,,,(913) 558-1600,,Deloris,,,,,deloris9999@gmail.com,,,,,,,Parallel Senior,,,,6246 Parallel pkwy #206 kcks 66102,,,Phoenix Family,English
+,,,Jernigan,,,(601) 272-4282,,James,,,,,bravedawg317@gmail.com,,,,,,,,,,,"925 4th Ave Apt. B
+Leavenworth, KS",,,Workforce Partnership,English
+,,,Ramirez,,,(913) 485-2708,,Julian ,,,,,julianjr182006@gmail.com,,,,,,,,,,,1617 South 28st 66106,,,Donnelly College,English
+,,,GIlmore,,,(913) 548-1368,,Heidi,,,,,gilmore.heidis@gmail.com,,,,,,,,,,,"16016 west 153rd street olathe, ks 66062",,,Workforce Partnership,English
+,,,Fazli,,,(913) 999-9591,,Zarghuna ,,,,,NA,,,,,,,,,,,9601 Monrovia St apt 302 lenexa ks 66215,,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Arefdoust,,,(503) 465-7654,,Majid,,,,,Arefidoust@gmail.com,,,,,,,,,,,9445 W 157th PLace Overland Park KS 66221,,,Catholic Charities of Northeast Kansas,English
+,,,Madrid,,,(913) 293-7748,,Caleb,,,,,calebb2405@gmail.com,,,,,,,,,,,"1101 Metropolitan Avenue Kansas City, Kansas 66103",,,Donnelly College,English
+,,,Rebollo,,,(913) 235-5288,,Karla ,,,,,k4rl.c3@gmail.com ,,,,,,,,,,,"1218 N 18th St Kansas City, Ks 66102 ",,,Donnelly College,English
+,,,Walizada,,,(913) 329-6234,,Zakira,,,,,walizadamadina2@gmail.com,,,,,,,,,,,9516 W 87th St apt D Overland Park KS 66212,,,Catholic Charities of Northeast Kansas,English
+,,,Groshong,,,(913) 534-4938,,Robert,,,,,groshongrobbie634@gmail.com,,,,,,,,,,,"3108 N 34th St, Kansas City, KS 66104",,,The Village Initiative,English
+,,,Bell,,,(913) 617-6705,,Danielle ,,,,,danielle2bell@gmail.com,,,,,,,,,,,"12531 Newton Street 4207 Overland Park, KS 66213 ",,,Workforce Partnership,English
+,,,Lanuza,,,(913) 907-6286,,Angel,,,,,Lanuzaxangel@gmail.com,,,,,,,,,,,"400 S Moonlight Rd #42f, Gardner, KS 66030",,,Donnelly College,"English,Espanol"
+,,,Salinas,,,(816) 507-3167,,Ismael ,,,,,ismaelsalinas518@gmail.com,,,,,,,,,,,"1721 S. 5th St., Leavenworth, KS",,,Workforce Partnership,English
+,,,Ivanov,,,,,Igor,,,,,ivanovihor7777@outlook.com,,,,,,,,,,,"10007 W 83rd Ter, Overland Park, KS 66212",,,Jewish Family Services,Other
+,,,Green,,,(785) 218-2744,,Lisa,,,,,nvlsgreen@yahoo.com,,,,,,,,,,,"2329 S. 9th Kansas City, KS 66103",,,Workforce Partnership,English
+,,,Joyce,,,(936) 499-8149,,Jessica,,,,,kansasjess1313@outlook.com,,,,,,,,,,,"10834 Bradshaw Street, Overland Park, KS 66210",,,Workforce Partnership,English
+,,,Welch,,,(913) 329-6372,,Robert ,,,,,welchrobert26@gmail.com,,,,,,,,,,,"925 4th Ave. Apt. B
+Leavenworth, KS
+",,,Workforce Partnership,English
+,,,Gonzalez Martinez,,,(469) 286-6850,,Steven,,,,,07stegon@gmail.com,,,,,,,,,,,1931 N 27th Street Kansas City Kansas 66104,,,Donnelly College,"English,Espanol"
+,,,zamora,,,(913) 626-8118,,yazmin,,,,,Yazminzamora112206@gmail.com ,,,,,,,,,,,1136 sandusky avu kansas city ks 66102,,,Donnelly College,English
+,,,Barajas ,,,(915) 764-9430,,Domingo ,,,,,jesusbarajas14022007@gmail.com,,,,,,,,,,,"1021 N 22nd St., Kansas City, KS 66102",,,Donnelly College,English
+,,,Banks,,,(913) 388-6147,,Ron,,,,,nytewulf76@gmail.com,,,,,,,Brittany Court,,,,"167 Brittany Ct
+Gardner, KS 66030",,,Phoenix Family,English
+,,,Slaston,,,(913) 808-1443,,Mariia,,,,,mariia66204@outlook.com,,,,,,,,,,,"8101 Santa Fe Drive, Apt B-705, Overland Park, KS 66214",,,Jewish Family Services,Other
+,,,Alcala,,,(913) 275-0642,,Yolanda,,,,,yolandaalcala47@gmail.com,,,,,,,,,,,"936 Scott Ave Lot 5
+Kansas City, Ks
+66105",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Cruz Casiano ,,,(913) 248-5564,,Ernestina ,,,,,ernestinacruz514@gmail.com,,,,,,,,,,,"1509 N 23rd St. Kansas City, Kansas 66102",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Simental,,,(913) 203-6535,,Maria,,,,,Cartita9791@gmail.com,,,,,,,,,,,"2130 N 49th St Kansas City, Kansas 66104",,,The Toolbox,Espanol
+,,,Rojero,,,(913) 449-4698,,Rosa,,,,,rosarojero85@gmail.com,,,,,,,,,,,"512 Tauromee Ave Kansas City, Kansas 66101",,,The Toolbox,Espanol
+,,,Torres,,,(913) 231-9058,,Araceli ,,,,,aracelitorres2875@gmail.com,,,,,,,,,,,"2500 N 45th ST Kansas City, Kansas 66104",,,The Toolbox,"Espanol,English"
+,,,Robles,,,19134891852,,Hector ,,,,,hrobles0977@gmail.com,,,,,,,,,,,905 E Johnston circle Olathe ks 66061,,,The Toolbox,Espanol
+,,,Ealom,,,(913) 277-9339,,Kamesha ,,,,,kamesha576@gmail.com,,,,,,,,,,,"2261 Quindaro Blvd, Kansas City, KS 66104",,,The Village Initiative,English
+,,,DeMoss,,,(913) 442-5349,,Terry,,,,,terrydemoss317.gmail.com,,,,,,,,,,,"3108 N. 34th St. 
+Kansas City, KS 66104",,,The Village Initiative,English
+,,,Espelien,,,(913) 243-2299,,Jodi,,,,,espelienjodi@gmail.com,,,,,,,,,,,"2728 Spring Ave., Kansas City, KS 66104",,,The Village Initiative,English
+,,,Evans,,,(816) 723-2866,,Cierre,,,,,cevans72@stumail.jccc.edu,,,,,(816) 723-2866,,,,,,9743 Rosehill Rd Lenexa KS 66215,,,NCircle,English
+,,,Muradi ,,,,,Sema,,,,,NA,,,,,,,,,,,6312 Widmer Rd Apt 104 Shawnee 66216,,,Catholic Charities of Northeast Kansas,Other
+,,,Nowrozi,,,(913) 295-7952,,Gulsom,,,,,nowrozigulsom@gmail.com,,,,,,,,,,,9540 Halsey St Lenexa Ks 66215,,,Catholic Charities of Northeast Kansas,English
+,,,Rahimi safaei,,,(785) 304-2672,,Massi ,,,,,Rahimimassi@myyahoo.com,,,,,,,,,,,9445 W 157 th place Overland park 66221,,,Catholic Charities of Northeast Kansas,English
+,,,Siyake,,,(816) 591-1512,,Abdi,,,,,asiyake31@gmail.com,,,,,,,,,,,"2912 Ralph Bunch Dr. Apt. 5
+Leavenworth, KS 66048",,,Workforce Partnership,English
+,,,Ingram,,,(816) 519-2519,,Paul,,,,,p6621288@gmail.com,,,,,,,,,,,"4101 S. 4th St. #160, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Viravong,,,(405) 308-1083,,Narin,,,,,narin1.viravong2@gmail.com,,,,,,,,,,,"4101 S. 4th St. #160, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Heflin,,,(913) 340-3543,,Chad,,,,,chadheflin15@gmail.com,,,,,,,,,,,"4101 S. 4th St. #160, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Snider,,,(913) 472-2264,,Chad,,,,,motorheadchad958@gmail.com,,,,,,,,,,,"4101 S. 4th St. #160, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Dominguez Salazar,,,(913) 429-2658,,Christian,,,,,chrisdominnguez@gmail.com,,,,,,,,,,,"4101 S. 4th St. #160, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Buckley,,,(402) 992-0595,,Bobby,,,,,Flash0595@yahoo.com,,,,,,,,,,,"4101 S. 4th St. #160, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Goldsberry,,,(618) 815-1486,,Douglas,,,,,douggoldsberry01@gmail.com,,,,,,,,,,,"4101 S. 4th St. #160, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Davis,,,(618) 367-9112,,Gabriel,,,,,demonseeker071@gmail.com,,,,,,,,,,,"4101 S. 4th St. #160, Leavenworth, KS 66048",,,Veterans Upward Bound,English
+,,,Orekoya,,,(816) 372-5494,,Mary,,,,,marymomoh@yahoo.com,,,,,(816) 372-5494,,,,,,11231 Sortor Drive kansas city KS 66109,,,Donnelly College,English
+,,,Martinez,,,(831) 500-4160,,Lucero,,,,,luceromartinez991@yahoo.com,,,,,(831) 500-4160,,,,,,"8155 Santa Fe Drive
+Overland Park, KS 66204",,,Growing Futures,English
+,,,Arguello,,,(913) 293-2493,,Paola,,,,,,,,,,(913) 293-2493,,,,,,"8155 Santa Fe Dr, Overland Park, KS 66204",,,Growing Futures,Espanol
+,,,Lazaro,,,(913) 538-0082,,Gloria,,,,,glorialaz0320@gmail.com,,,,,(913) 538-0082,,,,,,"8155 Santa Fe Dr. 
+Overland Park, KS  66204",,,Growing Futures,Espanol
+,,,Clark,,,(816) 419-4463,,Amari,,,,,amari081706@gmail.com,,,,,(816) 419-4463,,,,,,"2501 Minnesota Ave, Kansas City, KS 66102",,,Wyandotte High School PTSA,English
+,,,Blevins,,,(785) 393-0569,,Sonnja,,,,,slb12@protonmail.com,,,,,,,,,,,"4907 Broadmoor Street #95 Mission, KS 66202",,,Workforce Partnership,English
+,,,jock,,,(913) 543-0422,,lana,,,,,lanajock@gmail.com,,,,,,,,,,,"5136 Sloan Ave., Kansas City, KS 66104",,,Workforce Partnership,English
+,,,Clayton,,,(402) 830-1128,,Damian,,,,,damiantyclayton01@gmail.com,,,,,,,,,,,"1026 Ann Ave, Kansas City, KS 66102",,,Veterans Upward Bound,English
+,,,Ochoa,,,(913) 526-4751,,Bianca,,,,,bdiaz497@gmail.com,,,,,(913) 526-4751,,,,,,8121 Armstrong Ave,,,Kansas City Kansas Community College,English
+,,,Garcia,,,(913) 633-3256,,Santiana,,,,,santiray505@gmail.com,,,,,(913) 633-3256,,,,,,"Centennial Hall 7360 State Ave., Room 108 A, Kansas City, KS 66112",,,Kansas City Kansas Community College,English
+,,,Bautista Rosas ,,,(913) 244-9347,,Ana Isabel,,,,,anarosas2140@gmail.com,,,,,,,,,,,"3186 Coronado Rd. Kansas City, Kansas 66104",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Briones,,,,,Florina,,,,,danaeguevara3005@gmail.com,,,,,,,,,,,"5137 Freeman Ave., Kansas City, KS, 66102",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Burnett,,,(816) 226-0070,,Samantha,,,,,samibella1989@gmail.com,,,,,,,,,,,"12265 S Strang Line Rd.  Apt. 507 , Olathe, KS 66062",,,Workforce Partnership,English
+,,,Ogden,,,(912) 285-4860,,Patricia ,,,,,ogden216@gmail.com,,,,,,,,,,,304 n. 13th st ,,,Donnelly College,English
+,,,Thatsanithone,,,(913) 302-5377,,Barbara,,,,,brighternewdays2026@icloud.com,,,,,,,,,,,"PO Box 465 
+Leavenworth KS 66048",,,Workforce Partnership,English
+,,,Adel,,,(913) 217-0042,,Guljan ,,,,,adelmaryam604@gmail.com,,,,,,,,,,,8747 broadmoor St Apt 1103 Overland Park KS 66212,,,Catholic Charities of Northeast Kansas,English
+,,,Alfieri,,,(913) 850-2583,,Mona,,,,,monalynn75@gmail.com,,,,,,,,,,,"9400 Pflumm Rd., Lenexa KS  66215",,,Workforce Partnership,English
+,,,Abdalla,,,(240) 792-9138,,Kulthum,,,,,a.kulthum48@gmail.com,,,,,,,,,,,"1901 Spruce St Suite 101
+Leavenworth KS",,,Workforce Partnership,English
+,,,Hudson,,,(913) 461-2446,,Chloe,,,,,chloe.hudson2025@gmail.com,,,,,,,,,,,"519 Pawnee St
+Leavenworth, KS ",,,Workforce Partnership,English
+,,,Edrosa,,,(913) 683-2240,,Justin,,,,,edrosajuro89@gmail.com,,,,,,,,,,,"2611 S. 15th st
+Leavenworth KS",,,Workforce Partnership,English
+,,,Green,,,(913) 787-7052,,La'Nay,,,,,lanaygreen94@gmail.com,,,,,(913) 787-7052,,,,,,"11702 Perry St #2006 Overlandpark, Ks 66210",,,Kansas City Kansas Community College,English
+,,,Camarena,,,(913) 206-4174,,Briana ,,,,,Lazarusmarise05@gmail.com,,,,,(913) 206-4174,,,,,,"7350 State Ave Apt. 220 Kansas City, KS 66112",,,Kansas City Kansas Community College,"English,Espanol"
+,,,Temporale,,,(803) 761-8663,,April,,,,,a21011@hotmail.com,,,,,(803) 761-8663,,,,,,"4011 Lawrence Dr. kc, ks 66106",,,Kansas City Kansas Community College,English
+,,,Orozco Ruiz,,,(913) 999-6503,,Amable Jaquelin ,,,,,Jaquelinbelen1991@gmail.com,,,,,(913) 999-6503,,,,,,"8155 Santa Fe Dr.
+Overland Park, KS 66204 ",,,Growing Futures,Espanol
+,,,Chapell,,,(913) 944-3220,,Aniah ,,,,,Msachapell@gmail.com,,,,,(913) 944-3220,,,,,,2325 N 72nd Street,,,Kansas City Kansas Community College,English
+,,,Parra,,,(913) 242-1652,,Anais ,,,,,anaisestefanyp@gmail.com,,,,,(913) 242-1652,,,,,,8113 Perry st apt 17 Overland Park Kansas 66204 ,,,Growing Futures,Espanol
+,,,Medrano,,,(913) 343-8415,,Jimena,,,,,jimenamedrano74@gmail.com,,,,,,,,,,,"239 N Mill St, Kansas City, KS 66101",,,Avenue of Life,"English,Espanol"
+,,,Montilla Varela,,,(913) 420-6247,,Yoangel,,,,,mo1kh4@icloud.com,,,,,,,,,,,"1007 Lowell Ave, Kansas City, KS, 66102",,,Wyandotte High School PTSA,"English,Espanol"
+,,,Venzor,,,(913) 636-7390,,Anna,,,,,venzorestrada@icloud.com,,,,,,,,,,,"8155 Santa Fe Dr, Overland Park, KS 66204",,,Growing Futures,"English,Espanol"
+,,,Rivera,,,(913) 314-7451,,Glenda,,,,,glendarivera436@gmail.com,,,,,,,,,,,"8155 Santa Fe Dr.
+Overland Park, KS  66204",,,Growing Futures,Espanol
+,,,Rivas Ortiz,,,(913) 218-8987,,Luis ,,,,,luiserivaso@gmail.com,,,,,,,,,,,"8155 Santa Fe Dr., Overland Park, KS 66204",,,Growing Futures,Espanol
+,,,Reyes Marin,,,(913) 274-5651,,Rubi,,,,,rubireyesmarin@gmail.com,,,,,,,,,,,"5217 Hadley st Apt 1, Overland Park Ks 66202",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Martinez Cruz,,,(913) 293-5490,,Melvis,,,,,cristock07@gmail.com,,,,,,,,,,,"8155 Santa Fe Dr., Overland Park, KS  66204",,,Growing Futures,English
+,,,Porter,,,(913) 638-0432,,Kayla ,,,,,kayla.porter13@yahoo.com,,,,,,,,,,,"8155 Santa Fe Dr, Overland Park, KS 66204",,,Growing Futures,English
+,,,Barraza,,,(913) 687-7833,,Gricelda,,,,,gricelda913@icloud.com,,,,,,,,,,,"8155 Santa Fe Dr, Overland Park, KS 66204",,,Growing Futures,"English,Espanol"
+,,,Hasler,,,(913) 608-0065,,Erica,,,,,haslererica@yahoo.com,,,,,,,,,,,"7232 Woodson St. Overland Park, KS 66204 ",,,Growing Futures,English
+,,,Mendoza Gomez ,,,(913) 420-7475,, Lizbeth,,,,, lizbethmendoza0327@gmail.com,,,,,,,,,,,"10401 W 70th Terrace Apartment 103 Shawnee, KS 66203 ",,,Growing Futures,English
+,,,Shirzad,,,(913) 404-3361,,Stayesh ,,,,,seatayeshshirzad@gmail.com,,,,,,,,,,,"2501 Minnesota Ave, Kansas City, 66102",,,Wyandotte High School PTSA,English
+,,,Weldemariam,,,(571) 338-6095,,Selamawit,,,,,alemuselam630@gmail.com,,,,,,,,,,,"8155 Santa Fe Dr. Overland Park, KS 66204 ",,,Growing Futures,English
+,,,Ramirez ,,,(618) 660-6591,,Grabicelia,,,,,Ramiregrabyhernandez07@gmail.com,,,,,,,,,,,7921 Grant st Overland Park ks 66204 apt 36,,,Growing Futures,Espanol
+,,,Velasquez,,,(913) 701-2912,,Rosa ,,,,,lostresriveritas@gmail.com,,,,,,,,,,,"8155 Santa Fe Dr., Overland Park, KS 66204 ",,,Growing Futures,Espanol
+,,,Sui,,,(913) 221-6034,,Van,,,,,hnensui@gmail.com,,,,,,,,,,,"5651 Georgia Ave Kansas City, KS 66104 ",,,Donnelly College,English
+,,,Davis,,,(682) 460-8806,,Andrea,,,,,asanders117_21@live.com,,,,,,,,,,,"2031 N 16th Street Kansas City, KS",,,Donnelly College,English
+,,,Sewell,,,81682594056,,Dorothy,,,,,dorothysewell85@gmail.com,,,,,,,,,,,2129 north 44th st kansas city kansas 66104,,,Donnelly College,English
+,,,Barner,,,(913) 265-9847,,Breeann,,,,,breeannbarner@yahoo.com,,,,,,,,,,,10217 W 80TH ST. apt 275 overland park ks 66204,,,Donnelly College,English
+,,,Young,,,(913) 442-5218,,Candace,,,,,candaceyoungjohnson@gmail.com,,,,,,,,,,,"7040 Haskell Avenue Kansas City, KS. 66109",,,Donnelly College,English
+,,,Valadez,,,(913) 749-2964,,Luciano,,,,,luciano.valadez686@gmail.com,,,,,,,,,,,1741 s 31st st,,,Donnelly College,English
+,,,Rojas,,,(913) 972-0536,,Myriah,,,,,myriahrojas@gmail.com,,,,,,,,,,,304 N.35th st. ,,,Donnelly College,English
+,,,Martinez Mendez,,,(913) 260-3482,,Sonia ,,,,,mendezsonia584@gmail.com,,,,,,,,,,,"8155 Santa Fe Dr, Overland Park, KS 66204",,,Growing Futures,"English,Espanol"
+,,,Carter,,,(816) 499-0696,,Brandy,,,,,brandy.carter3636@gmail.com,,,,,,,,,,,3012 N 30th Street Kansas City Kansas,,,Donnelly College,English
+,,,de la torre,,,(913) 749-6184,,lady elizabeth,,,,,ladyramirez_09@icloud.com,,,,,,,,,,,37655 us 169,,,Donnelly College,English
+,,,Nyanyuki,,,(913) 602-9156,,Sharon,,,,,sharonya2003@yahoo.com,,,,,,,,,,,1309E123rdTer  olathe  kansass apt D 66061,,,Donnelly College,English
+,,,Martinez,,,(725) 225-8700,,Yesenia,,,,,nohemi.kcrealtor@gmail.com,,,,,,,,,,,6110 Flint St,,,Growing Futures,English
+,,,Alejo,,,(913) 579-6534,,Yadira,,,,,yalejo248@hotmail.com,,,,,,,,,,,"248 S 14 St, Kansas City, KS 66102",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Martinez,,,(405) 532-2048,,Catalina,,,,,martinezzavalacatalina@gmail.com,,,,,,,,,,,"5242 Osage Ave, Kansas City, Kansas 66106",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Putter,,,(913) 827-8314,,Addisyn ,,,,,addy.j.putter@gmail.com,,,,,,,,,,,"2965 Hiawatha street, Kansas City, KS 66104",,,Avenue of Life,English
+,,,Reyes Pinto,,,(913) 494-5185,,Julio,,,,,juliojosereyespinto@icloud.com,,,,,,,,,,,"2745 N 32nd St, Kansas City, KS 66104",,,Avenue of Life,English
+,,,Vaquera ,,,(913) 404-3307,,Claudia ,,,,,dayannavazquezvaquera@gmail.com,,,,,,,,,,,1501 Walker Ave Kansas City KS 66104,,,Avenue of Life,Espanol
+,,,Serrano,,,(816) 933-6448,,Jordy ,,,,,yordyserrano11@gmail.com,,,,,,,,,,,"554 Westvale Rd, Kansas City, KS 66102",,,Avenue of Life,"English,Espanol"
+,,,Perez,,,(913) 296-1393,,Karelynn,,,,,perezkarelynn@gmail.com,,,,,,,,,,,"1115 Freeman Ave. Kansas City, Kansas 66102",,,Avenue of Life,"English,Espanol"
+,,,Ntibunguka,,,(913) 343-7462,,Nibogola,,,,,tutuniyo1@gmail.com,,,,,,,,,,,"325 S 8th Street, Kansas City, KS 66101",,,Wyandotte High School PTSA,English
+,,,Scott,,,(702) 813-4062,,Kimora ,,,,,Scottkimora369@gmail,,,,,,,,,,,833 N 63rd st,,,Wyandotte High School PTSA,English
+,,,Sanford,,,(913) 447-5322,,Germya,,,,,germyasanford7@gmail.com,,,,,,,,,,,2501 Minnesota Ave KC KS 66102,,,Avenue of Life,English
+,,,Gladney,,,(913) 280-6540,,Daleah,,,,,goldiegladney@gmail.com,,,,,,,,,,,"2501 minnesota ave, Kansas City, KS 66102",,,Avenue of Life,English
+,,,De Santiago,,,(913) 523-4781,,Thania,,,,,yleyva070@gmail.com,,,,,,,,,,,"2136 Orville Ave Kansas City KS, 66102",,,Wyandotte High School PTSA,Espanol
+,,,McLear,,,(913) 907-4378,,Alesia,,,,,alesiamcl04@gmail.com,,,,,,,,,,,3601 tauromee Ave Kansas city kansas,,,Kansas City Kansas Community College,English
+,,,Winkler,,,(913) 416-0390,,Tabitha,,,,,chrisann21018@gmail.com,,,,,,,,,,,"2065 Copper Creek Ct
+Tonganoxie Ks 66086",,,Kansas City Kansas Community College,English
+,,,Coleman,,,(913) 948-3607,,Ashley,,,,,ashley.coleman.ac@gmail.com,,,,,,,,,,,"7135 Splitlog Circle
+Kansas City, Ks 66112",,,Kansas City Kansas Community College,English
+,,,Williams Sawyer,,,(913) 289-0585,,Monica,,,,,prof3ssormws@outlook.com,,,,,,,,,,,1904 N 77th Street Apt. 9 Kansas City Kansas 66112,,,Kansas City Kansas Community College,English
+,,,Boyd,,,(816) 938-5281,,Yakethia,,,,,,,,,,,,,,,,3900 Booth St. Kansas City KS APT 5 66103,,,Kansas City Kansas Community College,English
+,,,Elias-Brown,,,(913) 832-0158,,Diamond,,,,,diamond.elias23@gmail.com,,,,,,,,,,,"1863 N 36th Street Kansas City, Kansas 66102",,,Kansas City Kansas Community College,English
+,,,Lee,,,(913) 956-1237,,Justin,,,,,73justn@gmail.com,,,,,,,,,,,"529 N.81st Terrace, Kansas City. KS",,,Kansas City Kansas Community College,English
+,,,Oropeza,,,(913)-415-6721,,Elisa,,,,,elisaoropeza2018@gmail.com,,,,,,,,,,,"270 N 6th St. Kansas City, Kansas 66101",,,Kansas City Kansas Community College,English
+,,,williams,,,(816) 500-0228,,delorrianne,,,,,williams.delorrianne@gmail.com,,,,,,,,,,,7421 armstrong ave,,,Kansas City Kansas Community College,"English,Espanol"
+,,,Marquez,,,(620) 937-3369,,Iran ,,,,,immarquez2025@gmail.com,,,,,,,,,,,"7360 State ave, kansas city, kansas 66112",,,Kansas City Kansas Community College,English
+,,,Flores,,,(913) 442-2222,,Dante,,,,,shaquille.oatmeals@outlook.com,,,,,,,,,,,"7300 State Ave, APT 618, Kansas City, Kansas, 66112",,,Kansas City Kansas Community College,English
+,,,Uk,,,(913) 954-9834,,Nilensung,,,,,nitheinsung@gmail.com,,,,,,,,,,,"2515 N 73rd St, Kansas City, KS 66109",,,Kansas City Kansas Community College,English
+,,,Hooks,,,(913) 250-8822,,Deontae ,,,,,roarkdeontae@gmail.com,,,,,,,,,,,148 armour st bonner springs Kansas ,,,Kansas City Kansas Community College,English
+,,,Williams ,,,(913) 283-1180,,J'myAniece,,,,,jmyaniece06@gmail.com,,,,,,,,,,,3216 farrow avenue kansas city kansas 66104 ,,,Kansas City Kansas Community College,English
+,,,Davis,,,(913) 980-1538,,Merrill,,,,,merrilld224@gmail.com,,,,,,,,,,,7360 State Ave Kansas City Kansas 66112,,,Kansas City Kansas Community College,English
+,,,Osborne,,,(210) 380-1894,,Briazia,,,,,briazia.osborne24@gmail.com,,,,,,,,,,,"7360 State Ave Kansas City, KS 66112 Apt 311B",,,Kansas City Kansas Community College,English
+,,,Caldwell,,,(816) 304-3558,,Alisha,,,,,calisha5@icloud.com,,,,,,,,,,,"3902 college ave Kansas City, mo 64130",,,Kansas City Kansas Community College,English
+,,,Lee,,,(913) 213-8575,,Antonia,,,,,ingelsea@gmail.com,,,,,,,,,,,"529 N 81st Ter
+Kansas City, KS 66112",,,Kansas City Kansas Community College,English
+,,,english,,,(913) 940-6563,,michael,,,,,michaelenglish332@gmail.com,,,,,,,,,,,"431 Castle Dr, Bonner Springs, KS 66012",,,Kansas City Kansas Community College,English
+,,,Anderson,,,(913) 754-6220,,Brendan,,,,,bmmanderson99@gmail.com,,,,,,,,,,,"7360 State Ave, Kansas City, Ks 66112 Apt. 222B",,,Kansas City Kansas Community College,English
+,,,Jackson,,,(913) 368-2827,,Erianna,,,,,eriannajackson9@gmail.com,,,,,,,,,,,"4326 N 106th St Kansas City, Ks 66109",,,Kansas City Kansas Community College,English
+,,,Boyer,,,(719) 344-0522,,Brandi,,,,,bkayy719@gmail.com,,,,,,,,,,,"7250 State Ave Kansas City, KS, 66112",,,Kansas City Kansas Community College,English
+,,,Bowen,,,(913) 278-5654,,Gabriella ,,,,,bowen.gabriella04@gmail.com,,,,,,,,,,,"7360 State Ave Apt. 406A, Kansas City, KS, 66112",,,Kansas City Kansas Community College,English
+,,,Yousufi,,,(913) 325-0324,,Najiba,,,,,yosufinajiba33@gmail.com,,,,,,,,,,,"6301 Cottonwood apt 5
+Shawnee Kansas 66216",,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Zazai,,,(913) 603-4545,,Shabnam,,,,,shabnamzazai21@gmail.com,,,,,,,,,,,126 Emerson Aue Bonner springs KS 66012 ,,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Hassani,,,(913) 602-3347,,Nikbakht,,,,,nikbakhthassani63@gmail.com,,,,,,,,,,,9504 W 87th St Apt C Overland Paark 66212,,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Vang,,,(913) 277-9511,,Shyanne,,,,,shy4nneeloll@gmail.com,,,,,,,,,,,"1869 N 30 ST, Kansas City, Kansas 66104",,,Avenue of Life,English
+,,,peoples,,,(913) 215-2617,,cartez,,,,,tezpeeps@gmail.com,,,,,,,,,,,7320 yecker ave,,,Kansas City Kansas Community College,English
+,,,Neal,,,(816) 739-1946,,Quentella,,,,,,,,,,,,,,,,25321 w149th ct Olathe ks 66061,,,Growing Futures,English
+,,,Hanova,,,(913) 328-2799,,Gala,,,,,gala.hanova@gmail.com,,,,,,,,,,,"10019 W. 92nd Place Overland Park, KS 66212",,,Jewish Family Services,English
+,,,Martin,,,(913) 257-6647,,Emma,,,,,emmochk42@outlook.com,,,,,,,,,,,"8314 Farley St., Building 2, Apt 8314, Overland Park, KS 66212-4420",,,Jewish Family Services,English
+,,,Hambardzumova,,,(913) 674-7118,,Tamara,,,,,tamara66233@gmail.com,,,,,,,,,,,"8101 Santa Fe Dr., Apt B-605, Overland Park, KS 66204",,,Jewish Family Services,Other
+,,,Zaitseva,,,(816) 405-1500,,Tamara,,,,,tamara66204@outlook.com,,,,,,,,,,,"8101 Santa Fe Drive, Apt B-1003, Overland Park, KS 66204",,,Jewish Family Services,English
+,,,Slaston,,,(913) 808-1443,,Mariia,,,,,syeager@jfskc.org,,,,,,,,,,,"8101 Santa Fe Drive, Apt B-705, Overland Park, KS 66214",,,Jewish Family Services,Other
+,,,Rivera Villeda,,,(913) 278-4981,,Dunia,,,,,Villedadunia76@gmail.com,,,,,,,,,,,"8455 Robinson St Apt 102 Overland Park, KS 66212",,,Growing Futures,Espanol
+,,,Avendano,,,(913) 265-6752,,Martha,,,,,marhavendano03@gmail.com,,,,,,,,,,,"6701 W 88th St. Apt.1501 Overland Park, Kansas 66212",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Sanderson ,,,(561) 677-0871,,Sara ,,,,,sarasanderson12@gmail.com,,,,,(561) 677-0871,,,,,,"8155 Santa Fe Dr.
+Overland Park, KS 66204",,,Growing Futures,English
+,,,Alonzo Chavez,,,(913) 221-8534,,Jenny ,,,,,bryan.chavez.mal@gmail.com,,,,,(913) 221-8534,,,,,,"1420 Armstrong Avenue, Kansas City, Kansas 66102 ",,,Wyandotte High School PTSA,English
+,,,Torres,,,(913) 991-8435,,Nelly,,,,,edithzayas29@gmail.com,,,,,,,,,,,"8155 Santa Fe Drive
+Overland Park, KS 66204",,,Growing Futures,Espanol
+,,,Zellner ,,,(620) 717-1303,,Michael ,,,,,Michaelzellner21@gmail.com,,,,,,,,,,,"9119 w. 113th 
+Overland park , ks. 66210",,,NCircle,English
+,,,Wabi,,,(913) 302-6765,,Desire,,,,,dwabi2530@gmail.com,,,,,,,,,,,"4712 Georgia Ave
+Kansas City KS 66104",,,Catholic Charities of Northeast Kansas,"English,Other"
+,,,Nalunkuma,,,(913) 368-5569,,Shirat,,,,, shiratmuhamad34@gmail.com,,,,,(913) 368-5569,,,,,,"221 N 16th St. 
+Kansas City, Kansas 66102",,,Catholic Charities of Northeast Kansas,English
+,,,De Anda Keegan,,,(913) 944-1636,,Maria,,,,,maria.deanda2003@outlook.com,,,,,(913) 944-1636,,,,,,"8155 Santa Fe Drive
+Overland Park, KS 66204",,,Growing Futures,English
+,,,Bell,,,(585) 775-6770,,Malinda,,,,,malindabell93@gmail.com,,,,,(585) 775-6770,,,,,,"8155 Santa Fe Drive
+Overland Park, KS 66204",,,Growing Futures,English
+,,,Jones,,,(913) 683-3637,,Erikka,,,,,erikka_jones@yahoo.com,,,,,(913) 683-3637,,,,,,"2916 Ralph Bunch Drive, Apt 5
+Leavenworth, KS 66048",,,Catholic Charities of Northeast Kansas,English
+,,,Villegas,,,(913) 645-2008,,Belen,,,,,belenmaria1186@gmail.com,,,,,(913) 645-2008,,,,,,"8155 Santa Fe Drive
+Overland Park, KS 66204",,,Growing Futures,Espanol
+,,,Herren,,,(509) 730-6808,,Samantha,,,,,herrensamantha@gmail.com,,,,,(509) 730-6808,,,,,,"417 W Poplar St, Olathe KS 66061",,,Kansas City Kansas Community College,English
+,,,Kwarteng,,,(218) 260-9679,,Dora Fowaah,,,,,dkfowaah@gmail.com,,,,,(218) 260-9679,,,,,,"1731 n 73rd ter, 66112 apt-4",,,Kansas City Kansas Community College,English
+,,,Harris,,,(913) 249-2576,,Ma'Niyah,,,,,marai16k4@gmail.com,,,,,(913) 249-2576,,,,,,"1702 Birch Street, Kansas City, KS 66106",,,Wyandotte High School PTSA,English
+,,,Ray,,,(816) 352-7083,,Lindsey,,,,,lindseyray1117@gmail.com,,,,,(816) 352-7083,,,,,,"8155 Santa Fe Drive
+Overland Park, KS 66204",,,Growing Futures,English
+,,,Boyd,,,(913) 913.982.7093,,Neikia,,,,,neikiaboyd65@gmail.com,,,,,(913) 913.982.7093,,,,,,800 Washington Blvd Apt 306,,,BuildWyCo,English
+,,,Hickmon,,,(913) 710-6743,,Zachariah ,,,,,zhick0045@students.kckcc.edu,,,,,(913) 710-6743,,,,,,2201 N 55th Street,,,Kansas City Kansas Community College,English
+,,,Boykin,,,(816) 457-1084,,Araya,,,,,arayaboykin@gmail.com,,,,,(816) 457-1084,,,,,,"1121 N 36th St, Kansas City, KS 66102",,,Jobs for Americas Graduates- Kansas (JAG-K),English
+,,,Gaitan,,,(816) 715-3334,,Eduardo,,,,,jacktron07@gmail.com,,,,,(816) 715-3334,,,,,,"8340 Everett Ave Kansas City, KS 66112",,,Jobs for Americas Graduates- Kansas (JAG-K),English
+,,,Hickerson,,,(816) 831-2181,,Mashayla,,,,,mlhicker@gmail.com,,,,,(816) 831-2181,,,,,,"1811 N 76th ST Kansas City,KS 66112",,,Kansas City Kansas Community College,English
+,,,Edwards,,,(904) 769-0655,,Blake,,,,,videogameblake@gmail.com,,,,,(904) 769-0655,,,,,,321 frances lane apt 106 Lansing Kansas 66043,,,Kansas City Kansas Community College,English
+,,,bevers,,,(913) 820-7060,,jessica,,,,,jbeve1717@students.kckcc.edu,,,,,(913) 820-7060,,,,,,939 Orvell Ave Kansas city MO 66101,,,Kansas City Kansas Community College,English
+,,,Barrientos-Sanchez,,,(913) 265-9256,,Gabriela,,,,,gabrielabarrientos8458@gmail.com,,,,,(913) 265-9256,,,,,,7511 Monrovia st Shawnee KS,,,Kansas City Kansas Community College,English
+,,,Lewis,,,(816)-647-4455,,Kyla ,,,,,Kylalewis09@gmail.com,,,,,(816)-647-4455,,,,,,15th N 10th St Apt 1001 KCK 66102,,,The Toolbox,English
+,,,Lewis,,,(864) 494-9577,,Britani,,,,,blewis70@sccsc.edu,,,,,(864) 494-9577,,,,,,"2401 Vilas St. 
+Leavenworth, KS 66048",,,Catholic Charities of Northeast Kansas,English
+,,,Sanchez,,,(913) 742-9507,,Liliana,,,,,1amores1216@gmail.com,,,,,(913) 742-9507,,,,,,"1400 E Ridgeway Dr Apt D204 Olathe, KS 66061",,,El Centro,Espanol
+,,,kayitesi,,,(913) 250-9526,,bertha,,,,,berthakayitesi3@gmail.com,,,,,(913) 250-9526,,,,,,1311 n 133rd terrace kansas city KS 66109,,,Kansas City Kansas Community College,"Other,English"
+,,,Valdez,,,(913) 777-8837,,Carmen ,,,,,Carmen.valdez.jccc@gmail.com,,,,,(913) 777-8837,,,,,,4930 w 55th st roeland park,,,Kansas City Kansas Community College,Espanol
+,,,Brink,,,(913) 907-7174,,Melissa,,,,,melissabrink98@yahoo.com,,,,,(913) 907-7174,,,,,,1975 s 32nd st kck 66106,,,Kansas City Kansas Community College,English
+,,,Amparo Martinez,,,(913) 449-7873,,Maria,,,,,,,,,,(913) 449-7873,,,,,,"1600 Lake Ave
+66103
+Kansas City, KS",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Limas Moreno,,,(509) 504-8723,,Sarah,,,,,,,,,,(509) 504-8723,,,,,,"10801 McKay St, Apt F
+66210
+Overland Park, KS",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Gonzalez Carrillo,,,(913) 274-6118,,Erika,,,,,erika.gonzalez.jccc@gmail.com,,,,,(913) 274-6118,,,,,,"4930 W 55th St, Roeland Park ks 66205",,,Kansas City Kansas Community College,Espanol
+,,,Castaneda ,,,(913) 420-0893,,Luisa ,,,,,,,,,,(913) 420-0893,,,,,,"1911 ARMSTRONG AVE
+Kansas City, KS 66102",,,Jobs for Americas Graduates- Kansas (JAG-K),Espanol
+,,,Buckaloo,,,(913) 602-2037,,Matthew,,,,,buckaloo74@gmai.com,,,,,(913) 602-2037,,,,,,"3504 Georgia Ave., Kansas City, KS, 66104",,,The Village Initiative,English
+,,,Culich,,,(816) 313-7975,,John,,,,,johnculich1962@gmail.com,,,,,,,,,,,"730 Nebraska Ave #703, Kansas City KS 66101",,,The Village Initiative,English
+,,,Torres,,,(913) 593-1426,,Eva,,,,,,,,,,,,,,,,7241 Kansas Ave Kansas 66111,,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Egnatic,,,(913) 980-6717,,Megan,,,,,megnatic@live.com,,,,,,,,,,,"640 South 81st Street Kansas City, Kansas 66111",,,Kansas City Kansas Community College,English
+,,,Juarez,,,(407) 866-8806,,Sabrina,,,,,sab88rina@icloud.com,,,,,,,,,,,11934 Goodman St Overland Park KS 66213,,,Kansas City Kansas Community College,English
+,,,Kirkwood,,,(816) 328-9227,,Linda,,,,,lindkirk58@yahoo.com,,,,,(816) 328-9227,,,,,,"2919 N. 27th St.
+66104 Kansas City, KS",,,The Village Initiative,English
+,,,Araujo,,,(913) 313-1632,,Piere,,,,,piere.araujo@icloud.com,,,,,(913) 217-0168,,,,,,"1865 N 32nd St. Kansas City, Kansas 66104",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Araujo,,,(913) 313-1632,,Piere,,,,,piere.araujo@icloud.com,,,,,(913) 313-1632,,,,,,"1865 N 32nd St. Kansas City, Kansas 66104",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Garcia,,,(620) 528-4788,,Jeremy ,,,,,sugarfreeb7@gmail.com,,,,,(620) 528-4788,,,,,,"208 S. 39th St.
+KANSAS CITY, KS 66106",,,The Village Initiative,English
+,,,Sanchez Veloz,,,(913) 280-8661,,Alexander,,,,,VelozAlexander21@gmail.com,,,,,(913) 280-8661,,,,,,1510 cleveland ave Kansas City KS 66104,,,Jobs for Americas Graduates- Kansas (JAG-K),English
+,,,Cabal,,,(913) 972-1727,,Angel,,,,,angelcabal1108@gmail.com,,,,,(913) 972-1727,,,,,,1601 Freeman Avenue Kansas City Kansas 66102,,,Jobs for Americas Graduates- Kansas (JAG-K),English
+,,,Vasquez,,,(913) 605-4914,,Katty,,,,,katty1vasquez@gmail.com,,,,,(913) 605-4914,,,,,,"4219 Leavenworth Rd Kansas City, KS 66104",,,Kansas City Kansas Community College,"English,Espanol"
+,,,Atkins,,,(785) 380-6964,,A'Mauri,,,,,,,,,,(785) 380-6964,,,,,,7360 state ave ,,,Kansas City Kansas Community College,English
+,,,Thant,,,(913) 295-4699,,Aung,,,,,aungkthantus@gmail.com,,,,,(913) 295-4699,,,,,,"1606N 77th Terrace, Kansas City, Kansas, 66112",,,Kansas City Kansas Community College,English
+,,,Moore,,,(913) 408-0087,,Jazman,,,,,jarealbenevan123@gmail.com,,,,,,,,,,,"2727 S 71st. PL Lot#46
+Kansas City, KS. 66106 ",,,Kansas City Kansas Community College,English
+,,,Perez,,,(913) 605-3844,,Esperanza,,,,,,,,,,,,,,,,"7905 Kessler St, Overland Park, KS, 66204",,,Latinx Education Collaborative (EducaTec),Espanol
+,,,Estrada,,,(913) 481-9417,,Manuel,,,,,,,,,,,,,,,,"7203 Goddard St., Shawnee, KS",,,Latinx Education Collaborative (EducaTec),English
