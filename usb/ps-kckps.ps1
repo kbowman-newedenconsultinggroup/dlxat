@@ -5,6 +5,7 @@ Get-AppXPackage RealtekSemiconductorCorp.HPAudio* -AllUsers | Remove-AppXPackage
 Get-AppxPackage Microsoft.YourPhone -AllUsers | Remove-AppxPackage
 
 D:\importBookmarks.ps1
+D:\importBookmarks-kckps.ps1
 D:\importBookmarks-Libraries.ps1
 D:\importBookmarks-Healthcare.ps1
 
