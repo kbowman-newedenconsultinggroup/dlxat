@@ -16,6 +16,7 @@ COMPANY_MAP = {
     "Catholic Charities of Northeast Kansas": "Catholic Charities",
     "Latinx Education Collaborative (EducaTec)": "LEC",
     "Jobs for Americas Graduates- Kansas (JAG-K)": "Jobs for Americas Graduates",
+    "Sumner Academy of Arts & Science PTSA": "Sumner Academy",
 }
 
 def normalize_company(name: str) -> str:
