@@ -17,7 +17,7 @@ $bookmarksToAdd = @(
   @{ name = "Kansas Housing Resource Corporation"; url = "https://kshousingcorp.org"},
   @{ name = "KC Common Good"; url = "https://kccommongood.org"},
   @{ name = "Revolve KC (Earn-a-Bike Program)"; url = "https://www.revolvekc.org/earn-a-bike"},
-  @{ name = "Ride KC (Regional Transit) https://ridekc.org"},
+  @{ name = "Ride KC (Regional Transit)"; url= "https://ridekc.org"},
   @{ name = "Social Security"; url = "https://www.ssa.gov"},
   @{ name = "Trauma Informed Care Implementation Recourse Center"; url = "https://www.traumainformedcare.chcs.org/what-is-trauma-informed-care/"},
   @{ name = "Vibrant Health"; url = "https://vibranthealthkc.org"},

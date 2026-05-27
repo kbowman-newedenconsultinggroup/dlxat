@@ -7,3 +7,6 @@ hp-warrantychecker/*.csv
 data/transform/*.csv
 data/transform/*.log
 data/transform/2026*/
+data/airtableexport/*.csv
+data/airtableexport/*.log
+data/airtableexport/2026*/
